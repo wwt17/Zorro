@@ -4,26 +4,27 @@ alongside their frequency in corpora of interest (e.g. childes, newsela, wikiped
 
 A huggingface tokenizers v0.10 configuration file is expected.
 """
+import argparse
 import spacy
+from spacy.tokens import Doc
 import json
 from pathlib import Path
 import pandas as pd
 from zorro import configs
 
-PATH_TOKENIZER = '/home/ph/BabyBERTa/data/tokenizers/babyberta.json'
-PATH_CORPORA = '/home/ph/BabyBERTa/data/corpora'
-DRY_RUN = False
 
-# get vocab from tokenizer, without space symbol
-with open(PATH_TOKENIZER) as f:
-    tokenizer_data = json.load(f)
-vocab = {w for w in tokenizer_data['model']['vocab'].keys()}
-vocab_no_space_symbol = {w.strip(configs.Data.space_symbol) for w in vocab}
-
-# keep track of which words are excluded - not a candidate for being inserted into test sentences
-nds = (configs.Dirs.external_words / "non-dictionary.txt").open().read().split()
-sws = (configs.Dirs.external_words / "stopwords.txt").open().read().split()
-excluded_words = set(nds + sws)
+POS_TAGS = [
+    'NNP',  # proper noun
+    'NN' ,
+    'NNS',
+    'JJ' ,
+    'VB' ,  # base form of verb
+    'VBD',  # verb past tense
+    'VBG',  # verb gerund or present participle
+    'VBN',  # verb past participle
+    'VBP',  # verb non-3rd person singular present
+    'VBZ',  # verb 3rd person singular present
+]
 
 
 def is_excluded(w: str):
@@ -36,98 +37,125 @@ def is_excluded(w: str):
         return True
     # word must be whole-word in vocab (must have space_symbol).
     # e.g. "phones" may not be in vocab, while its singular form is
-    if f'{configs.Data.space_symbol}{w}' not in vocab:
+    if args.whole_word and f'{configs.Data.space_symbol}{w}' not in vocab:
         return True
     return False
 
 
-def init_row(word: str,
-             tag: str,
-             corpus_initial_: str,
-             is_excluded_: bool = False,
-             ):
-    res = {
-        'NNP': 1 if tag == 'NNP' else 0,
-        'NN': 1 if tag == 'NN' else 0,
-        'NNS': 1 if tag == 'NNS' else 0,
-        'JJ': 1 if tag == 'JJ' else 0,
-        'VB': 1 if sw.tag_ == 'VB' else 0,  # base form of verb
-        'VBD': 1 if sw.tag_ == 'VBD' else 0,  # verb past tense
-        'VBG': 1 if sw.tag_ == 'VBG' else 0,  # verb gerund or present participle
-        'VBN': 1 if sw.tag_ == 'VBN' else 0,  # verb past participle
-        'VBP': 1 if sw.tag_ == 'VBP' else 0,  # verb non-3rd person singular present
-        'VBZ': 1 if sw.tag_ == 'VBZ' else 0,  # verb 3rd person singular present
-        'total-frequency': 1 if not is_excluded_ else 0,
-        'is_excluded': is_excluded_ or is_excluded(word),
+def update_row(
+        df: pd.DataFrame,
+        idx: int,
+        tag: str,
+        corpus_name: str,
+):
+    try:
+        df.loc[idx, tag] += 1 # type: ignore
+    except KeyError:
+        pass
+    df.loc[idx, 'total-frequency'] += 1 # type: ignore
+    try:
+        df.loc[idx, f'{corpus_name}-frequency'] += 1 # type: ignore
+    except KeyError:
+        pass
+
+
+if __name__ == "__main__":
+    argparser = argparse.ArgumentParser()
+    argparser.add_argument(
+        "--tokenizer_file", type=Path,
+        help="Path to the HuggingFace tokenizer configuration file."
+    )
+    argparser.add_argument(
+        "--vocab_file", type=Path,
+        help="Path to the vocab file."
+    )
+    argparser.add_argument(
+        "--corpora", type=Path, nargs="*", required=True,
+        help="Paths to the corpora."
+    )
+    argparser.add_argument(
+        "--whole_word", action="store_true",
+        help="Ensure remaining words to be whole words."
+    )
+    argparser.add_argument(
+        "--dry_run", action="store_true",
+    )
+    argparser.add_argument(
+        "--dry_run_n_sentences", type=int, default=100
+    )
+    args = argparser.parse_args()
+
+    if args.vocab_file is not None:
+        vocab_name = args.vocab_file.stem
+        with open(args.vocab_file) as f:
+            vocab = json.load(f)
+    elif args.tokenizer_file is not None:
+        vocab_name = args.tokenizer_file.stem
+        # get vocab from tokenizer, without space symbol
+        with open(args.tokenizer_file) as f:
+            tokenizer_data = json.load(f)
+        vocab = tokenizer_data['model']['vocab']
+    else:
+        raise Exception("Must provide either tokenizer_file or vocab_file.")
+    assert isinstance(vocab, dict)
+    assert max(vocab.values()) + 1 == len(vocab)
+    vocab_no_space_symbol = {w.strip(configs.Data.space_symbol) for w in vocab}
+    vocab_no_space_symbol = {
+        w: idx for idx, w in enumerate(vocab_no_space_symbol)
     }
-    for ci in corpus_names:
-        res[f'{ci}-frequency'] = 1 if ci == corpus_initial_ else 0
 
-    return res
+    # keep track of which words are excluded - not a candidate for being inserted into test sentences
+    nds = (configs.Dirs.external_words / "non-dictionary.txt").open().read().split()
+    sws = (configs.Dirs.external_words / "stopwords.txt").open().read().split()
+    excluded_words = set(nds + sws)
 
+    nlp = spacy.load('en_core_web_sm')
+    nlp.tokenizer = lambda text: Doc(nlp.vocab, words=text.split())
+    #nlp.tokenizer.add_special_case("<unk>", [{spacy.symbols.ORTH: "<unk>"}])
 
-nlp = spacy.load('en_core_web_sm')
+    print(f'Will count vocab words in the following corpora:')
+    for c in args.corpora:
+        print(c)
 
-print(f'Will count vocab words in the following corpora:')
-corpus_paths = [p for p in Path(PATH_CORPORA).glob('*.txt')]
-for c in corpus_paths:
-    print(c)
+    # get information about all words in corpora
+    corpus_names = [c.stem for c in args.corpora]
+    df = pd.DataFrame(
+        0,
+        index=range(len(vocab_no_space_symbol)),
+        columns=(
+            POS_TAGS +
+            ['total-frequency'] +
+            [f'{corpus_name}-frequency' for corpus_name in corpus_names]
+        )
+    )
+    for corpus_path, corpus_name in zip(args.corpora, corpus_names):
+        with open(corpus_path) as f:
+            sentences = list(map(str.strip, f.readlines()))
 
-# get information about all words in corpora
-w2row = {}
-corpus_names = [c.stem for c in corpus_paths]
-for corpus_path, corpus_name in zip(corpus_paths, corpus_names):
+        for n, sd in enumerate(nlp.pipe(sentences, disable=["parser", "ner"])):
+            for sw in sd:
+                update_row(
+                    df, vocab_no_space_symbol[sw.text], sw.tag_, corpus_name
+                )
 
-    with open(corpus_path) as f:
-        sentences = [s for s in f.readlines()]
+            if args.dry_run and n+1 >= args.dry_run_n_sentences:
+                break
 
-    for n, sd in enumerate(nlp.pipe(sentences, disable=["parser", "ner"])):
-        for sw in sd:
-            try:
-                w2row[sw.text]['NNP'] += 1 if sw.tag_ == 'NNP' else 0  # proper noun
-                w2row[sw.text]['NN'] += 1 if sw.tag_ == 'NN' else 0
-                w2row[sw.text]['NNS'] += 1 if sw.tag_ == 'NNS' else 0
-                w2row[sw.text]['JJ'] += 1 if sw.tag_ == 'JJ' else 0
-                w2row[sw.text]['VB'] += 1 if sw.tag_ == 'VB' else 0  # base form of verb
-                w2row[sw.text]['VBD'] += 1 if sw.tag_ == 'VBD' else 0  # verb past tense
-                w2row[sw.text]['VBG'] += 1 if sw.tag_ == 'VBG' else 0  # verb gerund or present participle
-                w2row[sw.text]['VBN'] += 1 if sw.tag_ == 'VBN' else 0  # verb past participle
-                w2row[sw.text]['VBP'] += 1 if sw.tag_ == 'VBP' else 0  # verb non-3rd person singular present
-                w2row[sw.text]['VBZ'] += 1 if sw.tag_ == 'VBZ' else 0  # verb 3rd person singular present
-                w2row[sw.text]['total-frequency'] += 1
-                w2row[sw.text][f'{corpus_name}-frequency'] += 1
-            except KeyError:
-                w2row[sw.text] = init_row(sw.text, sw.tag_, corpus_name)
+            if n % 1000 == 0:
+                print(f'{corpus_path.stem:<24} {n:>12,}/{len(sentences):>12,}')
 
-        if DRY_RUN and n == 100:
-            break
+    df.index: pd.core.indexes.base.Index = vocab_no_space_symbol.keys() # type: ignore
+    df["is_excluded"] = df.index.map(is_excluded)
 
-        if n % 1000 == 0:
-            print(f'{corpus_path.stem:<24} {n:>12,}/{len(sentences):>12,}')
+    not_occurring = df["total-frequency"] == 0
+    tokens_not_in_corpus = df.index[not_occurring].to_list()
+    print(f'Did not find {len(tokens_not_in_corpus)} tokens from vocab in corpora: {", ".join(tokens_not_in_corpus)}')
+    df["is_excluded"] |= not_occurring
 
+    df.sort_values(by='total-frequency', inplace=True, ascending=False)
 
-# ensure each word in df is a word in vocab (including sub-words)
-rows = []
-words = []
-num_words_not_in_corpus = 0
-for w in vocab_no_space_symbol:
-    if w not in w2row:
-        print(f'Did not find "{w:<20}" in corpus. It may be a sub-word')
-        w2row[w] = init_row(w, 'n/a', 'n/a', is_excluded_=True)
-        num_words_not_in_corpus += 1
-    rows.append(w2row[w])
-    words.append(w)
-print(f'Did not find {num_words_not_in_corpus} tokens from vocab in corpora')
+    if args.dry_run:
+        print(df)
+        exit(f'Dry run completed after {args.dry_run_n_sentences} sentences')
 
-# make data frame that holds info about each word in vocabZ
-df = pd.DataFrame(data=rows, index=words)
-df.sort_values(by='total-frequency', inplace=True, ascending=False)
-
-if DRY_RUN:
-    print(df)
-    exit('Dy run completed after 100 sentences')
-
-# save to csv
-fn = f'{Path(PATH_TOKENIZER).stem}.csv'
-out_path = configs.Dirs.data / 'vocab_words' / fn
-df.to_csv(out_path, index=True)
+    df.to_csv(configs.Dirs.data / 'vocab_words' / f'{vocab_name}.csv', index=True)
