@@ -17,18 +17,19 @@ class Data:
     mask_symbol = '<mask>'
     unk_symbol = '<unk>'
     space_symbol = 'Ġ'
-    vocab_name = 'babyberta'  # we use the vocab defined by babyberta model as default
+    vocab_name = 'vocab'  # we use the vocab defined by babyberta model as default
     bias_tolerance = 1000  # for nouns and adjectives, but not necessarily verbs
     tag2num_words = {'NN': 50, 'JJ': 50, 'VB': 10, 'VBD': 10, 'VBG': 20, 'VBZ': 20}  # number of types for sampling
     min_num_words_per_slot = 20
     exclude_novel_words = False  # exclude words that do not occur at least once in each corpus?
     num_pairs_per_paradigm = 2_000
     corpus_names = [
-        'aochildes',
-        'aonewsela',
-        'wikipedia1',
-        'wikipedia2',
-        'wikipedia3',
+        'sarah',
+        #'aochildes',
+        #'aonewsela',
+        #'wikipedia1',
+        #'wikipedia2',
+        #'wikipedia3',
     ]
 
 

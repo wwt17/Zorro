@@ -22,7 +22,7 @@ all_tags = list(tag2template.keys())
 if __name__ == "__main__":
     argparser = argparse.ArgumentParser()
     argparser.add_argument(
-        "--vocab_name", default="vocab"
+        "--vocab_name", default=None
     )
     argparser.add_argument(
         "--tag_max_freq", action="store_true",

@@ -18,6 +18,7 @@ def get_total_fs(s: List[str],
 
 def calc_bias(fs_: np.array,
               ) -> int:
+    return 0
     bias2 = abs(fs_[2] - fs_[0])  # aochildes vs wikipedia1
     res = bias2
 
