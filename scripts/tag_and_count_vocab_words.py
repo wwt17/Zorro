@@ -130,7 +130,7 @@ if __name__ == "__main__":
     )
     for corpus_path, corpus_name in zip(args.corpora, corpus_names):
         with open(corpus_path) as f:
-            sentences = list(map(str.strip, f.readlines()))
+            sentences = list(map(str.lower, map(str.strip, f.readlines())))
 
         for n, sd in enumerate(nlp.pipe(sentences, disable=["parser", "ner"])):
             for sw in sd:

@@ -66,7 +66,7 @@ if __name__ == "__main__":
                     words_to_check = sentence.split()
                     for w in words_to_check:
                         if not(w in vocab_words or w.lower() in vocab_words or
-                               w.lower() in vocab_words or w.lower() in stop_words):
+                               w in stop_words or w.lower() in stop_words):
                             raise RuntimeError(f'WARNING: Not a whole word and not a stop word: "{w}"')
                     # write to file
                     f.write(sentence + '\n')
