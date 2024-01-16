@@ -22,7 +22,7 @@ if __name__ == "__main__":
     )
     argparser.add_argument(
         "--out_path", type=Path, nargs="+",
-        default=[Path("../sentences")]
+        default=[Path("sentences")]
     )
     args = argparser.parse_args()
 
@@ -43,8 +43,14 @@ if __name__ == "__main__":
             continue
 
         # generate sentences once, in order to save the same sentences to two locations
-        sentences = list(collect_unique_pairs(paradigm_module.main))
-        assert sentences
+        try:
+            sentences = list(collect_unique_pairs(paradigm_module.main))
+            assert sentences
+
+        except Exception as e:
+            print(e)
+            print(f'Skipping {paradigm}')
+            continue
 
         # capitalize proper nouns for case-sensitive models like roberta-base
         sentences = [capitalize_names_in_sentence(s) for s in sentences]
@@ -52,27 +58,34 @@ if __name__ == "__main__":
         # TODO save info about each sentence's template in the text file saved locally
 
         # save each file in repository, and also on shared drive
-        for out_path in [
-            path / configs.Data.vocab_name / f'{phenomenon}-{paradigm}.txt'
-            for path in args.out_path
-        ]:
-            if not out_path.parent.is_dir():
-                out_path.parent.mkdir(parents=True)
+        try:
+            for out_path in [
+                path / configs.Data.vocab_name / f'{phenomenon}-{paradigm}.txt'
+                for path in args.out_path
+            ]:
+                print(f"save to path: {out_path}")
+                if not out_path.parent.is_dir():
+                    out_path.parent.mkdir(parents=True)
 
-            num_saved_sentences = 0
-            with open(out_path, 'w') as f:
-                for sentence in sentences:
-                    # check
-                    words_to_check = sentence.split()
-                    for w in words_to_check:
-                        if not(w in vocab_words or w.lower() in vocab_words or
-                               w in stop_words or w.lower() in stop_words):
-                            raise RuntimeError(f'WARNING: Not a whole word and not a stop word: "{w}"')
-                    # write to file
-                    f.write(sentence + '\n')
-                    num_saved_sentences += 1
+                num_saved_sentences = 0
+                with open(out_path, 'w') as f:
+                    for sentence in sentences:
+                        # check
+                        words_to_check = sentence.split()
+                        for w in words_to_check:
+                            if not(w in vocab_words or w.lower() in vocab_words or
+                                w in stop_words or w.lower() in stop_words):
+                                raise RuntimeError(f'WARNING: Not a whole word and not a stop word: "{w}"')
+                        # write to file
+                        f.write(sentence + '\n')
+                        num_saved_sentences += 1
 
-            if not num_saved_sentences:
-                raise RuntimeError('Did not generate any sentences.'
-                                'This can occur if plural versions of singular nouns are not in vocab.')
-            print(f'Saved {num_saved_sentences:>12,} sentences to {out_path}')
+                if not num_saved_sentences:
+                    raise RuntimeError('Did not generate any sentences.'
+                                    'This can occur if plural versions of singular nouns are not in vocab.')
+                print(f'Saved {num_saved_sentences:>12,} sentences to {out_path}')
+
+        except Exception as e:
+            print(e)
+            print(f'Skipping {paradigm}')
+            continue
