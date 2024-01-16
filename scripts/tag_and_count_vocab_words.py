@@ -154,16 +154,26 @@ if __name__ == "__main__":
             for sentence in tqdm.tqdm(sentences, desc=corpus_name):
                 words = sentence.split()
                 for word in words:
-                    update_row(
-                        df, vocab_no_space_symbol[word], None, corpus_name
-                    )
+                    try:
+                        token_id = vocab_no_space_symbol[word]
+                    except KeyError:
+                        pass
+                    else:
+                        update_row(
+                            df, token_id, None, corpus_name
+                        )
 
         else:
             for n, sd in enumerate(nlp.pipe(tqdm.tqdm(sentences, desc=corpus_name), disable=["parser", "attribute_ruler", "lemmatizer", "ner"])):
                 for sw in sd:
-                    update_row(
-                        df, vocab_no_space_symbol[sw.text], sw.tag_, corpus_name
-                    )
+                    try:
+                        token_id = vocab_no_space_symbol[sw.text]
+                    except KeyError:
+                        pass
+                    else:
+                        update_row(
+                            df, token_id, sw.tag_, corpus_name
+                        )
 
                 if args.dry_run and n+1 >= args.dry_run_n_sentences:
                     break
