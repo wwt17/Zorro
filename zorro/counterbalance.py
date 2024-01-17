@@ -32,7 +32,10 @@ def rate_word(word: str,
      - high aochildes frequency
 
     """
-    fs = vw2fs[word]
+    try:
+        fs = vw2fs[word]
+    except KeyError:
+        return 0.
     term1 = np.log10(fs[0] + 1)
     return term1
 
@@ -72,6 +75,7 @@ def find_counterbalanced_subset(first_forms: List[str],
         ratings = np.array([rate_word(w) for w in first_forms])
     else:
         ratings = np.array([rate_word(w1) * rate_word(w2) for w1, w2 in zip(first_forms, second_forms)])
+    n_nonzero_words = (ratings != 0).sum().item()
     probabilities = ratings / ratings.sum()
 
     # helper, in case we need to counterbalance 2nd forms also
@@ -86,7 +90,12 @@ def find_counterbalanced_subset(first_forms: List[str],
 
     # try to find sample_meeting_criteria using heuristic search
     sample_meeting_criteria = None
-    for subset_size in range(min_size, max_size):
+    num_tries_per_size = 1
+    if max_size > n_nonzero_words:
+        max_size = n_nonzero_words
+    if min_size > max_size:
+        min_size = max_size
+    for subset_size in range(min_size, max_size+1):
 
         biases = []
         total_fs_list = []
@@ -115,9 +124,10 @@ def find_counterbalanced_subset(first_forms: List[str],
 
         if sample_meeting_criteria:
             if first2second_form is not None:
-                return [(w, first2second_form[w]) for w in sample_meeting_criteria]
+                ret = [(w, first2second_form[w]) for w in sample_meeting_criteria]
             else:
-                return sample_meeting_criteria
+                ret = sample_meeting_criteria
+            return ret
 
     else:
         raise RuntimeError('No word subset found that meets provided conditions')

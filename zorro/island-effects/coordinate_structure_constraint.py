@@ -41,10 +41,10 @@ def main():
     verbs_gerund = get_legal_words(tag='VBG', exclude=excluded_verbs_gerund)
 
     animates_ = (configs.Dirs.legal_words / 'animates.txt').open().read().split()
-    animates = find_counterbalanced_subset(animates_, min_size=8, max_size=len(animates_))
+    animates = find_counterbalanced_subset(animates_, min_size=len(animates_), max_size=len(animates_))
 
     names_ = (configs.Dirs.legal_words / 'names.txt').open().read().split()
-    names = find_counterbalanced_subset(names_, min_size=10, max_size=len(names_))
+    names = find_counterbalanced_subset(names_, min_size=len(names_), max_size=len(names_))
 
     def add_preposition_after_vb(v: str,
                                  arg: str,

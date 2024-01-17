@@ -2,6 +2,8 @@
 present words belonging to the same POS tag for human to judge as legal or not - can they be used in test sentences?
 """
 import argparse
+import json
+from pathlib import Path
 import pandas as pd
 
 from zorro import configs
@@ -29,17 +31,24 @@ if __name__ == "__main__":
         help="For each word in vocab, treat it as a legal word with its most tag."
     )
     argparser.add_argument(
-        "--tags", nargs="+", choices=all_tags, default=all_tags
+        "--consider_other_tags", action="store_true",
+    )
+    argparser.add_argument(
+        "--tags", nargs="+", choices=all_tags,
     )
     args = argparser.parse_args()
 
     vocab_df = load_vocab_df(args.vocab_name)
 
     if args.tag_max_freq:  #TODO: this ignores transitivity of verbs, and intransitive verbs may not fit into the templates
-        assert set(args.tags) == set(all_tags), "All tags are processed with --tag_max_freq"
+        if args.tags is None:
+            args.tags = [column_name for column_name in vocab_df.columns if not (column_name.endswith("-frequency") or column_name in ["is_excluded"])]
+        tags = args.tags
         my_tags_frequency = vocab_df[args.tags].sum(axis=1)
-        vocab_df["other-tags"] = vocab_df["total-frequency"] - my_tags_frequency
-        vocab_df["max-tag"] = vocab_df[args.tags + ["other-tags"]].idxmax(axis=1)
+        if args.consider_other_tags:
+            vocab_df["other-tags"] = vocab_df["total-frequency"] - my_tags_frequency
+            tags = tags + ["other-tags"]
+        vocab_df["max-tag"] = vocab_df[tags].idxmax(axis=1)
         not_excluded = vocab_df.loc[~vocab_df["is_excluded"], "max-tag"]
         for tag in args.tags:
             df_path = configs.Dirs.legal_words / f"{tag}.csv"
@@ -47,9 +56,12 @@ if __name__ == "__main__":
                 "word": not_excluded[not_excluded == tag].index,
                 "is_legal": 1,
             })
-            df_legal.to_csv(df_path, index=False)
+            if len(df_legal) > 0:
+                df_legal.to_csv(df_path, index=False)
 
     else:
+        if args.tags is None:
+            raise Exception("Must provide tags.")
         for tag in args.tags:
             df_path = configs.Dirs.legal_words / f"{tag}.csv"
             if not df_path.exists():

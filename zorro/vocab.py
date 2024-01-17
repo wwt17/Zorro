@@ -8,7 +8,7 @@ from zorro import configs
 @functools.lru_cache(maxsize=12)
 def get_vocab_words(vocab_name: Optional[str] = None,
                     tag: Optional[str] = None,
-                    return_excluded_words: bool = False,  # sub-words, stop-words, number-words
+                    return_excluded_words: bool = True,  # sub-words, stop-words, number-words
                     ) -> List[str]:
 
     if vocab_name is None:
@@ -27,7 +27,7 @@ def get_vocab_words(vocab_name: Optional[str] = None,
 def get_frequency(vocab_name: Optional[str] = None,
                   tag: Optional[str] = None,
                   corpus_name: Optional[str] = 'total',
-                  return_excluded_words: bool = False,
+                  return_excluded_words: bool = True,
                   ) -> List[int]:
 
     if vocab_name is None:
@@ -45,7 +45,7 @@ def get_frequency(vocab_name: Optional[str] = None,
 
 
 def load_vocab_df(vocab_name: Optional[str] = None,
-                  return_excluded_words: bool = False,
+                  return_excluded_words: bool = True,
                   ) -> pd.DataFrame:
 
     if vocab_name is None:

@@ -1,4 +1,5 @@
 import random
+from itertools import product
 
 from zorro.filter import collect_unique_pairs
 from zorro.vocab import get_vocab_words
@@ -17,6 +18,7 @@ def main():
 
     vocab = get_vocab_words()
     modifiers = ['over there', 'some time ago', 'this morning', 'at home', 'last night']
+    modifiers = [mod for mod in modifiers if all((word in vocab) for word in mod.split())]
 
     names_ = (configs.Dirs.legal_words / 'names.txt').open().read().split()
     names = find_counterbalanced_subset(names_, min_size=10, max_size=len(names_))
@@ -60,20 +62,42 @@ def main():
         ('threw', 'thrown', ['the trash out', 'the paper ball', 'some away', 'his ball']),
     ]
 
-    while True:
+    vbds_vbns_args_combinations = [
+        (vbd, vbn, arg)
+        for vbd, vbn, args in vbds_vbns_args if not ((vbd not in vocab or vbn not in vocab) or vbd == vbn)
+        for arg in args if not (arg == '')
+    ]
+    n_combinations = len(names) * len(modifiers) * len(vbds_vbns_args_combinations)
+    print(f"{n_combinations=}")
+    print(f"{names=}")
+    print(f"{modifiers=}")
+    print(f"{vbds_vbns_args_combinations=}")
 
-        # random choices
-        name = random.choice(names)
-        mod = random.choice(modifiers)
-        vbd, vbn, args = random.choice(vbds_vbns_args)
-        arg = random.choice(args)
+    if n_combinations < int(1e6):
+        combinations = list(product(names, modifiers, vbds_vbns_args_combinations))
+        random.shuffle(combinations)
+        sampler = iter(combinations)
 
-        if (vbd not in vocab or vbn not in vocab) or vbd == vbn:
-            # print(f'"{verb_base:<22} excluded due to some forms not in vocab')
-            continue
-        if arg == '':
-            continue
+    else:
+        def random_sampler():
+            while True:
+                # random choices
+                name = random.choice(names)
+                mod = random.choice(modifiers)
+                vbd, vbn, args = random.choice(vbds_vbns_args)
+                arg = random.choice(args)
 
+                if (vbd not in vocab or vbn not in vocab) or vbd == vbn:
+                    # print(f'"{verb_base:<22} excluded due to some forms not in vocab')
+                    continue
+                if arg == '':
+                    continue
+
+                yield name, mod, (vbd, vbn, arg)
+
+        sampler = random_sampler()
+
+    for name, mod, (vbd, vbn, arg) in sampler:
         # vbd is correct
         yield template.format(name, vbn, arg, mod)  # bad
         yield template.format(name, vbd, arg, mod)  # good

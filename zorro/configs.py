@@ -19,7 +19,8 @@ class Data:
     space_symbol = 'Ġ'
     vocab_name = 'vocab'  # we use the vocab defined by babyberta model as default
     bias_tolerance = 1000  # for nouns and adjectives, but not necessarily verbs
-    tag2num_words = {'NN': 50, 'JJ': 50, 'VB': 10, 'VBD': 10, 'VBG': 20, 'VBZ': 20}  # number of types for sampling
+    #tag2num_words = {'NN': 50, 'JJ': 50, 'VB': 10, 'VBD': 10, 'VBG': 20, 'VBZ': 20}  # number of types for sampling
+    tag2num_words = {'NN': 1000, 'JJ': 1000, 'VB': 1000, 'VBD': 1000, 'VBG': 1000, 'VBZ': 1000}  # number of types for sampling
     min_num_words_per_slot = 20
     exclude_novel_words = False  # exclude words that do not occur at least once in each corpus?
     num_pairs_per_paradigm = 2_000

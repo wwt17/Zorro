@@ -19,45 +19,44 @@ def main():
     number_words = find_counterbalanced_subset(number_words_,min_size=6, max_size=len(number_words_))
 
     quantifiers_g_b = [('more than', 'at least'),
-                       ('fewer than', 'at most'),
+                       #('fewer than', 'at most'),
                        ]
 
     animates_ = (configs.Dirs.legal_words / 'animates.txt').open().read().split()
     animates = find_counterbalanced_subset(animates_, min_size=8, max_size=len(animates_))
 
-    verbs_ = [
-        'become',
-        'catch',
-        'leave',
-        'increase',
-        'move',
-        'open',
-        'exist',
-        'contain',
-        'stand',
-        'change',
-        'surround',
-        'carry',
-        'act',
-    ]
-    verbs = find_counterbalanced_subset(verbs_, min_size=8, max_size=len(verbs_))
-
     # a linker can be a preposition or determiner phrase
     verb2linker = {
-        'become': None,
+        #'become': None,
         'catch': None,
         'leave': None,
-        'increase': 'the size of',
+        #'increase': 'the size of',
         'move': 'to',
         'open': 'the door to',
-        'exist': 'without',
-        'contain': None,
+        #'exist': 'without',
+        #'contain': None,
         'stand': 'on top of',
         'change': None,
-        'surround': None,
+        #'surround': None,
         'carry': None,
-        'act': 'like',
+        #'act': 'like',
+        'see': None,
+        'look': 'at',
+        'say': None,
+        'tell': None,
+        'play': None,
+        'make': None,
+        'take': None,
+        'give': None,
+        'find': None,
+        'show': None,
+        'talk': 'about',
+        'pick': None,
+        'hit': None,
     }
+    verbs_ = list(verb2linker.keys())
+    verbs = find_counterbalanced_subset(verbs_, min_size=len(verbs_), max_size=len(verbs_))
+    print(f"#verbs: {len(verbs)}")
 
     while True:
 

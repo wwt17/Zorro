@@ -44,7 +44,7 @@ def main():
     nouns_s = get_legal_words(tag='NN')
 
     names_ = (configs.Dirs.legal_words / 'names.txt').open().read().split()
-    names = find_counterbalanced_subset(names_, min_size=10, max_size=len(names_))
+    names = find_counterbalanced_subset(names_, min_size=len(names_), max_size=len(names_))
 
     auxiliaries = ['can', 'could', 'will', 'would', 'must', 'should']
 
@@ -88,9 +88,16 @@ def main():
         slot2filler = {
             'aux': random.choice(auxiliaries),
             'nn_m': random.choice([name for name in names if name in names_m] +
-                                  ['he', 'the man', 'a man', 'that man']),
+                                  ['he',
+                                   'the man', 'a man', 'that man',
+                                   'the boy', 'a boy', 'that boy',
+                                   'the uncle', 'an uncle', 'that uncle',
+                                  ]),
             'nn_f': random.choice([name for name in names if name in names_f] +
-                                  ['she', 'the woman', 'a woman', 'that woman']),
+                                  ['she',
+                                   #'the woman', 'a woman', 'that woman',
+                                   'the girl', 'a girl', 'that girl',
+                                  ]),
         }
 
         # sample argument once, so that the same argument is used by both bad and good sentences.
