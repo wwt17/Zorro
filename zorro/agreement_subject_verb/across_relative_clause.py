@@ -4,8 +4,8 @@ import inflect
 from zorro.filter import collect_unique_pairs
 from zorro.words import get_legal_words
 
-template1a = 'the {} that {} like {} {} .'
-template1b = 'the {} that {} likes {} {} .'
+template1a = 'the {} that {} know {} {} .'
+template1b = 'the {} that {} knows {} {} .'
 template2a = 'the {} that was there {} {} .'
 template2b = 'the {} that were there {} {} .'
 

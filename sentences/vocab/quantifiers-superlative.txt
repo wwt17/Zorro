@@ -1,0 +1,4000 @@
+no man could play at least eight trains .
+no man could play more than eight trains .
+no duck could talk about at least twelve colors .
+no duck could talk about more than twelve colors .
+no lion can see at least ten boys .
+no lion can see more than ten boys .
+no horse can play at least fifty books .
+no horse can play more than fifty books .
+no horse can stand on top of at least twelve legs .
+no horse can stand on top of more than twelve legs .
+no horse can take at least twelve books .
+no horse can take more than twelve books .
+no baby could move to at least fifty dogs .
+no baby could move to more than fifty dogs .
+no bear could hit at least eight colors .
+no bear could hit more than eight colors .
+no uncle can say at least eight cars .
+no uncle can say more than eight cars .
+no lion could take at least eight horses .
+no lion could take more than eight horses .
+no bear could change at least six trains .
+no bear could change more than six trains .
+no horse could make at least eight times .
+no horse could make more than eight times .
+no horse could catch at least twelve pictures .
+no horse could catch more than twelve pictures .
+no uncle can give at least eight pieces .
+no uncle can give more than eight pieces .
+no doctor can show at least fifty songs .
+no doctor can show more than fifty songs .
+no uncle can move to at least twelve colors .
+no uncle can move to more than twelve colors .
+no lion can take at least ten weeks .
+no lion can take more than ten weeks .
+no horse can pick at least ten letters .
+no horse can pick more than ten letters .
+no bear could play at least two feet .
+no bear could play more than two feet .
+no doctor could change at least fifty eggs .
+no doctor could change more than fifty eggs .
+no horse can stand on top of at least twelve pieces .
+no horse can stand on top of more than twelve pieces .
+no bear could change at least twelve boats .
+no bear could change more than twelve boats .
+no duck can take at least twelve books .
+no duck can take more than twelve books .
+no uncle could play at least two words .
+no uncle could play more than two words .
+no lion can tell at least eight eyes .
+no lion can tell more than eight eyes .
+no baby can make at least ten pictures .
+no baby can make more than ten pictures .
+no bear could hit at least eight arms .
+no bear could hit more than eight arms .
+no bear can tell at least two stars .
+no bear can tell more than two stars .
+no horse can hit at least twelve wheels .
+no horse can hit more than twelve wheels .
+no lion can catch at least twelve trees .
+no lion can catch more than twelve trees .
+no man can carry at least ten girls .
+no man can carry more than ten girls .
+no uncle can talk about at least fifty friends .
+no uncle can talk about more than fifty friends .
+no doctor could change at least eight bears .
+no doctor could change more than eight bears .
+no bear can make at least two lines .
+no bear can make more than two lines .
+no bear could see at least eight parts .
+no bear could see more than eight parts .
+no lion can carry at least two trains .
+no lion can carry more than two trains .
+no baby can pick at least twelve friends .
+no baby can pick more than twelve friends .
+no uncle can stand on top of at least eight dogs .
+no uncle can stand on top of more than eight dogs .
+no horse can look at at least six cars .
+no horse can look at more than six cars .
+no lion could play at least two feet .
+no lion could play more than two feet .
+no uncle can leave at least two birds .
+no uncle can leave more than two birds .
+no horse could catch at least two trees .
+no horse could catch more than two trees .
+no horse could give at least eight wheels .
+no horse could give more than eight wheels .
+no bear can play at least fifty bubbles .
+no bear can play more than fifty bubbles .
+no lion can play at least ten boys .
+no lion can play more than ten boys .
+no man can look at at least ten names .
+no man can look at more than ten names .
+no man could talk about at least eight sounds .
+no man could talk about more than eight sounds .
+no bear can make at least ten cars .
+no bear can make more than ten cars .
+no doctor can leave at least ten numbers .
+no doctor can leave more than ten numbers .
+no uncle could look at at least twelve eggs .
+no uncle could look at more than twelve eggs .
+no man can carry at least twelve sounds .
+no man can carry more than twelve sounds .
+no man could say at least two dogs .
+no man could say more than two dogs .
+no man could play at least two horses .
+no man could play more than two horses .
+no uncle can carry at least eight boys .
+no uncle can carry more than eight boys .
+no bear could take at least eight parts .
+no bear could take more than eight parts .
+no duck could hit at least eight birds .
+no duck could hit more than eight birds .
+no bear can give at least fifty legs .
+no bear can give more than fifty legs .
+no man could say at least twelve trains .
+no man could say more than twelve trains .
+no bear can move to at least two eggs .
+no bear can move to more than two eggs .
+no uncle can give at least six hands .
+no uncle can give more than six hands .
+no baby could find at least twelve trees .
+no baby could find more than twelve trees .
+no doctor could show at least twelve songs .
+no doctor could show more than twelve songs .
+no duck can catch at least six words .
+no duck can catch more than six words .
+no uncle could make at least ten stars .
+no uncle could make more than ten stars .
+no uncle could tell at least six horses .
+no uncle could tell more than six horses .
+no baby can talk about at least six legs .
+no baby can talk about more than six legs .
+no man could hit at least fifty bubbles .
+no man could hit more than fifty bubbles .
+no man could carry at least eight lines .
+no man could carry more than eight lines .
+no doctor could find at least fifty keys .
+no doctor could find more than fifty keys .
+no doctor could change at least ten numbers .
+no doctor could change more than ten numbers .
+no bear could see at least fifty names .
+no bear could see more than fifty names .
+no bear can change at least eight boats .
+no bear can change more than eight boats .
+no man could move to at least six books .
+no man could move to more than six books .
+no horse can see at least fifty pictures .
+no horse can see more than fifty pictures .
+no horse can catch at least eight people .
+no horse can catch more than eight people .
+no man can look at at least eight years .
+no man can look at more than eight years .
+no duck can carry at least two legs .
+no duck can carry more than two legs .
+no baby could see at least ten hands .
+no baby could see more than ten hands .
+no uncle can hit at least ten boys .
+no uncle can hit more than ten boys .
+no lion could move to at least fifty boys .
+no lion could move to more than fifty boys .
+no bear could move to at least two words .
+no bear could move to more than two words .
+no baby could say at least six years .
+no baby could say more than six years .
+no baby could carry at least eight works .
+no baby could carry more than eight works .
+no doctor can catch at least fifty dogs .
+no doctor can catch more than fifty dogs .
+no bear can say at least fifty boys .
+no bear can say more than fifty boys .
+no uncle can open the door to at least six sounds .
+no uncle can open the door to more than six sounds .
+no uncle could change at least twelve keys .
+no uncle could change more than twelve keys .
+no horse can make at least ten minutes .
+no horse can make more than ten minutes .
+no baby can show at least fifty stars .
+no baby can show more than fifty stars .
+no baby can see at least twelve times .
+no baby can see more than twelve times .
+no duck could open the door to at least fifty weeks .
+no duck could open the door to more than fifty weeks .
+no duck can say at least ten songs .
+no duck can say more than ten songs .
+no horse could pick at least ten hands .
+no horse could pick more than ten hands .
+no horse can show at least six matches .
+no horse can show more than six matches .
+no baby can give at least ten boats .
+no baby can give more than ten boats .
+no duck can hit at least fifty arms .
+no duck can hit more than fifty arms .
+no man could find at least ten trains .
+no man could find more than ten trains .
+no man can carry at least ten eggs .
+no man can carry more than ten eggs .
+no bear can hit at least six weeks .
+no bear can hit more than six weeks .
+no uncle can take at least two legs .
+no uncle can take more than two legs .
+no lion could play at least ten things .
+no lion could play more than ten things .
+no horse could say at least six lines .
+no horse could say more than six lines .
+no baby can open the door to at least ten years .
+no baby can open the door to more than ten years .
+no doctor could tell at least two bears .
+no doctor could tell more than two bears .
+no lion can look at at least ten fingers .
+no lion can look at more than ten fingers .
+no baby can carry at least six pieces .
+no baby can carry more than six pieces .
+no duck could stand on top of at least ten horses .
+no duck could stand on top of more than ten horses .
+no horse could take at least ten friends .
+no horse could take more than ten friends .
+no baby could show at least twelve eggs .
+no baby could show more than twelve eggs .
+no horse could play at least ten horses .
+no horse could play more than ten horses .
+no duck can change at least ten arms .
+no duck can change more than ten arms .
+no doctor can give at least twelve bubbles .
+no doctor can give more than twelve bubbles .
+no duck could hit at least fifty numbers .
+no duck could hit more than fifty numbers .
+no doctor could open the door to at least fifty sounds .
+no doctor could open the door to more than fifty sounds .
+no duck can see at least twelve legs .
+no duck can see more than twelve legs .
+no duck can hit at least six days .
+no duck can hit more than six days .
+no bear can take at least six legs .
+no bear can take more than six legs .
+no horse could leave at least six sounds .
+no horse could leave more than six sounds .
+no doctor can see at least two eggs .
+no doctor can see more than two eggs .
+no baby could take at least fifty sounds .
+no baby could take more than fifty sounds .
+no man can leave at least twelve feet .
+no man can leave more than twelve feet .
+no uncle can pick at least ten legs .
+no uncle can pick more than ten legs .
+no horse can see at least twelve lines .
+no horse can see more than twelve lines .
+no baby can carry at least two bears .
+no baby can carry more than two bears .
+no horse could pick at least eight friends .
+no horse could pick more than eight friends .
+no duck could give at least ten words .
+no duck could give more than ten words .
+no horse could move to at least eight feet .
+no horse could move to more than eight feet .
+no uncle can see at least twelve times .
+no uncle can see more than twelve times .
+no duck can see at least six works .
+no duck can see more than six works .
+no uncle can move to at least six pieces .
+no uncle can move to more than six pieces .
+no doctor could catch at least ten bubbles .
+no doctor could catch more than ten bubbles .
+no baby can tell at least ten pieces .
+no baby can tell more than ten pieces .
+no horse could move to at least fifty horses .
+no horse could move to more than fifty horses .
+no horse could say at least eight words .
+no horse could say more than eight words .
+no uncle can open the door to at least ten bubbles .
+no uncle can open the door to more than ten bubbles .
+no bear can take at least twelve trees .
+no bear can take more than twelve trees .
+no baby can catch at least twelve cars .
+no baby can catch more than twelve cars .
+no horse can carry at least two bubbles .
+no horse can carry more than two bubbles .
+no uncle can leave at least ten friends .
+no uncle can leave more than ten friends .
+no bear could talk about at least two arms .
+no bear could talk about more than two arms .
+no bear can give at least ten matches .
+no bear can give more than ten matches .
+no lion could leave at least twelve days .
+no lion could leave more than twelve days .
+no baby could look at at least fifty eggs .
+no baby could look at more than fifty eggs .
+no horse could say at least twelve times .
+no horse could say more than twelve times .
+no horse could catch at least eight letters .
+no horse could catch more than eight letters .
+no bear can talk about at least twelve songs .
+no bear can talk about more than twelve songs .
+no baby could hit at least ten feet .
+no baby could hit more than ten feet .
+no bear can give at least eight eyes .
+no bear can give more than eight eyes .
+no doctor can make at least two legs .
+no doctor can make more than two legs .
+no bear could catch at least eight names .
+no bear could catch more than eight names .
+no baby can play at least twelve lines .
+no baby can play more than twelve lines .
+no baby could change at least fifty times .
+no baby could change more than fifty times .
+no man can change at least six eyes .
+no man can change more than six eyes .
+no horse could make at least eight minutes .
+no horse could make more than eight minutes .
+no uncle can leave at least six bubbles .
+no uncle can leave more than six bubbles .
+no baby could hit at least twelve flowers .
+no baby could hit more than twelve flowers .
+no duck could say at least two minutes .
+no duck could say more than two minutes .
+no uncle can talk about at least fifty names .
+no uncle can talk about more than fifty names .
+no bear could take at least six letters .
+no bear could take more than six letters .
+no doctor can talk about at least ten horses .
+no doctor can talk about more than ten horses .
+no duck could make at least eight trees .
+no duck could make more than eight trees .
+no horse can catch at least two trains .
+no horse can catch more than two trains .
+no doctor could stand on top of at least eight horses .
+no doctor could stand on top of more than eight horses .
+no uncle could move to at least ten trains .
+no uncle could move to more than ten trains .
+no horse could hit at least six fingers .
+no horse could hit more than six fingers .
+no lion can give at least two trains .
+no lion can give more than two trains .
+no lion can say at least ten bears .
+no lion can say more than ten bears .
+no lion could look at at least eight times .
+no lion could look at more than eight times .
+no uncle could carry at least eight colors .
+no uncle could carry more than eight colors .
+no man can move to at least ten friends .
+no man can move to more than ten friends .
+no duck can stand on top of at least fifty books .
+no duck can stand on top of more than fifty books .
+no baby could carry at least ten arms .
+no baby could carry more than ten arms .
+no man can leave at least fifty cars .
+no man can leave more than fifty cars .
+no lion could take at least six trains .
+no lion could take more than six trains .
+no man could see at least eight friends .
+no man could see more than eight friends .
+no lion can catch at least twelve matches .
+no lion can catch more than twelve matches .
+no baby can give at least fifty horses .
+no baby can give more than fifty horses .
+no doctor can tell at least ten songs .
+no doctor can tell more than ten songs .
+no doctor can make at least two eggs .
+no doctor can make more than two eggs .
+no baby could catch at least six arms .
+no baby could catch more than six arms .
+no horse can move to at least twelve colors .
+no horse can move to more than twelve colors .
+no doctor could stand on top of at least twelve feet .
+no doctor could stand on top of more than twelve feet .
+no man can talk about at least six pieces .
+no man can talk about more than six pieces .
+no man could pick at least twelve wheels .
+no man could pick more than twelve wheels .
+no duck could take at least twelve keys .
+no duck could take more than twelve keys .
+no man could take at least ten sounds .
+no man could take more than ten sounds .
+no lion could play at least eight years .
+no lion could play more than eight years .
+no doctor could take at least two days .
+no doctor could take more than two days .
+no horse could move to at least fifty eggs .
+no horse could move to more than fifty eggs .
+no lion could stand on top of at least ten fingers .
+no lion could stand on top of more than ten fingers .
+no baby can move to at least ten sounds .
+no baby can move to more than ten sounds .
+no horse could play at least two keys .
+no horse could play more than two keys .
+no uncle can hit at least twelve letters .
+no uncle can hit more than twelve letters .
+no doctor can talk about at least two lines .
+no doctor can talk about more than two lines .
+no uncle could talk about at least two years .
+no uncle could talk about more than two years .
+no doctor can give at least eight fingers .
+no doctor can give more than eight fingers .
+no man can pick at least two people .
+no man can pick more than two people .
+no duck can find at least eight flowers .
+no duck can find more than eight flowers .
+no lion could see at least fifty feet .
+no lion could see more than fifty feet .
+no duck could show at least six eggs .
+no duck could show more than six eggs .
+no uncle could make at least two flowers .
+no uncle could make more than two flowers .
+no baby could find at least ten holes .
+no baby could find more than ten holes .
+no duck could give at least six weeks .
+no duck could give more than six weeks .
+no baby can hit at least twelve eyes .
+no baby can hit more than twelve eyes .
+no bear can show at least eight boys .
+no bear can show more than eight boys .
+no duck could change at least two feet .
+no duck could change more than two feet .
+no duck can give at least eight boys .
+no duck can give more than eight boys .
+no uncle can see at least two songs .
+no uncle can see more than two songs .
+no doctor can leave at least six pictures .
+no doctor can leave more than six pictures .
+no doctor could talk about at least fifty trains .
+no doctor could talk about more than fifty trains .
+no lion could look at at least eight days .
+no lion could look at more than eight days .
+no horse could leave at least fifty holes .
+no horse could leave more than fifty holes .
+no lion can look at at least ten times .
+no lion can look at more than ten times .
+no man can leave at least twelve trains .
+no man can leave more than twelve trains .
+no lion could play at least fifty years .
+no lion could play more than fifty years .
+no doctor could look at at least twelve arms .
+no doctor could look at more than twelve arms .
+no doctor can move to at least ten trees .
+no doctor can move to more than ten trees .
+no lion can tell at least eight songs .
+no lion can tell more than eight songs .
+no uncle could carry at least ten years .
+no uncle could carry more than ten years .
+no man could pick at least ten years .
+no man could pick more than ten years .
+no bear can see at least twelve things .
+no bear can see more than twelve things .
+no man can talk about at least two fingers .
+no man can talk about more than two fingers .
+no man could see at least six lines .
+no man could see more than six lines .
+no man could talk about at least two boys .
+no man could talk about more than two boys .
+no baby could see at least twelve bears .
+no baby could see more than twelve bears .
+no baby could change at least ten bears .
+no baby could change more than ten bears .
+no uncle could stand on top of at least twelve keys .
+no uncle could stand on top of more than twelve keys .
+no duck could pick at least six times .
+no duck could pick more than six times .
+no lion could hit at least ten girls .
+no lion could hit more than ten girls .
+no doctor could give at least eight dogs .
+no doctor could give more than eight dogs .
+no lion can pick at least six books .
+no lion can pick more than six books .
+no duck can say at least twelve boys .
+no duck can say more than twelve boys .
+no lion could see at least two fingers .
+no lion could see more than two fingers .
+no baby could stand on top of at least ten numbers .
+no baby could stand on top of more than ten numbers .
+no man can talk about at least eight boys .
+no man can talk about more than eight boys .
+no horse can find at least six trains .
+no horse can find more than six trains .
+no lion could talk about at least ten minutes .
+no lion could talk about more than ten minutes .
+no baby can move to at least twelve sounds .
+no baby can move to more than twelve sounds .
+no man can see at least eight horses .
+no man can see more than eight horses .
+no bear can hit at least eight years .
+no bear can hit more than eight years .
+no lion can show at least two keys .
+no lion can show more than two keys .
+no doctor can see at least twelve pieces .
+no doctor can see more than twelve pieces .
+no doctor can find at least eight girls .
+no doctor can find more than eight girls .
+no horse could show at least fifty times .
+no horse could show more than fifty times .
+no duck can tell at least fifty numbers .
+no duck can tell more than fifty numbers .
+no duck could pick at least fifty flowers .
+no duck could pick more than fifty flowers .
+no doctor could give at least ten bubbles .
+no doctor could give more than ten bubbles .
+no bear could see at least eight boys .
+no bear could see more than eight boys .
+no baby could stand on top of at least two trains .
+no baby could stand on top of more than two trains .
+no duck can say at least fifty legs .
+no duck can say more than fifty legs .
+no doctor can hit at least twelve friends .
+no doctor can hit more than twelve friends .
+no lion can change at least six things .
+no lion can change more than six things .
+no man could play at least six flowers .
+no man could play more than six flowers .
+no duck could carry at least ten fingers .
+no duck could carry more than ten fingers .
+no horse could stand on top of at least ten eggs .
+no horse could stand on top of more than ten eggs .
+no doctor can say at least fifty eyes .
+no doctor can say more than fifty eyes .
+no horse could play at least two works .
+no horse could play more than two works .
+no bear could find at least fifty colors .
+no bear could find more than fifty colors .
+no uncle can say at least two pieces .
+no uncle can say more than two pieces .
+no duck could say at least twelve days .
+no duck could say more than twelve days .
+no man can move to at least fifty holes .
+no man can move to more than fifty holes .
+no duck can pick at least six days .
+no duck can pick more than six days .
+no doctor could catch at least fifty legs .
+no doctor could catch more than fifty legs .
+no man could make at least twelve trains .
+no man could make more than twelve trains .
+no baby can change at least ten numbers .
+no baby can change more than ten numbers .
+no doctor can catch at least two horses .
+no doctor can catch more than two horses .
+no bear can take at least six bears .
+no bear can take more than six bears .
+no uncle can stand on top of at least eight eggs .
+no uncle can stand on top of more than eight eggs .
+no duck can tell at least eight trees .
+no duck can tell more than eight trees .
+no doctor could tell at least eight lines .
+no doctor could tell more than eight lines .
+no horse could leave at least ten years .
+no horse could leave more than ten years .
+no man could see at least fifty eyes .
+no man could see more than fifty eyes .
+no lion can show at least six flowers .
+no lion can show more than six flowers .
+no man could find at least ten girls .
+no man could find more than ten girls .
+no uncle could give at least eight words .
+no uncle could give more than eight words .
+no horse could make at least two boys .
+no horse could make more than two boys .
+no duck can make at least twelve names .
+no duck can make more than twelve names .
+no lion can catch at least eight trees .
+no lion can catch more than eight trees .
+no duck could catch at least fifty things .
+no duck could catch more than fifty things .
+no man could find at least twelve trains .
+no man could find more than twelve trains .
+no doctor can stand on top of at least eight boys .
+no doctor can stand on top of more than eight boys .
+no horse can hit at least two days .
+no horse can hit more than two days .
+no doctor could tell at least fifty books .
+no doctor could tell more than fifty books .
+no bear could leave at least fifty girls .
+no bear could leave more than fifty girls .
+no duck could give at least six letters .
+no duck could give more than six letters .
+no lion can find at least twelve fingers .
+no lion can find more than twelve fingers .
+no lion can look at at least eight trees .
+no lion can look at more than eight trees .
+no baby can pick at least ten trees .
+no baby can pick more than ten trees .
+no horse could take at least six boys .
+no horse could take more than six boys .
+no lion could tell at least twelve days .
+no lion could tell more than twelve days .
+no horse can say at least twelve names .
+no horse can say more than twelve names .
+no uncle could look at at least eight numbers .
+no uncle could look at more than eight numbers .
+no bear can leave at least twelve feet .
+no bear can leave more than twelve feet .
+no man can open the door to at least eight days .
+no man can open the door to more than eight days .
+no uncle can stand on top of at least ten words .
+no uncle can stand on top of more than ten words .
+no horse could give at least fifty sounds .
+no horse could give more than fifty sounds .
+no man can stand on top of at least fifty days .
+no man can stand on top of more than fifty days .
+no horse could pick at least ten words .
+no horse could pick more than ten words .
+no lion could open the door to at least two eggs .
+no lion could open the door to more than two eggs .
+no doctor can hit at least fifty holes .
+no doctor can hit more than fifty holes .
+no bear could say at least twelve people .
+no bear could say more than twelve people .
+no bear could catch at least twelve books .
+no bear could catch more than twelve books .
+no bear could say at least six things .
+no bear could say more than six things .
+no horse can pick at least six hands .
+no horse can pick more than six hands .
+no lion could play at least six eggs .
+no lion could play more than six eggs .
+no doctor could see at least eight trees .
+no doctor could see more than eight trees .
+no man could hit at least two songs .
+no man could hit more than two songs .
+no horse could make at least eight songs .
+no horse could make more than eight songs .
+no doctor could make at least eight pictures .
+no doctor could make more than eight pictures .
+no doctor can show at least two minutes .
+no doctor can show more than two minutes .
+no doctor can play at least fifty names .
+no doctor can play more than fifty names .
+no duck could make at least ten things .
+no duck could make more than ten things .
+no bear could change at least eight times .
+no bear could change more than eight times .
+no uncle can talk about at least ten arms .
+no uncle can talk about more than ten arms .
+no man can talk about at least fifty songs .
+no man can talk about more than fifty songs .
+no man could show at least fifty things .
+no man could show more than fifty things .
+no doctor can play at least eight girls .
+no doctor can play more than eight girls .
+no doctor can carry at least fifty days .
+no doctor can carry more than fifty days .
+no uncle could carry at least ten boats .
+no uncle could carry more than ten boats .
+no baby could change at least ten eyes .
+no baby could change more than ten eyes .
+no man could pick at least fifty numbers .
+no man could pick more than fifty numbers .
+no man could carry at least ten days .
+no man could carry more than ten days .
+no man can show at least ten girls .
+no man can show more than ten girls .
+no lion could talk about at least six pictures .
+no lion could talk about more than six pictures .
+no man can change at least eight friends .
+no man can change more than eight friends .
+no bear can take at least ten dogs .
+no bear can take more than ten dogs .
+no duck can look at at least two people .
+no duck can look at more than two people .
+no uncle can open the door to at least six weeks .
+no uncle can open the door to more than six weeks .
+no lion can tell at least eight birds .
+no lion can tell more than eight birds .
+no man could talk about at least fifty birds .
+no man could talk about more than fifty birds .
+no uncle can talk about at least two books .
+no uncle can talk about more than two books .
+no uncle can change at least fifty eyes .
+no uncle can change more than fifty eyes .
+no bear could take at least ten fingers .
+no bear could take more than ten fingers .
+no bear could stand on top of at least two lines .
+no bear could stand on top of more than two lines .
+no bear could hit at least six feet .
+no bear could hit more than six feet .
+no uncle can move to at least fifty legs .
+no uncle can move to more than fifty legs .
+no bear could catch at least fifty pictures .
+no bear could catch more than fifty pictures .
+no duck can take at least twelve letters .
+no duck can take more than twelve letters .
+no uncle can stand on top of at least eight trains .
+no uncle can stand on top of more than eight trains .
+no bear could change at least fifty trees .
+no bear could change more than fifty trees .
+no duck could carry at least ten songs .
+no duck could carry more than ten songs .
+no doctor can make at least two pictures .
+no doctor can make more than two pictures .
+no uncle can say at least twelve pieces .
+no uncle can say more than twelve pieces .
+no doctor could stand on top of at least six numbers .
+no doctor could stand on top of more than six numbers .
+no man could leave at least six songs .
+no man could leave more than six songs .
+no baby can talk about at least ten holes .
+no baby can talk about more than ten holes .
+no uncle could pick at least six eggs .
+no uncle could pick more than six eggs .
+no lion could make at least eight arms .
+no lion could make more than eight arms .
+no duck could move to at least eight minutes .
+no duck could move to more than eight minutes .
+no baby can hit at least ten years .
+no baby can hit more than ten years .
+no horse can open the door to at least ten hands .
+no horse can open the door to more than ten hands .
+no bear can leave at least two names .
+no bear can leave more than two names .
+no duck could move to at least eight birds .
+no duck could move to more than eight birds .
+no man can open the door to at least ten fingers .
+no man can open the door to more than ten fingers .
+no uncle can stand on top of at least eight letters .
+no uncle can stand on top of more than eight letters .
+no baby can catch at least eight friends .
+no baby can catch more than eight friends .
+no lion can pick at least eight dogs .
+no lion can pick more than eight dogs .
+no uncle could take at least six lines .
+no uncle could take more than six lines .
+no baby can hit at least six times .
+no baby can hit more than six times .
+no horse could say at least ten words .
+no horse could say more than ten words .
+no bear can look at at least ten things .
+no bear can look at more than ten things .
+no lion could talk about at least six years .
+no lion could talk about more than six years .
+no lion could talk about at least six flowers .
+no lion could talk about more than six flowers .
+no doctor can play at least ten pieces .
+no doctor can play more than ten pieces .
+no horse can say at least ten weeks .
+no horse can say more than ten weeks .
+no man can look at at least six sounds .
+no man can look at more than six sounds .
+no horse could leave at least fifty pictures .
+no horse could leave more than fifty pictures .
+no doctor could say at least eight legs .
+no doctor could say more than eight legs .
+no lion could show at least two pieces .
+no lion could show more than two pieces .
+no doctor could say at least ten parts .
+no doctor could say more than ten parts .
+no duck could show at least fifty days .
+no duck could show more than fifty days .
+no duck can take at least two keys .
+no duck can take more than two keys .
+no uncle could find at least twelve days .
+no uncle could find more than twelve days .
+no uncle could talk about at least ten hands .
+no uncle could talk about more than ten hands .
+no bear can play at least six friends .
+no bear can play more than six friends .
+no uncle can tell at least twelve bubbles .
+no uncle can tell more than twelve bubbles .
+no duck can show at least eight things .
+no duck can show more than eight things .
+no man can pick at least twelve songs .
+no man can pick more than twelve songs .
+no bear could move to at least six times .
+no bear could move to more than six times .
+no man could move to at least twelve times .
+no man could move to more than twelve times .
+no duck could talk about at least ten colors .
+no duck could talk about more than ten colors .
+no uncle can carry at least two eyes .
+no uncle can carry more than two eyes .
+no lion could take at least ten years .
+no lion could take more than ten years .
+no lion could pick at least ten songs .
+no lion could pick more than ten songs .
+no horse can open the door to at least six pictures .
+no horse can open the door to more than six pictures .
+no uncle can open the door to at least twelve works .
+no uncle can open the door to more than twelve works .
+no duck can see at least twelve boats .
+no duck can see more than twelve boats .
+no baby could give at least eight holes .
+no baby could give more than eight holes .
+no lion could play at least fifty friends .
+no lion could play more than fifty friends .
+no lion can pick at least six holes .
+no lion can pick more than six holes .
+no bear could tell at least eight sounds .
+no bear could tell more than eight sounds .
+no horse can say at least ten boys .
+no horse can say more than ten boys .
+no horse could catch at least fifty bubbles .
+no horse could catch more than fifty bubbles .
+no bear can talk about at least eight lines .
+no bear can talk about more than eight lines .
+no man can carry at least six trains .
+no man can carry more than six trains .
+no bear could take at least eight wheels .
+no bear could take more than eight wheels .
+no horse can show at least ten boats .
+no horse can show more than ten boats .
+no duck can give at least twelve words .
+no duck can give more than twelve words .
+no doctor can carry at least ten colors .
+no doctor can carry more than ten colors .
+no doctor could stand on top of at least six dogs .
+no doctor could stand on top of more than six dogs .
+no man could leave at least eight sounds .
+no man could leave more than eight sounds .
+no baby can hit at least fifty horses .
+no baby can hit more than fifty horses .
+no lion could give at least fifty boys .
+no lion could give more than fifty boys .
+no man could make at least two fingers .
+no man could make more than two fingers .
+no uncle can play at least six bears .
+no uncle can play more than six bears .
+no lion could look at at least two hands .
+no lion could look at more than two hands .
+no man could talk about at least six pieces .
+no man could talk about more than six pieces .
+no doctor can carry at least six eggs .
+no doctor can carry more than six eggs .
+no lion can carry at least six bears .
+no lion can carry more than six bears .
+no uncle can tell at least fifty birds .
+no uncle can tell more than fifty birds .
+no man could change at least six weeks .
+no man could change more than six weeks .
+no baby can tell at least twelve boats .
+no baby can tell more than twelve boats .
+no baby could talk about at least fifty fingers .
+no baby could talk about more than fifty fingers .
+no horse can see at least two stars .
+no horse can see more than two stars .
+no baby can say at least two bubbles .
+no baby can say more than two bubbles .
+no doctor can say at least two pictures .
+no doctor can say more than two pictures .
+no baby could pick at least two dogs .
+no baby could pick more than two dogs .
+no horse could carry at least two names .
+no horse could carry more than two names .
+no baby can take at least eight dogs .
+no baby can take more than eight dogs .
+no horse can leave at least six pieces .
+no horse can leave more than six pieces .
+no duck can carry at least twelve years .
+no duck can carry more than twelve years .
+no bear could look at at least six songs .
+no bear could look at more than six songs .
+no lion could say at least twelve weeks .
+no lion could say more than twelve weeks .
+no man can change at least ten boys .
+no man can change more than ten boys .
+no bear can talk about at least twelve trees .
+no bear can talk about more than twelve trees .
+no horse could change at least ten stars .
+no horse could change more than ten stars .
+no horse could see at least two days .
+no horse could see more than two days .
+no bear can see at least two bears .
+no bear can see more than two bears .
+no baby could show at least ten matches .
+no baby could show more than ten matches .
+no doctor could pick at least fifty years .
+no doctor could pick more than fifty years .
+no doctor can change at least twelve matches .
+no doctor can change more than twelve matches .
+no man can pick at least two songs .
+no man can pick more than two songs .
+no uncle could find at least six trees .
+no uncle could find more than six trees .
+no duck could move to at least ten colors .
+no duck could move to more than ten colors .
+no man can play at least fifty eyes .
+no man can play more than fifty eyes .
+no horse could open the door to at least two years .
+no horse could open the door to more than two years .
+no baby could make at least eight matches .
+no baby could make more than eight matches .
+no bear could say at least fifty eyes .
+no bear could say more than fifty eyes .
+no uncle could look at at least ten days .
+no uncle could look at more than ten days .
+no horse could catch at least two bubbles .
+no horse could catch more than two bubbles .
+no bear can pick at least six names .
+no bear can pick more than six names .
+no uncle could hit at least six years .
+no uncle could hit more than six years .
+no lion could leave at least fifty trees .
+no lion could leave more than fifty trees .
+no man could give at least ten pieces .
+no man could give more than ten pieces .
+no doctor could pick at least eight wheels .
+no doctor could pick more than eight wheels .
+no horse could say at least ten cars .
+no horse could say more than ten cars .
+no horse could move to at least eight keys .
+no horse could move to more than eight keys .
+no baby could see at least ten bubbles .
+no baby could see more than ten bubbles .
+no man can tell at least six words .
+no man can tell more than six words .
+no bear could pick at least twelve cars .
+no bear could pick more than twelve cars .
+no doctor could see at least fifty weeks .
+no doctor could see more than fifty weeks .
+no baby could give at least twelve holes .
+no baby could give more than twelve holes .
+no uncle could make at least fifty birds .
+no uncle could make more than fifty birds .
+no duck can change at least fifty cars .
+no duck can change more than fifty cars .
+no uncle could find at least fifty people .
+no uncle could find more than fifty people .
+no baby could take at least eight trees .
+no baby could take more than eight trees .
+no bear can see at least fifty boys .
+no bear can see more than fifty boys .
+no doctor could carry at least two bears .
+no doctor could carry more than two bears .
+no horse can catch at least twelve feet .
+no horse can catch more than twelve feet .
+no duck could say at least twelve feet .
+no duck could say more than twelve feet .
+no lion can pick at least eight boats .
+no lion can pick more than eight boats .
+no lion can see at least eight numbers .
+no lion can see more than eight numbers .
+no man could open the door to at least two dogs .
+no man could open the door to more than two dogs .
+no duck could find at least two bubbles .
+no duck could find more than two bubbles .
+no doctor could carry at least fifty bears .
+no doctor could carry more than fifty bears .
+no duck could stand on top of at least ten girls .
+no duck could stand on top of more than ten girls .
+no lion could make at least fifty boys .
+no lion could make more than fifty boys .
+no uncle can look at at least fifty matches .
+no uncle can look at more than fifty matches .
+no doctor could give at least ten minutes .
+no doctor could give more than ten minutes .
+no lion can look at at least eight matches .
+no lion can look at more than eight matches .
+no duck can talk about at least fifty eyes .
+no duck can talk about more than fifty eyes .
+no lion can find at least eight boats .
+no lion can find more than eight boats .
+no doctor could see at least fifty dogs .
+no doctor could see more than fifty dogs .
+no horse can show at least ten books .
+no horse can show more than ten books .
+no doctor can play at least twelve things .
+no doctor can play more than twelve things .
+no bear can make at least eight eggs .
+no bear can make more than eight eggs .
+no uncle could talk about at least twelve keys .
+no uncle could talk about more than twelve keys .
+no lion could catch at least two bubbles .
+no lion could catch more than two bubbles .
+no horse can see at least two things .
+no horse can see more than two things .
+no lion can make at least fifty matches .
+no lion can make more than fifty matches .
+no man can open the door to at least six dogs .
+no man can open the door to more than six dogs .
+no man could say at least ten sounds .
+no man could say more than ten sounds .
+no uncle could leave at least eight wheels .
+no uncle could leave more than eight wheels .
+no duck could move to at least eight things .
+no duck could move to more than eight things .
+no baby can hit at least twelve works .
+no baby can hit more than twelve works .
+no lion could make at least fifty weeks .
+no lion could make more than fifty weeks .
+no duck could find at least twelve sounds .
+no duck could find more than twelve sounds .
+no horse could make at least eight birds .
+no horse could make more than eight birds .
+no lion could pick at least fifty people .
+no lion could pick more than fifty people .
+no horse could look at at least eight numbers .
+no horse could look at more than eight numbers .
+no doctor can move to at least six colors .
+no doctor can move to more than six colors .
+no baby can take at least two girls .
+no baby can take more than two girls .
+no lion could carry at least ten eyes .
+no lion could carry more than ten eyes .
+no lion can move to at least ten books .
+no lion can move to more than ten books .
+no horse can talk about at least ten birds .
+no horse can talk about more than ten birds .
+no baby can say at least eight eyes .
+no baby can say more than eight eyes .
+no bear can catch at least twelve days .
+no bear can catch more than twelve days .
+no lion can give at least ten fingers .
+no lion can give more than ten fingers .
+no duck could see at least two eyes .
+no duck could see more than two eyes .
+no uncle could see at least twelve eggs .
+no uncle could see more than twelve eggs .
+no uncle can leave at least ten numbers .
+no uncle can leave more than ten numbers .
+no doctor could look at at least two eyes .
+no doctor could look at more than two eyes .
+no lion could catch at least fifty trees .
+no lion could catch more than fifty trees .
+no lion could see at least eight days .
+no lion could see more than eight days .
+no baby can stand on top of at least fifty songs .
+no baby can stand on top of more than fifty songs .
+no uncle can catch at least eight works .
+no uncle can catch more than eight works .
+no horse could leave at least fifty weeks .
+no horse could leave more than fifty weeks .
+no horse can hit at least six sounds .
+no horse can hit more than six sounds .
+no man could look at at least two boys .
+no man could look at more than two boys .
+no doctor could take at least two feet .
+no doctor could take more than two feet .
+no doctor can see at least twelve years .
+no doctor can see more than twelve years .
+no bear could leave at least twelve hands .
+no bear could leave more than twelve hands .
+no duck can play at least ten arms .
+no duck can play more than ten arms .
+no horse could look at at least ten pieces .
+no horse could look at more than ten pieces .
+no bear could open the door to at least eight songs .
+no bear could open the door to more than eight songs .
+no bear could move to at least eight girls .
+no bear could move to more than eight girls .
+no uncle could take at least ten minutes .
+no uncle could take more than ten minutes .
+no bear could talk about at least twelve years .
+no bear could talk about more than twelve years .
+no uncle can move to at least two stars .
+no uncle can move to more than two stars .
+no lion can take at least fifty eggs .
+no lion can take more than fifty eggs .
+no horse can play at least fifty boats .
+no horse can play more than fifty boats .
+no baby can give at least twelve keys .
+no baby can give more than twelve keys .
+no horse can see at least ten songs .
+no horse can see more than ten songs .
+no lion can take at least six girls .
+no lion can take more than six girls .
+no bear could give at least six weeks .
+no bear could give more than six weeks .
+no horse can look at at least ten trees .
+no horse can look at more than ten trees .
+no doctor can hit at least fifty friends .
+no doctor can hit more than fifty friends .
+no man can talk about at least six works .
+no man can talk about more than six works .
+no duck can show at least eight legs .
+no duck can show more than eight legs .
+no bear could play at least eight days .
+no bear could play more than eight days .
+no baby can stand on top of at least eight people .
+no baby can stand on top of more than eight people .
+no doctor could play at least ten fingers .
+no doctor could play more than ten fingers .
+no horse could show at least six arms .
+no horse could show more than six arms .
+no lion can change at least six legs .
+no lion can change more than six legs .
+no uncle can talk about at least ten stars .
+no uncle can talk about more than ten stars .
+no lion can make at least eight trees .
+no lion can make more than eight trees .
+no lion could play at least six times .
+no lion could play more than six times .
+no doctor can tell at least twelve legs .
+no doctor can tell more than twelve legs .
+no man can carry at least fifty lines .
+no man can carry more than fifty lines .
+no bear could say at least eight friends .
+no bear could say more than eight friends .
+no uncle can tell at least two matches .
+no uncle can tell more than two matches .
+no lion can pick at least ten years .
+no lion can pick more than ten years .
+no baby can catch at least two minutes .
+no baby can catch more than two minutes .
+no man can look at at least fifty bears .
+no man can look at more than fifty bears .
+no duck could take at least fifty wheels .
+no duck could take more than fifty wheels .
+no baby can carry at least ten lines .
+no baby can carry more than ten lines .
+no bear can tell at least ten hands .
+no bear can tell more than ten hands .
+no horse could stand on top of at least ten girls .
+no horse could stand on top of more than ten girls .
+no lion can stand on top of at least ten times .
+no lion can stand on top of more than ten times .
+no doctor could catch at least ten stars .
+no doctor could catch more than ten stars .
+no duck can find at least ten arms .
+no duck can find more than ten arms .
+no uncle could move to at least ten sounds .
+no uncle could move to more than ten sounds .
+no bear can pick at least six lines .
+no bear can pick more than six lines .
+no duck can make at least two trees .
+no duck can make more than two trees .
+no bear could find at least two parts .
+no bear could find more than two parts .
+no doctor can see at least two days .
+no doctor can see more than two days .
+no man can stand on top of at least eight keys .
+no man can stand on top of more than eight keys .
+no baby could find at least two boys .
+no baby could find more than two boys .
+no lion could find at least ten works .
+no lion could find more than ten works .
+no uncle could see at least two works .
+no uncle could see more than two works .
+no horse can see at least two times .
+no horse can see more than two times .
+no uncle could make at least twelve bears .
+no uncle could make more than twelve bears .
+no bear could tell at least six minutes .
+no bear could tell more than six minutes .
+no doctor can look at at least six pieces .
+no doctor can look at more than six pieces .
+no doctor could tell at least six weeks .
+no doctor could tell more than six weeks .
+no uncle could make at least fifty eyes .
+no uncle could make more than fifty eyes .
+no doctor could look at at least twelve trees .
+no doctor could look at more than twelve trees .
+no baby can stand on top of at least ten legs .
+no baby can stand on top of more than ten legs .
+no lion could change at least six feet .
+no lion could change more than six feet .
+no lion could look at at least ten colors .
+no lion could look at more than ten colors .
+no doctor could move to at least twelve eggs .
+no doctor could move to more than twelve eggs .
+no uncle could open the door to at least six dogs .
+no uncle could open the door to more than six dogs .
+no doctor can look at at least eight eggs .
+no doctor can look at more than eight eggs .
+no doctor can take at least twelve things .
+no doctor can take more than twelve things .
+no bear could open the door to at least fifty trains .
+no bear could open the door to more than fifty trains .
+no duck could find at least fifty weeks .
+no duck could find more than fifty weeks .
+no uncle can see at least ten weeks .
+no uncle can see more than ten weeks .
+no uncle can change at least fifty keys .
+no uncle can change more than fifty keys .
+no duck can carry at least eight minutes .
+no duck can carry more than eight minutes .
+no duck can catch at least two numbers .
+no duck can catch more than two numbers .
+no baby could play at least fifty holes .
+no baby could play more than fifty holes .
+no horse could see at least twelve times .
+no horse could see more than twelve times .
+no uncle can find at least six legs .
+no uncle can find more than six legs .
+no duck could leave at least ten lines .
+no duck could leave more than ten lines .
+no baby could play at least fifty birds .
+no baby could play more than fifty birds .
+no man can give at least fifty horses .
+no man can give more than fifty horses .
+no doctor could give at least two wheels .
+no doctor could give more than two wheels .
+no man can move to at least ten arms .
+no man can move to more than ten arms .
+no horse can hit at least fifty pieces .
+no horse can hit more than fifty pieces .
+no baby could tell at least two parts .
+no baby could tell more than two parts .
+no baby could play at least eight hands .
+no baby could play more than eight hands .
+no duck can hit at least twelve trains .
+no duck can hit more than twelve trains .
+no man can see at least eight words .
+no man can see more than eight words .
+no uncle could open the door to at least ten wheels .
+no uncle could open the door to more than ten wheels .
+no horse could change at least ten horses .
+no horse could change more than ten horses .
+no horse could show at least eight girls .
+no horse could show more than eight girls .
+no baby can change at least six legs .
+no baby can change more than six legs .
+no man could find at least ten stars .
+no man could find more than ten stars .
+no lion could carry at least six colors .
+no lion could carry more than six colors .
+no man can make at least fifty cars .
+no man can make more than fifty cars .
+no horse could stand on top of at least six legs .
+no horse could stand on top of more than six legs .
+no horse could pick at least two years .
+no horse could pick more than two years .
+no man can make at least two books .
+no man can make more than two books .
+no duck could give at least fifty lines .
+no duck could give more than fifty lines .
+no doctor could catch at least twelve things .
+no doctor could catch more than twelve things .
+no man can see at least fifty cars .
+no man can see more than fifty cars .
+no horse can pick at least six people .
+no horse can pick more than six people .
+no baby can talk about at least two boys .
+no baby can talk about more than two boys .
+no bear could look at at least twelve matches .
+no bear could look at more than twelve matches .
+no baby could find at least eight eggs .
+no baby could find more than eight eggs .
+no duck could make at least eight boats .
+no duck could make more than eight boats .
+no uncle can talk about at least two flowers .
+no uncle can talk about more than two flowers .
+no baby can take at least fifty boats .
+no baby can take more than fifty boats .
+no horse could move to at least twelve boys .
+no horse could move to more than twelve boys .
+no lion can find at least six years .
+no lion can find more than six years .
+no man can catch at least two friends .
+no man can catch more than two friends .
+no duck can find at least fifty boys .
+no duck can find more than fifty boys .
+no man could take at least fifty names .
+no man could take more than fifty names .
+no man could leave at least ten holes .
+no man could leave more than ten holes .
+no horse can take at least fifty fingers .
+no horse can take more than fifty fingers .
+no uncle can change at least twelve boys .
+no uncle can change more than twelve boys .
+no baby can take at least fifty books .
+no baby can take more than fifty books .
+no horse can catch at least six matches .
+no horse can catch more than six matches .
+no uncle can tell at least fifty pictures .
+no uncle can tell more than fifty pictures .
+no baby can carry at least ten horses .
+no baby can carry more than ten horses .
+no doctor could see at least twelve arms .
+no doctor could see more than twelve arms .
+no uncle could open the door to at least ten days .
+no uncle could open the door to more than ten days .
+no lion could talk about at least fifty parts .
+no lion could talk about more than fifty parts .
+no baby could leave at least twelve trains .
+no baby could leave more than twelve trains .
+no bear could move to at least six boys .
+no bear could move to more than six boys .
+no duck could play at least six weeks .
+no duck could play more than six weeks .
+no lion can leave at least eight horses .
+no lion can leave more than eight horses .
+no horse could look at at least twelve letters .
+no horse could look at more than twelve letters .
+no doctor can take at least twelve boats .
+no doctor can take more than twelve boats .
+no baby can pick at least eight days .
+no baby can pick more than eight days .
+no man could play at least ten matches .
+no man could play more than ten matches .
+no lion could play at least six lines .
+no lion could play more than six lines .
+no baby can leave at least six pictures .
+no baby can leave more than six pictures .
+no man could hit at least twelve days .
+no man could hit more than twelve days .
+no baby can show at least twelve letters .
+no baby can show more than twelve letters .
+no doctor could pick at least fifty times .
+no doctor could pick more than fifty times .
+no bear could open the door to at least two friends .
+no bear could open the door to more than two friends .
+no lion could play at least two keys .
+no lion could play more than two keys .
+no bear can move to at least eight times .
+no bear can move to more than eight times .
+no lion could pick at least fifty fingers .
+no lion could pick more than fifty fingers .
+no baby could play at least fifty trees .
+no baby could play more than fifty trees .
+no man could show at least ten times .
+no man could show more than ten times .
+no horse can tell at least ten eyes .
+no horse can tell more than ten eyes .
+no man could look at at least two cars .
+no man could look at more than two cars .
+no uncle could change at least eight friends .
+no uncle could change more than eight friends .
+no duck can pick at least fifty days .
+no duck can pick more than fifty days .
+no bear can carry at least eight feet .
+no bear can carry more than eight feet .
+no doctor could carry at least ten pictures .
+no doctor could carry more than ten pictures .
+no duck can look at at least six numbers .
+no duck can look at more than six numbers .
+no lion could leave at least six things .
+no lion could leave more than six things .
+no bear could make at least twelve books .
+no bear could make more than twelve books .
+no bear can stand on top of at least twelve stars .
+no bear can stand on top of more than twelve stars .
+no horse can take at least twelve birds .
+no horse can take more than twelve birds .
+no lion can open the door to at least fifty sounds .
+no lion can open the door to more than fifty sounds .
+no bear could see at least twelve sounds .
+no bear could see more than twelve sounds .
+no man could give at least eight sounds .
+no man could give more than eight sounds .
+no lion could find at least two fingers .
+no lion could find more than two fingers .
+no horse could hit at least ten horses .
+no horse could hit more than ten horses .
+no lion can take at least eight people .
+no lion can take more than eight people .
+no lion could see at least eight legs .
+no lion could see more than eight legs .
+no lion could stand on top of at least six pictures .
+no lion could stand on top of more than six pictures .
+no man can tell at least two keys .
+no man can tell more than two keys .
+no duck can move to at least ten words .
+no duck can move to more than ten words .
+no uncle can take at least twelve years .
+no uncle can take more than twelve years .
+no bear can leave at least two horses .
+no bear can leave more than two horses .
+no uncle can open the door to at least six matches .
+no uncle can open the door to more than six matches .
+no uncle can catch at least six names .
+no uncle can catch more than six names .
+no uncle could make at least two letters .
+no uncle could make more than two letters .
+no bear could show at least twelve minutes .
+no bear could show more than twelve minutes .
+no man can play at least eight stars .
+no man can play more than eight stars .
+no doctor can carry at least two keys .
+no doctor can carry more than two keys .
+no man can find at least eight pictures .
+no man can find more than eight pictures .
+no horse could leave at least two years .
+no horse could leave more than two years .
+no doctor can change at least fifty holes .
+no doctor can change more than fifty holes .
+no baby could give at least two boys .
+no baby could give more than two boys .
+no horse can look at at least fifty words .
+no horse can look at more than fifty words .
+no bear could change at least fifty numbers .
+no bear could change more than fifty numbers .
+no doctor can make at least eight years .
+no doctor can make more than eight years .
+no man can play at least eight birds .
+no man can play more than eight birds .
+no lion could hit at least two horses .
+no lion could hit more than two horses .
+no doctor can pick at least fifty numbers .
+no doctor can pick more than fifty numbers .
+no horse can leave at least six flowers .
+no horse can leave more than six flowers .
+no doctor can move to at least fifty letters .
+no doctor can move to more than fifty letters .
+no duck can play at least two numbers .
+no duck can play more than two numbers .
+no lion can catch at least two boys .
+no lion can catch more than two boys .
+no bear can make at least two works .
+no bear can make more than two works .
+no uncle could leave at least two times .
+no uncle could leave more than two times .
+no doctor could pick at least fifty keys .
+no doctor could pick more than fifty keys .
+no baby could talk about at least six fingers .
+no baby could talk about more than six fingers .
+no baby can look at at least eight bubbles .
+no baby can look at more than eight bubbles .
+no horse could move to at least twelve days .
+no horse could move to more than twelve days .
+no bear can stand on top of at least eight days .
+no bear can stand on top of more than eight days .
+no uncle could give at least eight parts .
+no uncle could give more than eight parts .
+no man can hit at least eight eyes .
+no man can hit more than eight eyes .
+no man could see at least six friends .
+no man could see more than six friends .
+no doctor could say at least fifty fingers .
+no doctor could say more than fifty fingers .
+no uncle could play at least six friends .
+no uncle could play more than six friends .
+no man could carry at least fifty bubbles .
+no man could carry more than fifty bubbles .
+no man can take at least six parts .
+no man can take more than six parts .
+no duck can catch at least fifty birds .
+no duck can catch more than fifty birds .
+no duck can leave at least eight horses .
+no duck can leave more than eight horses .
+no horse can give at least twelve keys .
+no horse can give more than twelve keys .
+no man could see at least fifty matches .
+no man could see more than fifty matches .
+no uncle can hit at least eight sounds .
+no uncle can hit more than eight sounds .
+no doctor could look at at least six weeks .
+no doctor could look at more than six weeks .
+no man can play at least six people .
+no man can play more than six people .
+no duck could catch at least eight wheels .
+no duck could catch more than eight wheels .
+no doctor can leave at least six friends .
+no doctor can leave more than six friends .
+no doctor could make at least ten numbers .
+no doctor could make more than ten numbers .
+no man can carry at least ten matches .
+no man can carry more than ten matches .
+no lion could tell at least fifty lines .
+no lion could tell more than fifty lines .
+no bear could catch at least ten books .
+no bear could catch more than ten books .
+no duck can make at least ten sounds .
+no duck can make more than ten sounds .
+no duck could make at least fifty letters .
+no duck could make more than fifty letters .
+no duck could give at least six eggs .
+no duck could give more than six eggs .
+no man could talk about at least twelve parts .
+no man could talk about more than twelve parts .
+no bear can hit at least two fingers .
+no bear can hit more than two fingers .
+no duck can make at least ten works .
+no duck can make more than ten works .
+no uncle could give at least two minutes .
+no uncle could give more than two minutes .
+no horse could say at least twelve cars .
+no horse could say more than twelve cars .
+no doctor can show at least six arms .
+no doctor can show more than six arms .
+no doctor can hit at least two times .
+no doctor can hit more than two times .
+no doctor could tell at least eight cars .
+no doctor could tell more than eight cars .
+no baby can find at least eight years .
+no baby can find more than eight years .
+no man can take at least twelve friends .
+no man can take more than twelve friends .
+no duck could show at least six flowers .
+no duck could show more than six flowers .
+no lion could change at least six bears .
+no lion could change more than six bears .
+no duck could stand on top of at least eight books .
+no duck could stand on top of more than eight books .
+no baby could catch at least twelve pieces .
+no baby could catch more than twelve pieces .
+no doctor can change at least two people .
+no doctor can change more than two people .
+no horse can say at least fifty flowers .
+no horse can say more than fifty flowers .
+no baby can look at at least two lines .
+no baby can look at more than two lines .
+no uncle could see at least two things .
+no uncle could see more than two things .
+no doctor could leave at least six boys .
+no doctor could leave more than six boys .
+no baby can pick at least fifty arms .
+no baby can pick more than fifty arms .
+no duck can change at least eight keys .
+no duck can change more than eight keys .
+no horse can look at at least fifty names .
+no horse can look at more than fifty names .
+no bear could change at least six legs .
+no bear could change more than six legs .
+no doctor could say at least twelve eyes .
+no doctor could say more than twelve eyes .
+no doctor could stand on top of at least twelve flowers .
+no doctor could stand on top of more than twelve flowers .
+no horse can look at at least twelve years .
+no horse can look at more than twelve years .
+no man can change at least two horses .
+no man can change more than two horses .
+no man can leave at least ten people .
+no man can leave more than ten people .
+no lion can make at least ten matches .
+no lion can make more than ten matches .
+no horse can catch at least eight books .
+no horse can catch more than eight books .
+no lion can catch at least six birds .
+no lion can catch more than six birds .
+no man could take at least fifty lines .
+no man could take more than fifty lines .
+no horse can pick at least eight trains .
+no horse can pick more than eight trains .
+no uncle could say at least ten sounds .
+no uncle could say more than ten sounds .
+no horse can talk about at least six words .
+no horse can talk about more than six words .
+no uncle can take at least six pictures .
+no uncle can take more than six pictures .
+no man can take at least twelve letters .
+no man can take more than twelve letters .
+no baby could make at least two stars .
+no baby could make more than two stars .
+no bear could make at least two weeks .
+no bear could make more than two weeks .
+no doctor can make at least eight fingers .
+no doctor can make more than eight fingers .
+no lion can show at least twelve years .
+no lion can show more than twelve years .
+no doctor could change at least twelve cars .
+no doctor could change more than twelve cars .
+no bear can open the door to at least fifty cars .
+no bear can open the door to more than fifty cars .
+no doctor can carry at least ten lines .
+no doctor can carry more than ten lines .
+no man can move to at least ten feet .
+no man can move to more than ten feet .
+no horse could catch at least fifty names .
+no horse could catch more than fifty names .
+no lion could pick at least two girls .
+no lion could pick more than two girls .
+no man could talk about at least twelve dogs .
+no man could talk about more than twelve dogs .
+no lion could change at least eight works .
+no lion could change more than eight works .
+no bear could catch at least two works .
+no bear could catch more than two works .
+no doctor can stand on top of at least two girls .
+no doctor can stand on top of more than two girls .
+no doctor could move to at least fifty keys .
+no doctor could move to more than fifty keys .
+no bear could take at least fifty times .
+no bear could take more than fifty times .
+no horse could make at least ten dogs .
+no horse could make more than ten dogs .
+no man can catch at least ten minutes .
+no man can catch more than ten minutes .
+no doctor can carry at least eight words .
+no doctor can carry more than eight words .
+no uncle could play at least six songs .
+no uncle could play more than six songs .
+no man could look at at least six legs .
+no man could look at more than six legs .
+no duck can make at least ten boats .
+no duck can make more than ten boats .
+no baby could show at least six bears .
+no baby could show more than six bears .
+no uncle can show at least ten numbers .
+no uncle can show more than ten numbers .
+no horse can carry at least fifty days .
+no horse can carry more than fifty days .
+no man could catch at least ten trains .
+no man could catch more than ten trains .
+no bear could tell at least two things .
+no bear could tell more than two things .
+no man could talk about at least six weeks .
+no man could talk about more than six weeks .
+no uncle could make at least ten arms .
+no uncle could make more than ten arms .
+no uncle could catch at least ten flowers .
+no uncle could catch more than ten flowers .
+no doctor can look at at least fifty books .
+no doctor can look at more than fifty books .
+no bear could give at least two works .
+no bear could give more than two works .
+no uncle could hit at least eight letters .
+no uncle could hit more than eight letters .
+no duck can talk about at least twelve fingers .
+no duck can talk about more than twelve fingers .
+no horse could stand on top of at least two cars .
+no horse could stand on top of more than two cars .
+no duck could talk about at least six minutes .
+no duck could talk about more than six minutes .
+no uncle could stand on top of at least ten friends .
+no uncle could stand on top of more than ten friends .
+no bear could show at least twelve things .
+no bear could show more than twelve things .
+no lion could catch at least twelve boys .
+no lion could catch more than twelve boys .
+no doctor can take at least twelve fingers .
+no doctor can take more than twelve fingers .
+no lion could take at least eight books .
+no lion could take more than eight books .
+no man can take at least twelve girls .
+no man can take more than twelve girls .
+no duck can catch at least two arms .
+no duck can catch more than two arms .
+no duck could play at least fifty arms .
+no duck could play more than fifty arms .
+no doctor can catch at least eight times .
+no doctor can catch more than eight times .
+no horse could make at least twelve legs .
+no horse could make more than twelve legs .
+no horse can tell at least two cars .
+no horse can tell more than two cars .
+no horse could move to at least two colors .
+no horse could move to more than two colors .
+no duck could tell at least twelve songs .
+no duck could tell more than twelve songs .
+no baby can find at least fifty songs .
+no baby can find more than fifty songs .
+no baby could show at least six lines .
+no baby could show more than six lines .
+no baby could tell at least two feet .
+no baby could tell more than two feet .
+no doctor could talk about at least fifty horses .
+no doctor could talk about more than fifty horses .
+no uncle can talk about at least six matches .
+no uncle can talk about more than six matches .
+no doctor could tell at least two holes .
+no doctor could tell more than two holes .
+no baby could show at least two pictures .
+no baby could show more than two pictures .
+no doctor could show at least six bears .
+no doctor could show more than six bears .
+no doctor can say at least six matches .
+no doctor can say more than six matches .
+no uncle can change at least ten trains .
+no uncle can change more than ten trains .
+no duck could stand on top of at least eight horses .
+no duck could stand on top of more than eight horses .
+no uncle could talk about at least ten eggs .
+no uncle could talk about more than ten eggs .
+no baby can catch at least fifty hands .
+no baby can catch more than fifty hands .
+no man can leave at least fifty names .
+no man can leave more than fifty names .
+no bear can play at least ten numbers .
+no bear can play more than ten numbers .
+no doctor can give at least fifty minutes .
+no doctor can give more than fifty minutes .
+no lion could give at least fifty trains .
+no lion could give more than fifty trains .
+no doctor could play at least eight keys .
+no doctor could play more than eight keys .
+no horse can change at least twelve people .
+no horse can change more than twelve people .
+no baby could hit at least fifty hands .
+no baby could hit more than fifty hands .
+no uncle could change at least fifty songs .
+no uncle could change more than fifty songs .
+no lion could pick at least two stars .
+no lion could pick more than two stars .
+no horse could move to at least twelve boats .
+no horse could move to more than twelve boats .
+no lion could hit at least six trains .
+no lion could hit more than six trains .
+no doctor could play at least ten books .
+no doctor could play more than ten books .
+no horse could give at least twelve fingers .
+no horse could give more than twelve fingers .
+no uncle could see at least two sounds .
+no uncle could see more than two sounds .
+no horse could say at least twelve feet .
+no horse could say more than twelve feet .
+no baby could say at least ten trees .
+no baby could say more than ten trees .
+no baby can give at least eight feet .
+no baby can give more than eight feet .
+no duck can carry at least six minutes .
+no duck can carry more than six minutes .
+no man can give at least twelve boys .
+no man can give more than twelve boys .
+no baby could leave at least twelve pieces .
+no baby could leave more than twelve pieces .
+no horse can pick at least two hands .
+no horse can pick more than two hands .
+no horse could open the door to at least six eggs .
+no horse could open the door to more than six eggs .
+no baby can change at least two arms .
+no baby can change more than two arms .
+no uncle can tell at least two horses .
+no uncle can tell more than two horses .
+no doctor could find at least ten things .
+no doctor could find more than ten things .
+no baby can show at least ten boys .
+no baby can show more than ten boys .
+no uncle can show at least twelve names .
+no uncle can show more than twelve names .
+no doctor can tell at least two people .
+no doctor can tell more than two people .
+no lion could catch at least six arms .
+no lion could catch more than six arms .
+no doctor can hit at least two names .
+no doctor can hit more than two names .
+no man can play at least twelve times .
+no man can play more than twelve times .
+no baby could say at least six things .
+no baby could say more than six things .
+no uncle can show at least six flowers .
+no uncle can show more than six flowers .
+no man could change at least fifty books .
+no man could change more than fifty books .
+no bear could give at least twelve girls .
+no bear could give more than twelve girls .
+no doctor could catch at least fifty lines .
+no doctor could catch more than fifty lines .
+no doctor can find at least fifty friends .
+no doctor can find more than fifty friends .
+no lion can give at least fifty dogs .
+no lion can give more than fifty dogs .
+no duck can tell at least fifty days .
+no duck can tell more than fifty days .
+no bear can catch at least eight weeks .
+no bear can catch more than eight weeks .
+no horse could make at least twelve holes .
+no horse could make more than twelve holes .
+no doctor could say at least twelve eggs .
+no doctor could say more than twelve eggs .
+no uncle could stand on top of at least eight things .
+no uncle could stand on top of more than eight things .
+no baby can open the door to at least ten eggs .
+no baby can open the door to more than ten eggs .
+no duck can look at at least eight pictures .
+no duck can look at more than eight pictures .
+no horse can tell at least twelve horses .
+no horse can tell more than twelve horses .
+no doctor can stand on top of at least eight parts .
+no doctor can stand on top of more than eight parts .
+no bear can take at least fifty times .
+no bear can take more than fifty times .
+no lion can tell at least eight pieces .
+no lion can tell more than eight pieces .
+no man can play at least eight dogs .
+no man can play more than eight dogs .
+no horse could carry at least fifty matches .
+no horse could carry more than fifty matches .
+no lion could find at least two eyes .
+no lion could find more than two eyes .
+no duck can stand on top of at least ten sounds .
+no duck can stand on top of more than ten sounds .
+no duck can make at least ten wheels .
+no duck can make more than ten wheels .
+no man can change at least fifty sounds .
+no man can change more than fifty sounds .
+no bear can move to at least six legs .
+no bear can move to more than six legs .
+no baby could find at least ten legs .
+no baby could find more than ten legs .
+no horse could see at least fifty people .
+no horse could see more than fifty people .
+no baby can leave at least ten names .
+no baby can leave more than ten names .
+no doctor can open the door to at least six works .
+no doctor can open the door to more than six works .
+no horse could catch at least six wheels .
+no horse could catch more than six wheels .
+no duck could change at least ten wheels .
+no duck could change more than ten wheels .
+no bear could hit at least two names .
+no bear could hit more than two names .
+no horse can change at least ten eyes .
+no horse can change more than ten eyes .
+no baby could change at least two works .
+no baby could change more than two works .
+no man can move to at least eight colors .
+no man can move to more than eight colors .
+no horse can make at least ten bubbles .
+no horse can make more than ten bubbles .
+no bear can take at least six books .
+no bear can take more than six books .
+no lion could look at at least fifty friends .
+no lion could look at more than fifty friends .
+no lion could change at least two wheels .
+no lion could change more than two wheels .
+no man can talk about at least two people .
+no man can talk about more than two people .
+no man could see at least fifty feet .
+no man could see more than fifty feet .
+no uncle could tell at least two trains .
+no uncle could tell more than two trains .
+no uncle can play at least ten years .
+no uncle can play more than ten years .
+no bear could catch at least fifty lines .
+no bear could catch more than fifty lines .
+no baby can stand on top of at least six dogs .
+no baby can stand on top of more than six dogs .
+no doctor could see at least ten boats .
+no doctor could see more than ten boats .
+no baby can move to at least fifty numbers .
+no baby can move to more than fifty numbers .
+no doctor could leave at least six bears .
+no doctor could leave more than six bears .
+no horse could pick at least eight parts .
+no horse could pick more than eight parts .
+no man could change at least fifty boys .
+no man could change more than fifty boys .
+no bear can open the door to at least twelve names .
+no bear can open the door to more than twelve names .
+no man can open the door to at least eight stars .
+no man can open the door to more than eight stars .
+no doctor could carry at least six parts .
+no doctor could carry more than six parts .
+no baby can show at least two letters .
+no baby can show more than two letters .
+no uncle could catch at least twelve minutes .
+no uncle could catch more than twelve minutes .
+no duck can tell at least fifty lines .
+no duck can tell more than fifty lines .
+no doctor can move to at least twelve cars .
+no doctor can move to more than twelve cars .
+no lion could catch at least two letters .
+no lion could catch more than two letters .
+no man can hit at least eight feet .
+no man can hit more than eight feet .
+no horse could show at least fifty people .
+no horse could show more than fifty people .
+no uncle could talk about at least twelve songs .
+no uncle could talk about more than twelve songs .
+no uncle can hit at least six stars .
+no uncle can hit more than six stars .
+no uncle could look at at least eight times .
+no uncle could look at more than eight times .
+no doctor could give at least fifty trains .
+no doctor could give more than fifty trains .
+no man can say at least ten legs .
+no man can say more than ten legs .
+no lion could hit at least twelve wheels .
+no lion could hit more than twelve wheels .
+no baby can take at least ten feet .
+no baby can take more than ten feet .
+no uncle can give at least two numbers .
+no uncle can give more than two numbers .
+no uncle could look at at least ten weeks .
+no uncle could look at more than ten weeks .
+no duck could stand on top of at least six holes .
+no duck could stand on top of more than six holes .
+no duck can change at least fifty dogs .
+no duck can change more than fifty dogs .
+no bear could open the door to at least eight feet .
+no bear could open the door to more than eight feet .
+no uncle could catch at least twelve weeks .
+no uncle could catch more than twelve weeks .
+no horse could open the door to at least two bears .
+no horse could open the door to more than two bears .
+no horse could take at least ten bubbles .
+no horse could take more than ten bubbles .
+no duck could catch at least two people .
+no duck could catch more than two people .
+no bear could stand on top of at least eight works .
+no bear could stand on top of more than eight works .
+no doctor can hit at least two horses .
+no doctor can hit more than two horses .
+no baby can carry at least ten friends .
+no baby can carry more than ten friends .
+no man could open the door to at least eight cars .
+no man could open the door to more than eight cars .
+no lion can leave at least six hands .
+no lion can leave more than six hands .
+no horse could make at least eight friends .
+no horse could make more than eight friends .
+no duck can move to at least eight boats .
+no duck can move to more than eight boats .
+no uncle can tell at least eight times .
+no uncle can tell more than eight times .
+no uncle can stand on top of at least eight pictures .
+no uncle can stand on top of more than eight pictures .
+no bear can find at least eight hands .
+no bear can find more than eight hands .
+no lion can tell at least eight trees .
+no lion can tell more than eight trees .
+no bear can look at at least two pieces .
+no bear can look at more than two pieces .
+no baby could carry at least six songs .
+no baby could carry more than six songs .
+no baby could open the door to at least fifty boats .
+no baby could open the door to more than fifty boats .
+no uncle can play at least ten times .
+no uncle can play more than ten times .
+no baby could show at least two wheels .
+no baby could show more than two wheels .
+no man can find at least ten people .
+no man can find more than ten people .
+no bear could carry at least eight matches .
+no bear could carry more than eight matches .
+no doctor could tell at least ten times .
+no doctor could tell more than ten times .
+no baby can make at least fifty eggs .
+no baby can make more than fifty eggs .
+no man could hit at least fifty pieces .
+no man could hit more than fifty pieces .
+no horse could leave at least two matches .
+no horse could leave more than two matches .
+no duck can stand on top of at least two legs .
+no duck can stand on top of more than two legs .
+no baby could find at least eight bears .
+no baby could find more than eight bears .
+no lion could move to at least two holes .
+no lion could move to more than two holes .
+no duck can catch at least two friends .
+no duck can catch more than two friends .
+no man can stand on top of at least fifty colors .
+no man can stand on top of more than fifty colors .
+no baby can change at least twelve sounds .
+no baby can change more than twelve sounds .
+no baby could hit at least six days .
+no baby could hit more than six days .
+no duck can change at least fifty eyes .
+no duck can change more than fifty eyes .
+no lion could open the door to at least six boys .
+no lion could open the door to more than six boys .
+no bear could change at least two books .
+no bear could change more than two books .
+no uncle can catch at least six years .
+no uncle can catch more than six years .
+no man can show at least twelve keys .
+no man can show more than twelve keys .
+no bear can move to at least fifty fingers .
+no bear can move to more than fifty fingers .
+no duck can change at least ten days .
+no duck can change more than ten days .
+no duck can leave at least two bubbles .
+no duck can leave more than two bubbles .
+no lion could pick at least two things .
+no lion could pick more than two things .
+no uncle could pick at least eight wheels .
+no uncle could pick more than eight wheels .
+no baby can take at least twelve things .
+no baby can take more than twelve things .
+no duck could tell at least ten lines .
+no duck could tell more than ten lines .
+no horse can see at least eight words .
+no horse can see more than eight words .
+no uncle can catch at least ten letters .
+no uncle can catch more than ten letters .
+no baby could carry at least fifty people .
+no baby could carry more than fifty people .
+no duck could make at least twelve colors .
+no duck could make more than twelve colors .
+no duck can change at least twelve letters .
+no duck can change more than twelve letters .
+no doctor can make at least twelve pictures .
+no doctor can make more than twelve pictures .
+no uncle can say at least six bears .
+no uncle can say more than six bears .
+no horse could move to at least ten years .
+no horse could move to more than ten years .
+no horse can move to at least fifty people .
+no horse can move to more than fifty people .
+no man could move to at least fifty days .
+no man could move to more than fifty days .
+no man could stand on top of at least six books .
+no man could stand on top of more than six books .
+no man could talk about at least ten numbers .
+no man could talk about more than ten numbers .
+no horse can change at least two keys .
+no horse can change more than two keys .
+no man could give at least six letters .
+no man could give more than six letters .
+no man can pick at least fifty songs .
+no man can pick more than fifty songs .
+no baby can see at least fifty dogs .
+no baby can see more than fifty dogs .
+no horse can show at least eight trains .
+no horse can show more than eight trains .
+no baby can catch at least six people .
+no baby can catch more than six people .
+no bear could show at least ten friends .
+no bear could show more than ten friends .
+no baby could play at least eight eggs .
+no baby could play more than eight eggs .
+no uncle could move to at least twelve songs .
+no uncle could move to more than twelve songs .
+no horse could carry at least twelve cars .
+no horse could carry more than twelve cars .
+no doctor could play at least six books .
+no doctor could play more than six books .
+no lion could tell at least twelve feet .
+no lion could tell more than twelve feet .
+no uncle could show at least eight flowers .
+no uncle could show more than eight flowers .
+no baby could tell at least fifty boys .
+no baby could tell more than fifty boys .
+no duck could show at least ten matches .
+no duck could show more than ten matches .
+no duck could catch at least ten matches .
+no duck could catch more than ten matches .
+no duck could pick at least ten parts .
+no duck could pick more than ten parts .
+no uncle can hit at least ten pictures .
+no uncle can hit more than ten pictures .
+no doctor could make at least twelve wheels .
+no doctor could make more than twelve wheels .
+no lion could take at least twelve people .
+no lion could take more than twelve people .
+no duck can change at least fifty girls .
+no duck can change more than fifty girls .
+no lion can talk about at least two keys .
+no lion can talk about more than two keys .
+no duck could talk about at least fifty boys .
+no duck could talk about more than fifty boys .
+no duck can catch at least two days .
+no duck can catch more than two days .
+no uncle could catch at least eight bears .
+no uncle could catch more than eight bears .
+no duck can show at least six cars .
+no duck can show more than six cars .
+no horse could stand on top of at least six things .
+no horse could stand on top of more than six things .
+no lion can find at least eight trees .
+no lion can find more than eight trees .
+no horse could play at least two horses .
+no horse could play more than two horses .
+no bear can give at least ten books .
+no bear can give more than ten books .
+no duck could play at least two weeks .
+no duck could play more than two weeks .
+no bear could carry at least fifty names .
+no bear could carry more than fifty names .
+no uncle can leave at least fifty feet .
+no uncle can leave more than fifty feet .
+no uncle could play at least ten eyes .
+no uncle could play more than ten eyes .
+no doctor can see at least ten pieces .
+no doctor can see more than ten pieces .
+no doctor could pick at least two things .
+no doctor could pick more than two things .
+no horse can take at least eight keys .
+no horse can take more than eight keys .
+no uncle can change at least eight flowers .
+no uncle can change more than eight flowers .
+no doctor can say at least twelve stars .
+no doctor can say more than twelve stars .
+no baby can change at least fifty letters .
+no baby can change more than fifty letters .
+no doctor can take at least ten matches .
+no doctor can take more than ten matches .
+no bear could stand on top of at least fifty horses .
+no bear could stand on top of more than fifty horses .
+no doctor can make at least six words .
+no doctor can make more than six words .
+no man can move to at least two flowers .
+no man can move to more than two flowers .
+no lion can talk about at least eight friends .
+no lion can talk about more than eight friends .
+no duck could see at least ten trains .
+no duck could see more than ten trains .
+no bear can talk about at least two bubbles .
+no bear can talk about more than two bubbles .
+no man could tell at least eight eyes .
+no man could tell more than eight eyes .
+no lion could change at least two colors .
+no lion could change more than two colors .
+no baby could say at least eight minutes .
+no baby could say more than eight minutes .
+no doctor could move to at least twelve lines .
+no doctor could move to more than twelve lines .
+no man can pick at least eight girls .
+no man can pick more than eight girls .
+no lion can pick at least ten bubbles .
+no lion can pick more than ten bubbles .
+no lion can carry at least ten names .
+no lion can carry more than ten names .
+no man can talk about at least six bubbles .
+no man can talk about more than six bubbles .
+no lion could hit at least fifty lines .
+no lion could hit more than fifty lines .
+no uncle can pick at least twelve lines .
+no uncle can pick more than twelve lines .
+no bear could pick at least ten pictures .
+no bear could pick more than ten pictures .
+no lion could open the door to at least twelve boats .
+no lion could open the door to more than twelve boats .
+no duck could see at least fifty pieces .
+no duck could see more than fifty pieces .
+no lion could hit at least two birds .
+no lion could hit more than two birds .
+no bear could stand on top of at least ten numbers .
+no bear could stand on top of more than ten numbers .
+no lion can open the door to at least ten boys .
+no lion can open the door to more than ten boys .
+no doctor can show at least six legs .
+no doctor can show more than six legs .
+no bear could hit at least ten feet .
+no bear could hit more than ten feet .
+no man could hit at least fifty works .
+no man could hit more than fifty works .
+no duck can say at least fifty years .
+no duck can say more than fifty years .
+no bear could change at least two flowers .
+no bear could change more than two flowers .
+no uncle could hit at least eight birds .
+no uncle could hit more than eight birds .
+no baby can give at least two friends .
+no baby can give more than two friends .
+no lion can catch at least two eggs .
+no lion can catch more than two eggs .
+no horse can make at least fifty holes .
+no horse can make more than fifty holes .
+no bear can look at at least ten feet .
+no bear can look at more than ten feet .
+no uncle could move to at least two people .
+no uncle could move to more than two people .
+no horse can see at least ten people .
+no horse can see more than ten people .
+no doctor could make at least eight dogs .
+no doctor could make more than eight dogs .
+no duck could tell at least twelve feet .
+no duck could tell more than twelve feet .
+no doctor could say at least fifty colors .
+no doctor could say more than fifty colors .
+no horse can tell at least eight flowers .
+no horse can tell more than eight flowers .
+no duck can stand on top of at least six boats .
+no duck can stand on top of more than six boats .
+no baby can see at least two names .
+no baby can see more than two names .
+no lion can find at least fifty keys .
+no lion can find more than fifty keys .
+no man can pick at least ten hands .
+no man can pick more than ten hands .
+no man could open the door to at least twelve things .
+no man could open the door to more than twelve things .
+no horse can change at least eight minutes .
+no horse can change more than eight minutes .
+no uncle can say at least ten arms .
+no uncle can say more than ten arms .
+no bear can carry at least ten wheels .
+no bear can carry more than ten wheels .
+no baby can pick at least six bears .
+no baby can pick more than six bears .
+no doctor could look at at least ten people .
+no doctor could look at more than ten people .
+no doctor could show at least two feet .
+no doctor could show more than two feet .
+no duck could make at least two trees .
+no duck could make more than two trees .
+no uncle can catch at least fifty numbers .
+no uncle can catch more than fifty numbers .
+no horse could take at least twelve sounds .
+no horse could take more than twelve sounds .
+no man could see at least six horses .
+no man could see more than six horses .
+no uncle can hit at least eight flowers .
+no uncle can hit more than eight flowers .
+no duck could find at least two hands .
+no duck could find more than two hands .
+no doctor can talk about at least two bears .
+no doctor can talk about more than two bears .
+no duck could move to at least ten numbers .
+no duck could move to more than ten numbers .
+no horse could open the door to at least eight pieces .
+no horse could open the door to more than eight pieces .
+no duck can carry at least six pictures .
+no duck can carry more than six pictures .
+no lion could tell at least fifty trees .
+no lion could tell more than fifty trees .
+no lion can take at least six pieces .
+no lion can take more than six pieces .
+no man can play at least ten bubbles .
+no man can play more than ten bubbles .
+no bear could take at least eight dogs .
+no bear could take more than eight dogs .
+no duck can catch at least eight holes .
+no duck can catch more than eight holes .
+no man could change at least fifty minutes .
+no man could change more than fifty minutes .
+no bear can stand on top of at least twelve names .
+no bear can stand on top of more than twelve names .
+no man can open the door to at least eight lines .
+no man can open the door to more than eight lines .
+no baby could hit at least eight legs .
+no baby could hit more than eight legs .
+no man could give at least twelve letters .
+no man could give more than twelve letters .
+no duck could see at least six feet .
+no duck could see more than six feet .
+no uncle can change at least eight friends .
+no uncle can change more than eight friends .
+no uncle can pick at least eight things .
+no uncle can pick more than eight things .
+no duck can open the door to at least twelve people .
+no duck can open the door to more than twelve people .
+no bear could change at least twelve people .
+no bear could change more than twelve people .
+no man could move to at least eight horses .
+no man could move to more than eight horses .
+no man could pick at least eight feet .
+no man could pick more than eight feet .
+no baby could play at least ten legs .
+no baby could play more than ten legs .
+no uncle can look at at least two cars .
+no uncle can look at more than two cars .
+no man can play at least two colors .
+no man can play more than two colors .
+no bear can take at least two words .
+no bear can take more than two words .
+no lion can talk about at least twelve matches .
+no lion can talk about more than twelve matches .
+no baby could make at least two words .
+no baby could make more than two words .
+no baby could find at least fifty arms .
+no baby could find more than fifty arms .
+no horse can carry at least six colors .
+no horse can carry more than six colors .
+no baby can change at least six parts .
+no baby can change more than six parts .
+no duck can see at least fifty bubbles .
+no duck can see more than fifty bubbles .
+no lion can talk about at least two eggs .
+no lion can talk about more than two eggs .
+no baby could play at least fifty minutes .
+no baby could play more than fifty minutes .
+no lion could open the door to at least ten trees .
+no lion could open the door to more than ten trees .
+no lion can show at least eight minutes .
+no lion can show more than eight minutes .
+no uncle can give at least ten legs .
+no uncle can give more than ten legs .
+no man can see at least ten parts .
+no man can see more than ten parts .
+no uncle could move to at least fifty sounds .
+no uncle could move to more than fifty sounds .
+no baby can find at least fifty feet .
+no baby can find more than fifty feet .
+no doctor could stand on top of at least fifty bears .
+no doctor could stand on top of more than fifty bears .
+no lion can make at least fifty parts .
+no lion can make more than fifty parts .
+no horse can show at least six numbers .
+no horse can show more than six numbers .
+no doctor can say at least twelve people .
+no doctor can say more than twelve people .
+no baby can change at least eight days .
+no baby can change more than eight days .
+no doctor can hit at least six eggs .
+no doctor can hit more than six eggs .
+no duck could carry at least fifty friends .
+no duck could carry more than fifty friends .
+no duck can stand on top of at least two dogs .
+no duck can stand on top of more than two dogs .
+no lion can find at least fifty friends .
+no lion can find more than fifty friends .
+no bear could move to at least fifty cars .
+no bear could move to more than fifty cars .
+no man can play at least eight fingers .
+no man can play more than eight fingers .
+no doctor can stand on top of at least ten birds .
+no doctor can stand on top of more than ten birds .
+no lion could carry at least twelve keys .
+no lion could carry more than twelve keys .
+no uncle could play at least fifty arms .
+no uncle could play more than fifty arms .
+no lion could leave at least eight weeks .
+no lion could leave more than eight weeks .
+no duck can catch at least six fingers .
+no duck can catch more than six fingers .
+no baby can find at least eight trees .
+no baby can find more than eight trees .
+no duck can give at least twelve boats .
+no duck can give more than twelve boats .
+no lion can hit at least twelve holes .
+no lion can hit more than twelve holes .
+no bear can hit at least eight legs .
+no bear can hit more than eight legs .
+no uncle could carry at least ten lines .
+no uncle could carry more than ten lines .
+no lion could talk about at least ten trains .
+no lion could talk about more than ten trains .
+no man can talk about at least fifty parts .
+no man can talk about more than fifty parts .
+no man could carry at least fifty songs .
+no man could carry more than fifty songs .
+no man can leave at least six boats .
+no man can leave more than six boats .
+no horse could talk about at least eight numbers .
+no horse could talk about more than eight numbers .
+no lion could play at least two pieces .
+no lion could play more than two pieces .
+no baby can change at least eight eggs .
+no baby can change more than eight eggs .
+no doctor can give at least two eggs .
+no doctor can give more than two eggs .
+no duck could play at least ten hands .
+no duck could play more than ten hands .
+no bear can change at least twelve wheels .
+no bear can change more than twelve wheels .
+no duck could tell at least eight words .
+no duck could tell more than eight words .
+no man can look at at least eight songs .
+no man can look at more than eight songs .
+no duck can hit at least six weeks .
+no duck can hit more than six weeks .
+no bear can see at least twelve boats .
+no bear can see more than twelve boats .
+no bear can show at least six pieces .
+no bear can show more than six pieces .
+no lion could take at least two friends .
+no lion could take more than two friends .
+no uncle could look at at least ten names .
+no uncle could look at more than ten names .
+no lion could tell at least six wheels .
+no lion could tell more than six wheels .
+no uncle can show at least twelve songs .
+no uncle can show more than twelve songs .
+no man can hit at least ten matches .
+no man can hit more than ten matches .
+no horse could take at least eight songs .
+no horse could take more than eight songs .
+no bear can see at least two trees .
+no bear can see more than two trees .
+no man can catch at least six parts .
+no man can catch more than six parts .
+no uncle can see at least eight colors .
+no uncle can see more than eight colors .
+no lion can move to at least ten flowers .
+no lion can move to more than ten flowers .
+no baby could catch at least ten names .
+no baby could catch more than ten names .
+no horse could look at at least eight fingers .
+no horse could look at more than eight fingers .
+no baby could open the door to at least two names .
+no baby could open the door to more than two names .
+no man can play at least six sounds .
+no man can play more than six sounds .
+no baby could leave at least ten letters .
+no baby could leave more than ten letters .
+no baby can pick at least six things .
+no baby can pick more than six things .
+no uncle could show at least twelve names .
+no uncle could show more than twelve names .
+no bear could change at least two bubbles .
+no bear could change more than two bubbles .
+no horse can stand on top of at least six birds .
+no horse can stand on top of more than six birds .
+no duck can see at least eight people .
+no duck can see more than eight people .
+no uncle could find at least fifty years .
+no uncle could find more than fifty years .
+no bear could catch at least ten minutes .
+no bear could catch more than ten minutes .
+no uncle can give at least two feet .
+no uncle can give more than two feet .
+no horse can say at least two trees .
+no horse can say more than two trees .
+no man can find at least fifty colors .
+no man can find more than fifty colors .
+no doctor can take at least six songs .
+no doctor can take more than six songs .
+no lion could carry at least twelve lines .
+no lion could carry more than twelve lines .
+no duck can find at least ten cars .
+no duck can find more than ten cars .
+no man could stand on top of at least two bears .
+no man could stand on top of more than two bears .
+no lion can catch at least eight days .
+no lion can catch more than eight days .
+no lion could say at least six wheels .
+no lion could say more than six wheels .
+no lion can leave at least twelve letters .
+no lion can leave more than twelve letters .
+no horse can tell at least two holes .
+no horse can tell more than two holes .
+no doctor could pick at least twelve dogs .
+no doctor could pick more than twelve dogs .
+no uncle can play at least ten birds .
+no uncle can play more than ten birds .
+no duck could hit at least fifty flowers .
+no duck could hit more than fifty flowers .
+no lion could carry at least twelve arms .
+no lion could carry more than twelve arms .
+no doctor can talk about at least six numbers .
+no doctor can talk about more than six numbers .
+no doctor can open the door to at least two words .
+no doctor can open the door to more than two words .
+no doctor can hit at least two friends .
+no doctor can hit more than two friends .
+no duck could carry at least eight cars .
+no duck could carry more than eight cars .
+no duck could talk about at least fifty names .
+no duck could talk about more than fifty names .
+no uncle can play at least fifty weeks .
+no uncle can play more than fifty weeks .
+no baby can find at least two feet .
+no baby can find more than two feet .
+no baby can stand on top of at least eight names .
+no baby can stand on top of more than eight names .
+no doctor could play at least six boys .
+no doctor could play more than six boys .
+no doctor could see at least six years .
+no doctor could see more than six years .
+no duck can take at least twelve flowers .
+no duck can take more than twelve flowers .
+no man can carry at least fifty works .
+no man can carry more than fifty works .
+no man can play at least six cars .
+no man can play more than six cars .
+no baby can play at least fifty stars .
+no baby can play more than fifty stars .
+no duck can see at least fifty numbers .
+no duck can see more than fifty numbers .
+no uncle can find at least two bubbles .
+no uncle can find more than two bubbles .
+no doctor can carry at least six arms .
+no doctor can carry more than six arms .
+no man can play at least ten books .
+no man can play more than ten books .
+no horse can carry at least eight friends .
+no horse can carry more than eight friends .
+no doctor can find at least eight letters .
+no doctor can find more than eight letters .
+no uncle can see at least ten flowers .
+no uncle can see more than ten flowers .
+no uncle could say at least two weeks .
+no uncle could say more than two weeks .
+no man can tell at least two colors .
+no man can tell more than two colors .
+no lion could make at least twelve letters .
+no lion could make more than twelve letters .
+no horse could play at least ten pictures .
+no horse could play more than ten pictures .
+no man can pick at least six books .
+no man can pick more than six books .
+no duck could pick at least two pieces .
+no duck could pick more than two pieces .
+no baby can tell at least eight boats .
+no baby can tell more than eight boats .
+no horse could show at least two weeks .
+no horse could show more than two weeks .
+no bear could change at least ten books .
+no bear could change more than ten books .
+no baby could pick at least fifty colors .
+no baby could pick more than fifty colors .
+no uncle can make at least fifty friends .
+no uncle can make more than fifty friends .
+no man could say at least six letters .
+no man could say more than six letters .
+no baby can catch at least twelve dogs .
+no baby can catch more than twelve dogs .
+no man can play at least fifty bubbles .
+no man can play more than fifty bubbles .
+no lion can find at least ten eggs .
+no lion can find more than ten eggs .
+no bear can move to at least six works .
+no bear can move to more than six works .
+no doctor can make at least fifty parts .
+no doctor can make more than fifty parts .
+no doctor could tell at least twelve matches .
+no doctor could tell more than twelve matches .
+no baby could play at least fifty arms .
+no baby could play more than fifty arms .
+no horse can carry at least ten legs .
+no horse can carry more than ten legs .
+no baby can pick at least two eggs .
+no baby can pick more than two eggs .
+no man can stand on top of at least six days .
+no man can stand on top of more than six days .
+no baby could hit at least two matches .
+no baby could hit more than two matches .
+no bear can look at at least ten wheels .
+no bear can look at more than ten wheels .
+no baby could show at least six pieces .
+no baby could show more than six pieces .
+no duck can find at least two people .
+no duck can find more than two people .
+no duck can talk about at least fifty lines .
+no duck can talk about more than fifty lines .
+no lion can hit at least six horses .
+no lion can hit more than six horses .
+no man could pick at least six birds .
+no man could pick more than six birds .
+no lion could pick at least eight eggs .
+no lion could pick more than eight eggs .
+no duck can change at least fifty bears .
+no duck can change more than fifty bears .
+no doctor could catch at least ten parts .
+no doctor could catch more than ten parts .
+no duck can pick at least twelve feet .
+no duck can pick more than twelve feet .
+no duck could stand on top of at least six pictures .
+no duck could stand on top of more than six pictures .
+no lion can say at least six bears .
+no lion can say more than six bears .
+no lion could hit at least twelve times .
+no lion could hit more than twelve times .
+no baby can make at least six sounds .
+no baby can make more than six sounds .
+no bear can move to at least eight things .
+no bear can move to more than eight things .
+no uncle can change at least two weeks .
+no uncle can change more than two weeks .
+no horse could leave at least two colors .
+no horse could leave more than two colors .
+no lion can pick at least two flowers .
+no lion can pick more than two flowers .
+no duck could make at least eight sounds .
+no duck could make more than eight sounds .
+no lion can see at least six people .
+no lion can see more than six people .
+no doctor can catch at least twelve flowers .
+no doctor can catch more than twelve flowers .
+no lion could show at least ten pieces .
+no lion could show more than ten pieces .
+no horse could open the door to at least two feet .
+no horse could open the door to more than two feet .
+no duck could carry at least ten legs .
+no duck could carry more than ten legs .
+no uncle can carry at least two keys .
+no uncle can carry more than two keys .
+no bear can carry at least ten days .
+no bear can carry more than ten days .
+no baby could make at least twelve lines .
+no baby could make more than twelve lines .
+no doctor could hit at least six friends .
+no doctor could hit more than six friends .
+no bear can play at least fifty hands .
+no bear can play more than fifty hands .
+no bear can give at least eight trees .
+no bear can give more than eight trees .
+no baby could stand on top of at least six books .
+no baby could stand on top of more than six books .
+no duck can move to at least six pictures .
+no duck can move to more than six pictures .
+no doctor could hit at least twelve boats .
+no doctor could hit more than twelve boats .
+no man can leave at least eight works .
+no man can leave more than eight works .
+no horse can pick at least eight girls .
+no horse can pick more than eight girls .
+no man could change at least eight works .
+no man could change more than eight works .
+no doctor can find at least six pieces .
+no doctor can find more than six pieces .
+no uncle could change at least twelve feet .
+no uncle could change more than twelve feet .
+no bear can make at least six fingers .
+no bear can make more than six fingers .
+no duck could say at least fifty wheels .
+no duck could say more than fifty wheels .
+no horse could tell at least twelve boats .
+no horse could tell more than twelve boats .
+no baby can make at least twelve feet .
+no baby can make more than twelve feet .
+no baby could leave at least eight years .
+no baby could leave more than eight years .
+no man could look at at least eight words .
+no man could look at more than eight words .
+no man could make at least twelve lines .
+no man could make more than twelve lines .
+no lion could tell at least six words .
+no lion could tell more than six words .
+no lion can look at at least ten weeks .
+no lion can look at more than ten weeks .
+no bear could open the door to at least twelve days .
+no bear could open the door to more than twelve days .
+no doctor can make at least fifty words .
+no doctor can make more than fifty words .
+no man can stand on top of at least fifty pictures .
+no man can stand on top of more than fifty pictures .
+no bear could tell at least two stars .
+no bear could tell more than two stars .
+no lion can hit at least two cars .
+no lion can hit more than two cars .
+no baby can change at least ten weeks .
+no baby can change more than ten weeks .
+no man can see at least twelve numbers .
+no man can see more than twelve numbers .
+no uncle can catch at least fifty feet .
+no uncle can catch more than fifty feet .
+no baby could play at least two songs .
+no baby could play more than two songs .
+no uncle can stand on top of at least six birds .
+no uncle can stand on top of more than six birds .
+no horse can open the door to at least two parts .
+no horse can open the door to more than two parts .
+no uncle could look at at least fifty pictures .
+no uncle could look at more than fifty pictures .
+no uncle can hit at least eight bears .
+no uncle can hit more than eight bears .
+no doctor can hit at least six boats .
+no doctor can hit more than six boats .
+no horse could say at least fifty birds .
+no horse could say more than fifty birds .
+no man can open the door to at least fifty years .
+no man can open the door to more than fifty years .
+no duck can look at at least eight words .
+no duck can look at more than eight words .
+no horse could play at least two years .
+no horse could play more than two years .
+no horse could make at least six fingers .
+no horse could make more than six fingers .
+no lion could find at least fifty pictures .
+no lion could find more than fifty pictures .
+no duck can open the door to at least fifty years .
+no duck can open the door to more than fifty years .
+no uncle can pick at least twelve trains .
+no uncle can pick more than twelve trains .
+no bear could talk about at least eight trains .
+no bear could talk about more than eight trains .
+no duck can leave at least eight trains .
+no duck can leave more than eight trains .
+no uncle could show at least ten boys .
+no uncle could show more than ten boys .
+no lion could show at least eight fingers .
+no lion could show more than eight fingers .
+no duck could say at least two eyes .
+no duck could say more than two eyes .
+no uncle can open the door to at least six colors .
+no uncle can open the door to more than six colors .
+no man could talk about at least six feet .
+no man could talk about more than six feet .
+no uncle can hit at least fifty numbers .
+no uncle can hit more than fifty numbers .
+no lion could give at least fifty dogs .
+no lion could give more than fifty dogs .
+no doctor could see at least six lines .
+no doctor could see more than six lines .
+no duck can hit at least two numbers .
+no duck can hit more than two numbers .
+no lion could play at least six fingers .
+no lion could play more than six fingers .
+no lion can take at least ten hands .
+no lion can take more than ten hands .
+no lion can carry at least fifty colors .
+no lion can carry more than fifty colors .
+no lion can hit at least fifty fingers .
+no lion can hit more than fifty fingers .
+no horse can find at least ten legs .
+no horse can find more than ten legs .
+no man could hit at least two years .
+no man could hit more than two years .
+no uncle could show at least eight minutes .
+no uncle could show more than eight minutes .
+no doctor could open the door to at least ten songs .
+no doctor could open the door to more than ten songs .
+no duck can stand on top of at least six flowers .
+no duck can stand on top of more than six flowers .
+no bear can carry at least ten holes .
+no bear can carry more than ten holes .
+no duck can take at least ten legs .
+no duck can take more than ten legs .
+no horse can catch at least six colors .
+no horse can catch more than six colors .
+no lion could see at least two weeks .
+no lion could see more than two weeks .
+no man can give at least fifty days .
+no man can give more than fifty days .
+no duck could pick at least fifty names .
+no duck could pick more than fifty names .
+no duck could change at least eight friends .
+no duck could change more than eight friends .
+no horse can stand on top of at least twelve arms .
+no horse can stand on top of more than twelve arms .
+no uncle can tell at least two colors .
+no uncle can tell more than two colors .
+no uncle could play at least six trains .
+no uncle could play more than six trains .
+no baby could give at least two keys .
+no baby could give more than two keys .
+no uncle can say at least fifty words .
+no uncle can say more than fifty words .
+no baby can look at at least eight eyes .
+no baby can look at more than eight eyes .
+no horse can catch at least fifty wheels .
+no horse can catch more than fifty wheels .
+no baby can play at least twelve pieces .
+no baby can play more than twelve pieces .
+no doctor can stand on top of at least fifty pieces .
+no doctor can stand on top of more than fifty pieces .
+no horse can look at at least two parts .
+no horse can look at more than two parts .
+no duck could see at least six letters .
+no duck could see more than six letters .
+no uncle can see at least ten wheels .
+no uncle can see more than ten wheels .
+no baby can look at at least twelve minutes .
+no baby can look at more than twelve minutes .
+no bear can talk about at least six lines .
+no bear can talk about more than six lines .
+no lion could talk about at least fifty horses .
+no lion could talk about more than fifty horses .
+no horse could open the door to at least eight letters .
+no horse could open the door to more than eight letters .
+no baby could move to at least ten fingers .
+no baby could move to more than ten fingers .
+no duck can show at least twelve wheels .
+no duck can show more than twelve wheels .
+no uncle could talk about at least fifty songs .
+no uncle could talk about more than fifty songs .
+no man could make at least ten pictures .
+no man could make more than ten pictures .
+no duck could catch at least two pictures .
+no duck could catch more than two pictures .
+no man could play at least fifty keys .
+no man could play more than fifty keys .
+no baby can find at least two times .
+no baby can find more than two times .
+no duck can change at least fifty people .
+no duck can change more than fifty people .
+no bear could stand on top of at least two feet .
+no bear could stand on top of more than two feet .
+no baby can change at least eight lines .
+no baby can change more than eight lines .
+no baby can open the door to at least six matches .
+no baby can open the door to more than six matches .
+no lion could see at least eight parts .
+no lion could see more than eight parts .
+no baby can see at least six times .
+no baby can see more than six times .
+no horse can show at least two boats .
+no horse can show more than two boats .
+no bear can take at least fifty works .
+no bear can take more than fifty works .
+no bear could move to at least ten minutes .
+no bear could move to more than ten minutes .
+no horse could change at least six things .
+no horse could change more than six things .
+no horse can take at least ten stars .
+no horse can take more than ten stars .
+no lion can change at least twelve boats .
+no lion can change more than twelve boats .
+no horse could say at least two boats .
+no horse could say more than two boats .
+no bear can talk about at least twelve dogs .
+no bear can talk about more than twelve dogs .
+no horse could stand on top of at least ten trains .
+no horse could stand on top of more than ten trains .
+no bear can say at least two names .
+no bear can say more than two names .
+no bear could make at least fifty sounds .
+no bear could make more than fifty sounds .
+no baby could make at least ten hands .
+no baby could make more than ten hands .
+no bear could say at least eight dogs .
+no bear could say more than eight dogs .
+no uncle can open the door to at least eight girls .
+no uncle can open the door to more than eight girls .
+no man could play at least six fingers .
+no man could play more than six fingers .
+no man can stand on top of at least eight pictures .
+no man can stand on top of more than eight pictures .
+no duck can change at least six people .
+no duck can change more than six people .
+no horse can tell at least two boys .
+no horse can tell more than two boys .
+no duck can carry at least six boys .
+no duck can carry more than six boys .
+no baby could talk about at least twelve names .
+no baby could talk about more than twelve names .
+no bear can say at least fifty hands .
+no bear can say more than fifty hands .
+no lion could talk about at least eight pictures .
+no lion could talk about more than eight pictures .
+no lion could make at least two sounds .
+no lion could make more than two sounds .
+no doctor can carry at least twelve wheels .
+no doctor can carry more than twelve wheels .
+no doctor could give at least eight holes .
+no doctor could give more than eight holes .
+no horse could carry at least six boys .
+no horse could carry more than six boys .
+no man could leave at least twelve trees .
+no man could leave more than twelve trees .
+no doctor could move to at least two minutes .
+no doctor could move to more than two minutes .
+no horse could carry at least two pictures .
+no horse could carry more than two pictures .
+no lion can talk about at least eight girls .
+no lion can talk about more than eight girls .
+no bear could tell at least six flowers .
+no bear could tell more than six flowers .
+no baby can look at at least two letters .
+no baby can look at more than two letters .
+no lion can open the door to at least two letters .
+no lion can open the door to more than two letters .
+no lion can find at least eight colors .
+no lion can find more than eight colors .
+no bear could carry at least fifty holes .
+no bear could carry more than fifty holes .
+no duck could give at least twelve arms .
+no duck could give more than twelve arms .
+no bear can take at least six friends .
+no bear can take more than six friends .
+no baby could change at least fifty works .
+no baby could change more than fifty works .
+no duck can play at least fifty boys .
+no duck can play more than fifty boys .
+no man could stand on top of at least two lines .
+no man could stand on top of more than two lines .
+no bear can show at least ten fingers .
+no bear can show more than ten fingers .
+no uncle can talk about at least twelve stars .
+no uncle can talk about more than twelve stars .
+no doctor could tell at least eight eggs .
+no doctor could tell more than eight eggs .
+no duck could make at least twelve days .
+no duck could make more than twelve days .
+no man could move to at least eight songs .
+no man could move to more than eight songs .
+no doctor could carry at least fifty letters .
+no doctor could carry more than fifty letters .
+no horse could stand on top of at least six songs .
+no horse could stand on top of more than six songs .
+no doctor could take at least fifty boats .
+no doctor could take more than fifty boats .
+no man can make at least eight girls .
+no man can make more than eight girls .
+no uncle could leave at least ten holes .
+no uncle could leave more than ten holes .
+no bear could catch at least six sounds .
+no bear could catch more than six sounds .
+no man could find at least six things .
+no man could find more than six things .
+no bear could move to at least six colors .
+no bear could move to more than six colors .
+no duck could change at least two numbers .
+no duck could change more than two numbers .
+no lion can carry at least six names .
+no lion can carry more than six names .
+no doctor can carry at least ten keys .
+no doctor can carry more than ten keys .
+no duck could show at least twelve sounds .
+no duck could show more than twelve sounds .
+no horse can take at least twelve things .
+no horse can take more than twelve things .
+no uncle could tell at least two friends .
+no uncle could tell more than two friends .
+no doctor could take at least fifty legs .
+no doctor could take more than fifty legs .
+no horse could move to at least twelve fingers .
+no horse could move to more than twelve fingers .
+no lion could look at at least twelve songs .
+no lion could look at more than twelve songs .
+no horse could see at least eight times .
+no horse could see more than eight times .
+no man could find at least eight lines .
+no man could find more than eight lines .
+no uncle can talk about at least fifty birds .
+no uncle can talk about more than fifty birds .
+no doctor could say at least fifty bears .
+no doctor could say more than fifty bears .
+no lion could give at least fifty works .
+no lion could give more than fifty works .
+no duck could talk about at least fifty sounds .
+no duck could talk about more than fifty sounds .
+no man can hit at least two numbers .
+no man can hit more than two numbers .
+no baby can catch at least eight flowers .
+no baby can catch more than eight flowers .
+no uncle could carry at least twelve times .
+no uncle could carry more than twelve times .
+no duck could take at least ten matches .
+no duck could take more than ten matches .
+no duck can tell at least twelve words .
+no duck can tell more than twelve words .
+no horse could make at least fifty minutes .
+no horse could make more than fifty minutes .
+no uncle could make at least twelve girls .
+no uncle could make more than twelve girls .
+no horse can say at least six cars .
+no horse can say more than six cars .
+no bear can pick at least twelve stars .
+no bear can pick more than twelve stars .
+no doctor can catch at least six trees .
+no doctor can catch more than six trees .
+no uncle could look at at least fifty eggs .
+no uncle could look at more than fifty eggs .
+no bear could change at least fifty fingers .
+no bear could change more than fifty fingers .
+no baby could leave at least fifty wheels .
+no baby could leave more than fifty wheels .
+no bear could give at least fifty legs .
+no bear could give more than fifty legs .
+no baby can make at least fifty eyes .
+no baby can make more than fifty eyes .
+no man could talk about at least six eyes .
+no man could talk about more than six eyes .
+no man can see at least twelve books .
+no man can see more than twelve books .
+no uncle can take at least ten days .
+no uncle can take more than ten days .
+no horse could pick at least ten boys .
+no horse could pick more than ten boys .
+no duck could move to at least fifty lines .
+no duck could move to more than fifty lines .
+no uncle can move to at least eight letters .
+no uncle can move to more than eight letters .
+no doctor could catch at least twelve fingers .
+no doctor could catch more than twelve fingers .
+no bear can tell at least twelve eyes .
+no bear can tell more than twelve eyes .
+no duck can make at least two years .
+no duck can make more than two years .
+no man can play at least six lines .
+no man can play more than six lines .
+no man could play at least six books .
+no man could play more than six books .
+no lion could carry at least ten bears .
+no lion could carry more than ten bears .
+no duck can tell at least fifty friends .
+no duck can tell more than fifty friends .
+no man can change at least two works .
+no man can change more than two works .
+no lion can find at least eight years .
+no lion can find more than eight years .
+no horse could move to at least ten days .
+no horse could move to more than ten days .
+no duck can find at least twelve birds .
+no duck can find more than twelve birds .
+no duck could find at least ten keys .
+no duck could find more than ten keys .
+no man could make at least ten books .
+no man could make more than ten books .
+no baby can give at least twelve letters .
+no baby can give more than twelve letters .
+no baby could catch at least eight trains .
+no baby could catch more than eight trains .
+no man could say at least twelve birds .
+no man could say more than twelve birds .
+no horse can carry at least six horses .
+no horse can carry more than six horses .
+no horse could hit at least fifty bears .
+no horse could hit more than fifty bears .
+no uncle could find at least six bears .
+no uncle could find more than six bears .
+no duck could say at least ten boys .
+no duck could say more than ten boys .
+no duck can tell at least two years .
+no duck can tell more than two years .
+no man could pick at least eight songs .
+no man could pick more than eight songs .
+no uncle can leave at least eight arms .
+no uncle can leave more than eight arms .
+no doctor could talk about at least twelve parts .
+no doctor could talk about more than twelve parts .
+no doctor could play at least eight weeks .
+no doctor could play more than eight weeks .
+no bear could say at least twelve names .
+no bear could say more than twelve names .
+no uncle could play at least twelve names .
+no uncle could play more than twelve names .
+no lion could talk about at least fifty years .
+no lion could talk about more than fifty years .
+no baby could say at least ten arms .
+no baby could say more than ten arms .
+no horse can say at least eight lines .
+no horse can say more than eight lines .
+no bear can give at least fifty matches .
+no bear can give more than fifty matches .
+no duck can say at least two books .
+no duck can say more than two books .
+no horse can tell at least twelve pictures .
+no horse can tell more than twelve pictures .
+no doctor can find at least fifty trains .
+no doctor can find more than fifty trains .
+no man could leave at least eight colors .
+no man could leave more than eight colors .
+no lion can leave at least two birds .
+no lion can leave more than two birds .
+no uncle could make at least eight things .
+no uncle could make more than eight things .
+no baby could find at least two works .
+no baby could find more than two works .
+no baby can look at at least two years .
+no baby can look at more than two years .
+no doctor could pick at least fifty people .
+no doctor could pick more than fifty people .
+no duck can tell at least twelve wheels .
+no duck can tell more than twelve wheels .
+no baby can play at least fifty pieces .
+no baby can play more than fifty pieces .
+no duck could find at least eight pieces .
+no duck could find more than eight pieces .
+no horse could carry at least twelve trains .
+no horse could carry more than twelve trains .
+no duck can move to at least fifty legs .
+no duck can move to more than fifty legs .
+no doctor can play at least fifty days .
+no doctor can play more than fifty days .
+no horse could open the door to at least twelve dogs .
+no horse could open the door to more than twelve dogs .
+no doctor could play at least six cars .
+no doctor could play more than six cars .
+no doctor could play at least ten holes .
+no doctor could play more than ten holes .
+no duck can catch at least two cars .
+no duck can catch more than two cars .
+no uncle could open the door to at least six flowers .
+no uncle could open the door to more than six flowers .
+no horse can leave at least two friends .
+no horse can leave more than two friends .
+no duck could move to at least six years .
+no duck could move to more than six years .
+no uncle can give at least six names .
+no uncle can give more than six names .
+no doctor can look at at least eight legs .
+no doctor can look at more than eight legs .
+no horse can tell at least ten cars .
+no horse can tell more than ten cars .
+no duck can take at least ten trees .
+no duck can take more than ten trees .
+no horse can carry at least six bears .
+no horse can carry more than six bears .
+no lion can hit at least fifty words .
+no lion can hit more than fifty words .
+no horse can stand on top of at least fifty eyes .
+no horse can stand on top of more than fifty eyes .
+no horse could stand on top of at least fifty letters .
+no horse could stand on top of more than fifty letters .
+no baby could take at least eight birds .
+no baby could take more than eight birds .
+no horse could open the door to at least twelve flowers .
+no horse could open the door to more than twelve flowers .
+no horse could find at least eight days .
+no horse could find more than eight days .
+no man can find at least two pictures .
+no man can find more than two pictures .
+no doctor could open the door to at least twelve legs .
+no doctor could open the door to more than twelve legs .
+no doctor could make at least six eyes .
+no doctor could make more than six eyes .
+no horse can find at least fifty bubbles .
+no horse can find more than fifty bubbles .
+no lion could see at least two eggs .
+no lion could see more than two eggs .
+no man could talk about at least ten colors .
+no man could talk about more than ten colors .
+no horse could make at least ten trees .
+no horse could make more than ten trees .
+no duck could catch at least eight parts .
+no duck could catch more than eight parts .
+no baby can find at least two eggs .
+no baby can find more than two eggs .
+no lion can see at least twelve trees .
+no lion can see more than twelve trees .
+no uncle could change at least eight things .
+no uncle could change more than eight things .
+no lion could give at least two years .
+no lion could give more than two years .
+no doctor could make at least eight flowers .
+no doctor could make more than eight flowers .
+no horse can carry at least six boats .
+no horse can carry more than six boats .
+no uncle could hit at least eight parts .
+no uncle could hit more than eight parts .
+no uncle can open the door to at least six stars .
+no uncle can open the door to more than six stars .
+no uncle could find at least fifty minutes .
+no uncle could find more than fifty minutes .
+no horse can see at least six eyes .
+no horse can see more than six eyes .
+no horse could say at least eight people .
+no horse could say more than eight people .
+no lion could talk about at least fifty bubbles .
+no lion could talk about more than fifty bubbles .
+no uncle could give at least six parts .
+no uncle could give more than six parts .
+no man could catch at least eight matches .
+no man could catch more than eight matches .
+no man could hit at least six bubbles .
+no man could hit more than six bubbles .
+no uncle could change at least fifty pieces .
+no uncle could change more than fifty pieces .
+no horse could hit at least ten holes .
+no horse could hit more than ten holes .
+no man can change at least twelve boys .
+no man can change more than twelve boys .
+no lion could look at at least eight holes .
+no lion could look at more than eight holes .
+no bear could show at least two stars .
+no bear could show more than two stars .
+no duck can stand on top of at least eight bears .
+no duck can stand on top of more than eight bears .
+no bear can find at least eight colors .
+no bear can find more than eight colors .
+no duck could hit at least ten songs .
+no duck could hit more than ten songs .
+no doctor could play at least twelve eyes .
+no doctor could play more than twelve eyes .
+no horse could leave at least ten works .
+no horse could leave more than ten works .
+no duck can talk about at least fifty trees .
+no duck can talk about more than fifty trees .
+no man can tell at least twelve horses .
+no man can tell more than twelve horses .
+no baby could carry at least two books .
+no baby could carry more than two books .
+no man can carry at least six weeks .
+no man can carry more than six weeks .
+no horse could take at least eight holes .
+no horse could take more than eight holes .
+no duck could stand on top of at least fifty keys .
+no duck could stand on top of more than fifty keys .
+no duck could change at least eight people .
+no duck could change more than eight people .
+no bear could find at least twelve books .
+no bear could find more than twelve books .
+no uncle can tell at least fifty stars .
+no uncle can tell more than fifty stars .
+no uncle could hit at least ten boats .
+no uncle could hit more than ten boats .
+no horse can hit at least fifty weeks .
+no horse can hit more than fifty weeks .
+no doctor could look at at least ten times .
+no doctor could look at more than ten times .
+no man can find at least eight times .
+no man can find more than eight times .
+no bear could open the door to at least six eggs .
+no bear could open the door to more than six eggs .
+no doctor could play at least two bears .
+no doctor could play more than two bears .
+no uncle can leave at least twelve words .
+no uncle can leave more than twelve words .
+no horse can play at least six dogs .
+no horse can play more than six dogs .
+no horse can hit at least ten weeks .
+no horse can hit more than ten weeks .
+no baby can hit at least six bubbles .
+no baby can hit more than six bubbles .
+no uncle could give at least two boats .
+no uncle could give more than two boats .
+no bear could tell at least eight stars .
+no bear could tell more than eight stars .
+no baby can catch at least eight stars .
+no baby can catch more than eight stars .
+no duck could carry at least twelve colors .
+no duck could carry more than twelve colors .
+no man could catch at least two minutes .
+no man could catch more than two minutes .
+no doctor could show at least six legs .
+no doctor could show more than six legs .
+no horse can pick at least two lines .
+no horse can pick more than two lines .
+no horse could leave at least eight legs .
+no horse could leave more than eight legs .
+no bear can play at least two legs .
+no bear can play more than two legs .
+no man could say at least eight years .
+no man could say more than eight years .
+no uncle could move to at least six pieces .
+no uncle could move to more than six pieces .
+no uncle could give at least twelve fingers .
+no uncle could give more than twelve fingers .
+no doctor could carry at least eight boys .
+no doctor could carry more than eight boys .
+no bear can change at least six books .
+no bear can change more than six books .
+no doctor could open the door to at least six horses .
+no doctor could open the door to more than six horses .
+no doctor could change at least two boys .
+no doctor could change more than two boys .
+no uncle could stand on top of at least twelve bears .
+no uncle could stand on top of more than twelve bears .
+no lion could show at least ten feet .
+no lion could show more than ten feet .
+no doctor can move to at least two trees .
+no doctor can move to more than two trees .
+no bear could play at least ten wheels .
+no bear could play more than ten wheels .
+no horse could play at least eight boys .
+no horse could play more than eight boys .
+no lion could take at least six boats .
+no lion could take more than six boats .
+no duck can see at least twelve songs .
+no duck can see more than twelve songs .
+no duck could carry at least eight things .
+no duck could carry more than eight things .
+no lion can catch at least fifty bubbles .
+no lion can catch more than fifty bubbles .
+no lion could take at least fifty words .
+no lion could take more than fifty words .
+no duck can make at least ten minutes .
+no duck can make more than ten minutes .
+no lion could stand on top of at least ten things .
+no lion could stand on top of more than ten things .
+no baby could make at least ten songs .
+no baby could make more than ten songs .
+no bear can catch at least six days .
+no bear can catch more than six days .
+no bear could talk about at least six girls .
+no bear could talk about more than six girls .
+no baby can move to at least two trains .
+no baby can move to more than two trains .
+no bear can carry at least fifty friends .
+no bear can carry more than fifty friends .
+no lion can tell at least twelve trees .
+no lion can tell more than twelve trees .
+no man could talk about at least ten weeks .
+no man could talk about more than ten weeks .
+no duck could play at least two works .
+no duck could play more than two works .
+no horse could look at at least six matches .
+no horse could look at more than six matches .
+no doctor could make at least two trains .
+no doctor could make more than two trains .
+no bear can take at least twelve days .
+no bear can take more than twelve days .
+no lion could move to at least two dogs .
+no lion could move to more than two dogs .
+no doctor could leave at least eight girls .
+no doctor could leave more than eight girls .
+no doctor can take at least six girls .
+no doctor can take more than six girls .
+no baby could show at least two hands .
+no baby could show more than two hands .
+no lion can open the door to at least twelve stars .
+no lion can open the door to more than twelve stars .
+no baby could find at least ten minutes .
+no baby could find more than ten minutes .
+no duck could say at least ten parts .
+no duck could say more than ten parts .
+no man could give at least twelve pieces .
+no man could give more than twelve pieces .
+no duck can give at least ten horses .
+no duck can give more than ten horses .
+no horse could hit at least twelve bears .
+no horse could hit more than twelve bears .
+no baby can move to at least ten fingers .
+no baby can move to more than ten fingers .
+no horse could take at least twelve boys .
+no horse could take more than twelve boys .
+no uncle could look at at least twelve legs .
+no uncle could look at more than twelve legs .
+no baby can make at least fifty trees .
+no baby can make more than fifty trees .
+no lion can open the door to at least eight trains .
+no lion can open the door to more than eight trains .
+no baby could find at least fifty trees .
+no baby could find more than fifty trees .
+no doctor could change at least fifty matches .
+no doctor could change more than fifty matches .
+no doctor could make at least six letters .
+no doctor could make more than six letters .
+no baby can tell at least two trees .
+no baby can tell more than two trees .
+no uncle can hit at least fifty names .
+no uncle can hit more than fifty names .
+no lion can show at least ten boats .
+no lion can show more than ten boats .
+no uncle can take at least two stars .
+no uncle can take more than two stars .
+no doctor can talk about at least twelve legs .
+no doctor can talk about more than twelve legs .
+no bear can hit at least twelve years .
+no bear can hit more than twelve years .
+no horse could tell at least ten keys .
+no horse could tell more than ten keys .
+no duck can give at least fifty letters .
+no duck can give more than fifty letters .
+no lion can open the door to at least eight cars .
+no lion can open the door to more than eight cars .
+no lion can hit at least fifty birds .
+no lion can hit more than fifty birds .
+no horse could change at least twelve things .
+no horse could change more than twelve things .
+no man can take at least two numbers .
+no man can take more than two numbers .
+no bear can pick at least ten lines .
+no bear can pick more than ten lines .
+no bear can move to at least two lines .
+no bear can move to more than two lines .
+no horse could say at least twelve horses .
+no horse could say more than twelve horses .
+no doctor can make at least fifty girls .
+no doctor can make more than fifty girls .
+no duck can hit at least fifty flowers .
+no duck can hit more than fifty flowers .
+no duck can find at least two numbers .
+no duck can find more than two numbers .
+no lion can make at least two words .
+no lion can make more than two words .
+no baby could make at least eight hands .
+no baby could make more than eight hands .
+no bear could look at at least eight boats .
+no bear could look at more than eight boats .
+no duck could leave at least six flowers .
+no duck could leave more than six flowers .
+no bear could tell at least two keys .
+no bear could tell more than two keys .
+no horse could tell at least fifty things .
+no horse could tell more than fifty things .
+no duck could play at least two bears .
+no duck could play more than two bears .
+no lion can show at least ten pieces .
+no lion can show more than ten pieces .
+no horse can hit at least six things .
+no horse can hit more than six things .
+no baby can play at least two boats .
+no baby can play more than two boats .
+no lion could move to at least twelve books .
+no lion could move to more than twelve books .
+no horse could make at least fifty fingers .
+no horse could make more than fifty fingers .
+no lion could find at least six parts .
+no lion could find more than six parts .
+no baby can leave at least eight fingers .
+no baby can leave more than eight fingers .
+no man can look at at least twelve holes .
+no man can look at more than twelve holes .
+no lion could open the door to at least eight hands .
+no lion could open the door to more than eight hands .
+no horse could take at least twelve girls .
+no horse could take more than twelve girls .
+no uncle can say at least twelve days .
+no uncle can say more than twelve days .
+no doctor can play at least ten eyes .
+no doctor can play more than ten eyes .
+no duck can open the door to at least fifty sounds .
+no duck can open the door to more than fifty sounds .
+no man could give at least two books .
+no man could give more than two books .
+no uncle can make at least six things .
+no uncle can make more than six things .
+no bear could play at least six years .
+no bear could play more than six years .
+no bear could change at least two horses .
+no bear could change more than two horses .
+no duck can find at least ten works .
+no duck can find more than ten works .
+no doctor can say at least two colors .
+no doctor can say more than two colors .
+no bear can give at least two flowers .
+no bear can give more than two flowers .
+no horse can leave at least ten minutes .
+no horse can leave more than ten minutes .
+no man can talk about at least twelve words .
+no man can talk about more than twelve words .
+no man could find at least ten lines .
+no man could find more than ten lines .
+no man could change at least twelve matches .
+no man could change more than twelve matches .
+no duck can tell at least two legs .
+no duck can tell more than two legs .
+no bear can open the door to at least six bears .
+no bear can open the door to more than six bears .
+no baby can catch at least twelve eyes .
+no baby can catch more than twelve eyes .
+no bear can play at least six years .
+no bear can play more than six years .
+no baby can move to at least fifty eggs .
+no baby can move to more than fifty eggs .
+no horse can carry at least ten trees .
+no horse can carry more than ten trees .
+no baby can look at at least ten names .
+no baby can look at more than ten names .
+no bear can play at least two years .
+no bear can play more than two years .
+no man could make at least six eggs .
+no man could make more than six eggs .
+no lion could stand on top of at least fifty birds .
+no lion could stand on top of more than fifty birds .
+no duck can play at least six people .
+no duck can play more than six people .
+no man can tell at least two friends .
+no man can tell more than two friends .
+no lion can catch at least ten works .
+no lion can catch more than ten works .
+no baby can talk about at least two keys .
+no baby can talk about more than two keys .
+no doctor can leave at least two works .
+no doctor can leave more than two works .
+no duck can leave at least ten sounds .
+no duck can leave more than ten sounds .
+no bear could tell at least two bears .
+no bear could tell more than two bears .
+no bear can change at least ten trains .
+no bear can change more than ten trains .
+no lion could look at at least twelve birds .
+no lion could look at more than twelve birds .
+no baby could pick at least twelve things .
+no baby could pick more than twelve things .
+no bear can show at least two matches .
+no bear can show more than two matches .
+no duck could give at least twelve weeks .
+no duck could give more than twelve weeks .
+no bear could hit at least fifty birds .
+no bear could hit more than fifty birds .
+no horse can make at least fifty things .
+no horse can make more than fifty things .
+no man could take at least fifty dogs .
+no man could take more than fifty dogs .
+no duck could talk about at least ten lines .
+no duck could talk about more than ten lines .
+no man can take at least twelve cars .
+no man can take more than twelve cars .
+no baby can change at least six wheels .
+no baby can change more than six wheels .
+no baby can find at least twelve works .
+no baby can find more than twelve works .
+no baby can say at least fifty lines .
+no baby can say more than fifty lines .
+no doctor can catch at least twelve things .
+no doctor can catch more than twelve things .
+no horse could leave at least eight arms .
+no horse could leave more than eight arms .
+no man can show at least fifty friends .
+no man can show more than fifty friends .
+no doctor can stand on top of at least fifty boats .
+no doctor can stand on top of more than fifty boats .
+no uncle can find at least twelve names .
+no uncle can find more than twelve names .
+no horse can take at least twelve days .
+no horse can take more than twelve days .
+no horse could stand on top of at least twelve legs .
+no horse could stand on top of more than twelve legs .
+no horse could say at least twelve letters .
+no horse could say more than twelve letters .
+no duck could find at least eight girls .
+no duck could find more than eight girls .
+no doctor could tell at least twelve trains .
+no doctor could tell more than twelve trains .
+no lion could pick at least twelve hands .
+no lion could pick more than twelve hands .
+no horse could see at least ten holes .
+no horse could see more than ten holes .
+no doctor can take at least twelve people .
+no doctor can take more than twelve people .
+no man could carry at least ten eyes .
+no man could carry more than ten eyes .
+no duck could find at least eight works .
+no duck could find more than eight works .
+no baby can give at least eight colors .
+no baby can give more than eight colors .
+no baby could see at least twelve weeks .
+no baby could see more than twelve weeks .
+no doctor could catch at least twelve parts .
+no doctor could catch more than twelve parts .
+no doctor could move to at least six legs .
+no doctor could move to more than six legs .
+no man can stand on top of at least twelve eyes .
+no man can stand on top of more than twelve eyes .
+no horse can play at least twelve feet .
+no horse can play more than twelve feet .
+no uncle can look at at least fifty minutes .
+no uncle can look at more than fifty minutes .
+no bear could say at least two letters .
+no bear could say more than two letters .
+no horse can catch at least six horses .
+no horse can catch more than six horses .
+no duck could catch at least eight keys .
+no duck could catch more than eight keys .
+no lion could talk about at least eight eggs .
+no lion could talk about more than eight eggs .
+no baby can give at least eight dogs .
+no baby can give more than eight dogs .
+no bear could hit at least eight hands .
+no bear could hit more than eight hands .
+no duck could give at least ten songs .
+no duck could give more than ten songs .
+no bear could show at least two keys .
+no bear could show more than two keys .
+no lion can take at least eight flowers .
+no lion can take more than eight flowers .
+no man could talk about at least twelve flowers .
+no man could talk about more than twelve flowers .
+no horse can take at least ten arms .
+no horse can take more than ten arms .
+no duck could look at at least ten pictures .
+no duck could look at more than ten pictures .
+no uncle can give at least eight lines .
+no uncle can give more than eight lines .
+no bear can stand on top of at least fifty people .
+no bear can stand on top of more than fifty people .
+no horse could look at at least ten wheels .
+no horse could look at more than ten wheels .
+no horse could tell at least fifty boys .
+no horse could tell more than fifty boys .
+no lion can show at least eight years .
+no lion can show more than eight years .
+no doctor could look at at least twelve letters .
+no doctor could look at more than twelve letters .
+no duck could take at least ten stars .
+no duck could take more than ten stars .
+no man could find at least six holes .
+no man could find more than six holes .
+no bear can catch at least six trees .
+no bear can catch more than six trees .
+no uncle could carry at least eight letters .
+no uncle could carry more than eight letters .
+no duck can move to at least eight cars .
+no duck can move to more than eight cars .
+no baby can find at least ten works .
+no baby can find more than ten works .
+no doctor can hit at least six flowers .
+no doctor can hit more than six flowers .
+no horse could say at least ten matches .
+no horse could say more than ten matches .
+no uncle can tell at least six years .
+no uncle can tell more than six years .
+no doctor could pick at least eight fingers .
+no doctor could pick more than eight fingers .
+no doctor can give at least eight lines .
+no doctor can give more than eight lines .
+no doctor can take at least six people .
+no doctor can take more than six people .
+no man can catch at least two songs .
+no man can catch more than two songs .
+no uncle could give at least two eyes .
+no uncle could give more than two eyes .
+no horse could find at least ten books .
+no horse could find more than ten books .
+no lion could take at least two boats .
+no lion could take more than two boats .
+no bear can look at at least fifty birds .
+no bear can look at more than fifty birds .
+no baby could move to at least twelve minutes .
+no baby could move to more than twelve minutes .
+no doctor can make at least six horses .
+no doctor can make more than six horses .
+no lion can move to at least fifty eyes .
+no lion can move to more than fifty eyes .
+no duck can tell at least two letters .
+no duck can tell more than two letters .
+no baby can tell at least six trains .
+no baby can tell more than six trains .
+no duck can carry at least fifty weeks .
+no duck can carry more than fifty weeks .
+no uncle could look at at least fifty trees .
+no uncle could look at more than fifty trees .
+no bear can move to at least fifty bears .
+no bear can move to more than fifty bears .
+no duck can open the door to at least six girls .
+no duck can open the door to more than six girls .
+no baby could catch at least twelve weeks .
+no baby could catch more than twelve weeks .
+no duck can carry at least twelve boys .
+no duck can carry more than twelve boys .
+no bear could say at least six dogs .
+no bear could say more than six dogs .
+no bear could leave at least eight matches .
+no bear could leave more than eight matches .
+no horse can make at least ten boats .
+no horse can make more than ten boats .
+no uncle can find at least fifty trees .
+no uncle can find more than fifty trees .
+no uncle can catch at least eight trains .
+no uncle can catch more than eight trains .
+no lion could carry at least ten eggs .
+no lion could carry more than ten eggs .
+no duck can pick at least two birds .
+no duck can pick more than two birds .
+no lion can find at least fifty flowers .
+no lion can find more than fifty flowers .
+no lion can open the door to at least twelve pictures .
+no lion can open the door to more than twelve pictures .
+no doctor can catch at least two hands .
+no doctor can catch more than two hands .
+no doctor can take at least twelve names .
+no doctor can take more than twelve names .
+no man could carry at least two people .
+no man could carry more than two people .
+no uncle can open the door to at least fifty things .
+no uncle can open the door to more than fifty things .
+no duck can tell at least twelve people .
+no duck can tell more than twelve people .
+no bear can catch at least two lines .
+no bear can catch more than two lines .
+no doctor can change at least two keys .
+no doctor can change more than two keys .
+no doctor could tell at least eight arms .
+no doctor could tell more than eight arms .
+no lion can show at least eight girls .
+no lion can show more than eight girls .
+no duck could hit at least twelve parts .
+no duck could hit more than twelve parts .
+no doctor could talk about at least six dogs .
+no doctor could talk about more than six dogs .
+no baby could stand on top of at least fifty friends .
+no baby could stand on top of more than fifty friends .
+no bear could say at least twelve matches .
+no bear could say more than twelve matches .
+no duck could look at at least eight weeks .
+no duck could look at more than eight weeks .
+no man can tell at least eight days .
+no man can tell more than eight days .
+no lion could play at least eight holes .
+no lion could play more than eight holes .
+no bear can see at least six eyes .
+no bear can see more than six eyes .
+no uncle could catch at least six weeks .
+no uncle could catch more than six weeks .
+no duck could play at least six keys .
+no duck could play more than six keys .
+no duck could take at least twelve weeks .
+no duck could take more than twelve weeks .
+no bear could move to at least eight horses .
+no bear could move to more than eight horses .
+no duck can leave at least ten letters .
+no duck can leave more than ten letters .
+no baby could move to at least fifty friends .
+no baby could move to more than fifty friends .
+no horse can pick at least ten lines .
+no horse can pick more than ten lines .
+no horse can say at least fifty years .
+no horse can say more than fifty years .
+no baby can make at least twelve stars .
+no baby can make more than twelve stars .
+no doctor could see at least eight sounds .
+no doctor could see more than eight sounds .
+no doctor can give at least eight stars .
+no doctor can give more than eight stars .
+no lion can play at least fifty flowers .
+no lion can play more than fifty flowers .
+no lion could take at least eight holes .
+no lion could take more than eight holes .
+no horse could look at at least twelve legs .
+no horse could look at more than twelve legs .
+no horse could change at least two bubbles .
+no horse could change more than two bubbles .
+no doctor can show at least ten years .
+no doctor can show more than ten years .
+no baby could give at least ten arms .
+no baby could give more than ten arms .
+no duck could tell at least six cars .
+no duck could tell more than six cars .
+no bear could say at least fifty names .
+no bear could say more than fifty names .
+no duck could hit at least twelve works .
+no duck could hit more than twelve works .
+no bear can change at least fifty stars .
+no bear can change more than fifty stars .
+no doctor can leave at least ten friends .
+no doctor can leave more than ten friends .
+no uncle could leave at least fifty trains .
+no uncle could leave more than fifty trains .
+no uncle can catch at least fifty trains .
+no uncle can catch more than fifty trains .
+no baby can see at least six legs .
+no baby can see more than six legs .
+no doctor can show at least eight weeks .
+no doctor can show more than eight weeks .
+no doctor could give at least six numbers .
+no doctor could give more than six numbers .
+no horse could open the door to at least six names .
+no horse could open the door to more than six names .
+no man could look at at least two names .
+no man could look at more than two names .
+no uncle can catch at least six trains .
+no uncle can catch more than six trains .
+no horse could give at least ten lines .
+no horse could give more than ten lines .
+no baby can show at least ten names .
+no baby can show more than ten names .
+no uncle can take at least six weeks .
+no uncle can take more than six weeks .
+no bear could talk about at least six wheels .
+no bear could talk about more than six wheels .
+no horse can tell at least ten songs .
+no horse can tell more than ten songs .
+no baby could give at least twelve cars .
+no baby could give more than twelve cars .
+no doctor can take at least six things .
+no doctor can take more than six things .
+no lion could talk about at least two wheels .
+no lion could talk about more than two wheels .
+no uncle could play at least twelve hands .
+no uncle could play more than twelve hands .
+no baby could leave at least six days .
+no baby could leave more than six days .
+no man can talk about at least eight bubbles .
+no man can talk about more than eight bubbles .
+no doctor could give at least six eggs .
+no doctor could give more than six eggs .
+no uncle could change at least six pieces .
+no uncle could change more than six pieces .
+no baby could look at at least ten letters .
+no baby could look at more than ten letters .
+no baby can see at least twelve bubbles .
+no baby can see more than twelve bubbles .
+no bear can hit at least two hands .
+no bear can hit more than two hands .
+no doctor can find at least eight eyes .
+no doctor can find more than eight eyes .
+no uncle can stand on top of at least twelve matches .
+no uncle can stand on top of more than twelve matches .
+no horse can leave at least six cars .
+no horse can leave more than six cars .
+no uncle can change at least twelve holes .
+no uncle can change more than twelve holes .
+no baby can hit at least six words .
+no baby can hit more than six words .
+no doctor could see at least eight legs .
+no doctor could see more than eight legs .
+no man could tell at least ten legs .
+no man could tell more than ten legs .
+no horse could hit at least twelve names .
+no horse could hit more than twelve names .
+no uncle could talk about at least fifty wheels .
+no uncle could talk about more than fifty wheels .
+no uncle could leave at least eight horses .
+no uncle could leave more than eight horses .
+no man can stand on top of at least eight books .
+no man can stand on top of more than eight books .
+no uncle could carry at least eight years .
+no uncle could carry more than eight years .
+no lion could hit at least fifty sounds .
+no lion could hit more than fifty sounds .
+no duck can find at least fifty trees .
+no duck can find more than fifty trees .
+no doctor can find at least eight fingers .
+no doctor can find more than eight fingers .
+no duck can play at least two bubbles .
+no duck can play more than two bubbles .
+no duck could stand on top of at least two numbers .
+no duck could stand on top of more than two numbers .
+no bear could change at least six letters .
+no bear could change more than six letters .
+no baby could hit at least six letters .
+no baby could hit more than six letters .
+no baby could look at at least six eyes .
+no baby could look at more than six eyes .
+no horse can open the door to at least fifty pictures .
+no horse can open the door to more than fifty pictures .
+no lion could find at least six birds .
+no lion could find more than six birds .
+no bear can open the door to at least eight legs .
+no bear can open the door to more than eight legs .
+no duck can carry at least six bubbles .
+no duck can carry more than six bubbles .
+no lion can pick at least twelve parts .
+no lion can pick more than twelve parts .
+no horse can take at least twelve eyes .
+no horse can take more than twelve eyes .
+no horse can give at least ten birds .
+no horse can give more than ten birds .
+no horse can pick at least ten horses .
+no horse can pick more than ten horses .
+no baby could hit at least fifty books .
+no baby could hit more than fifty books .
+no horse can pick at least twelve words .
+no horse can pick more than twelve words .
+no lion could talk about at least twelve books .
+no lion could talk about more than twelve books .
+no bear can talk about at least six girls .
+no bear can talk about more than six girls .
+no uncle can say at least ten times .
+no uncle can say more than ten times .
+no horse could say at least two wheels .
+no horse could say more than two wheels .
+no uncle could show at least two years .
+no uncle could show more than two years .
+no uncle could leave at least twelve legs .
+no uncle could leave more than twelve legs .
+no bear can see at least ten lines .
+no bear can see more than ten lines .
+no uncle can find at least six letters .
+no uncle can find more than six letters .
+no man could look at at least eight books .
+no man could look at more than eight books .
+no horse could change at least ten arms .
+no horse could change more than ten arms .
+no duck can find at least two pictures .
+no duck can find more than two pictures .
+no bear can take at least eight eyes .
+no bear can take more than eight eyes .
+no man can stand on top of at least ten feet .
+no man can stand on top of more than ten feet .
+no bear can make at least eight people .
+no bear can make more than eight people .
+no bear could show at least eight wheels .
+no bear could show more than eight wheels .
+no man can make at least eight keys .
+no man can make more than eight keys .
+no uncle can talk about at least fifty boats .
+no uncle can talk about more than fifty boats .
+no bear can open the door to at least two colors .
+no bear can open the door to more than two colors .
+no uncle could show at least eight birds .
+no uncle could show more than eight birds .
+no baby could find at least fifty eyes .
+no baby could find more than fifty eyes .
+no baby can show at least six stars .
+no baby can show more than six stars .
+no bear can carry at least twelve birds .
+no bear can carry more than twelve birds .
+no uncle could open the door to at least six things .
+no uncle could open the door to more than six things .
+no baby could open the door to at least fifty trains .
+no baby could open the door to more than fifty trains .
+no man could play at least twelve hands .
+no man could play more than twelve hands .
+no man could make at least fifty feet .
+no man could make more than fifty feet .
+no lion could hit at least twelve words .
+no lion could hit more than twelve words .
+no doctor can hit at least fifty pictures .
+no doctor can hit more than fifty pictures .
+no doctor could carry at least fifty things .
+no doctor could carry more than fifty things .
+no lion can look at at least eight dogs .
+no lion can look at more than eight dogs .
+no baby could say at least six dogs .
+no baby could say more than six dogs .
+no bear can carry at least eight sounds .
+no bear can carry more than eight sounds .
+no uncle could give at least twelve sounds .
+no uncle could give more than twelve sounds .
+no lion can stand on top of at least fifty bubbles .
+no lion can stand on top of more than fifty bubbles .
+no doctor can talk about at least fifty bubbles .
+no doctor can talk about more than fifty bubbles .
+no man could take at least two years .
+no man could take more than two years .
+no horse could change at least ten trains .
+no horse could change more than ten trains .
+no duck could hit at least ten boys .
+no duck could hit more than ten boys .
+no doctor could make at least eight feet .
+no doctor could make more than eight feet .
+no doctor could move to at least ten boys .
+no doctor could move to more than ten boys .
+no bear can catch at least six bears .
+no bear can catch more than six bears .
+no baby can tell at least fifty fingers .
+no baby can tell more than fifty fingers .
+no baby could give at least ten parts .
+no baby could give more than ten parts .
+no man can say at least ten songs .
+no man can say more than ten songs .
+no bear could take at least two things .
+no bear could take more than two things .
+no doctor can talk about at least twelve boats .
+no doctor can talk about more than twelve boats .
+no bear could move to at least six sounds .
+no bear could move to more than six sounds .
+no horse can show at least eight dogs .
+no horse can show more than eight dogs .
+no doctor could say at least twelve pieces .
+no doctor could say more than twelve pieces .
+no baby could stand on top of at least six names .
+no baby could stand on top of more than six names .
+no baby can carry at least twelve legs .
+no baby can carry more than twelve legs .
+no lion could make at least twelve pieces .
+no lion could make more than twelve pieces .
+no baby can tell at least two arms .
+no baby can tell more than two arms .
+no duck could talk about at least fifty weeks .
+no duck could talk about more than fifty weeks .
+no uncle could leave at least twelve hands .
+no uncle could leave more than twelve hands .
+no doctor can change at least eight colors .
+no doctor can change more than eight colors .
+no horse could give at least fifty pieces .
+no horse could give more than fifty pieces .
+no horse can see at least twelve names .
+no horse can see more than twelve names .
+no horse could show at least ten minutes .
+no horse could show more than ten minutes .
+no lion can tell at least fifty words .
+no lion can tell more than fifty words .
+no lion can take at least fifty times .
+no lion can take more than fifty times .
+no lion could find at least fifty matches .
+no lion could find more than fifty matches .
+no doctor can make at least eight weeks .
+no doctor can make more than eight weeks .
+no man can find at least six people .
+no man can find more than six people .
+no doctor could take at least two works .
+no doctor could take more than two works .
+no man could give at least eight letters .
+no man could give more than eight letters .
+no lion could say at least ten stars .
+no lion could say more than ten stars .
+no horse could open the door to at least two parts .
+no horse could open the door to more than two parts .
+no uncle could give at least twelve arms .
+no uncle could give more than twelve arms .
+no duck could catch at least two books .
+no duck could catch more than two books .
+no duck can give at least six birds .
+no duck can give more than six birds .
+no lion could stand on top of at least eight books .
+no lion could stand on top of more than eight books .
+no lion can stand on top of at least two flowers .
+no lion can stand on top of more than two flowers .
+no man could catch at least six pieces .
+no man could catch more than six pieces .
+no doctor can see at least ten friends .
+no doctor can see more than ten friends .
+no lion could catch at least six names .
+no lion could catch more than six names .
+no doctor can open the door to at least two friends .
+no doctor can open the door to more than two friends .
+no bear can move to at least eight books .
+no bear can move to more than eight books .
+no uncle could talk about at least two letters .
+no uncle could talk about more than two letters .
+no bear could play at least twelve matches .
+no bear could play more than twelve matches .
+no uncle can tell at least two hands .
+no uncle can tell more than two hands .
+no duck could take at least twelve times .
+no duck could take more than twelve times .
+no duck can play at least fifty feet .
+no duck can play more than fifty feet .
+no doctor could take at least ten holes .
+no doctor could take more than ten holes .
+no uncle can hit at least eight fingers .
+no uncle can hit more than eight fingers .
+no duck could talk about at least fifty cars .
+no duck could talk about more than fifty cars .
+no horse can give at least six years .
+no horse can give more than six years .
+no uncle could carry at least fifty letters .
+no uncle could carry more than fifty letters .
+no doctor can catch at least eight names .
+no doctor can catch more than eight names .
+no bear could change at least twelve songs .
+no bear could change more than twelve songs .
+no duck could catch at least two dogs .
+no duck could catch more than two dogs .
+no uncle could leave at least two days .
+no uncle could leave more than two days .
+no baby can carry at least eight sounds .
+no baby can carry more than eight sounds .
+no baby could make at least six years .
+no baby could make more than six years .
+no uncle can open the door to at least twelve legs .
+no uncle can open the door to more than twelve legs .
+no uncle could open the door to at least ten cars .
+no uncle could open the door to more than ten cars .
+no lion could take at least ten days .
+no lion could take more than ten days .
+no uncle can carry at least six matches .
+no uncle can carry more than six matches .
+no horse can say at least eight birds .
+no horse can say more than eight birds .
+no man could say at least six people .
+no man could say more than six people .
+no lion could look at at least eight lines .
+no lion could look at more than eight lines .
+no baby can pick at least six boys .
+no baby can pick more than six boys .
+no lion can stand on top of at least six arms .
+no lion can stand on top of more than six arms .
+no lion can talk about at least fifty books .
+no lion can talk about more than fifty books .
+no doctor can take at least eight songs .
+no doctor can take more than eight songs .
+no doctor can make at least twelve holes .
+no doctor can make more than twelve holes .
+no baby can open the door to at least eight bubbles .
+no baby can open the door to more than eight bubbles .
+no horse could move to at least ten keys .
+no horse could move to more than ten keys .
+no duck could change at least two times .
+no duck could change more than two times .
+no duck could give at least fifty fingers .
+no duck could give more than fifty fingers .
+no man can open the door to at least fifty parts .
+no man can open the door to more than fifty parts .
+no horse can look at at least twelve bears .
+no horse can look at more than twelve bears .
+no duck can tell at least fifty wheels .
+no duck can tell more than fifty wheels .
+no uncle could make at least twelve arms .
+no uncle could make more than twelve arms .
+no uncle could say at least ten times .
+no uncle could say more than ten times .
+no uncle can say at least ten trains .
+no uncle can say more than ten trains .
+no bear could pick at least ten eggs .
+no bear could pick more than ten eggs .
+no bear can hit at least eight matches .
+no bear can hit more than eight matches .
+no lion can leave at least ten songs .
+no lion can leave more than ten songs .
+no doctor could tell at least fifty girls .
+no doctor could tell more than fifty girls .
+no doctor could look at at least eight colors .
+no doctor could look at more than eight colors .
+no baby could change at least fifty minutes .
+no baby could change more than fifty minutes .
+no man could see at least six hands .
+no man could see more than six hands .
+no lion could talk about at least eight sounds .
+no lion could talk about more than eight sounds .
+no man can carry at least twelve numbers .
+no man can carry more than twelve numbers .
+no lion could move to at least twelve works .
+no lion could move to more than twelve works .
+no horse could show at least six numbers .
+no horse could show more than six numbers .
+no duck can open the door to at least eight arms .
+no duck can open the door to more than eight arms .
+no lion could give at least twelve stars .
+no lion could give more than twelve stars .
+no uncle can tell at least six times .
+no uncle can tell more than six times .
+no uncle could talk about at least eight keys .
+no uncle could talk about more than eight keys .
+no doctor could carry at least ten minutes .
+no doctor could carry more than ten minutes .
+no doctor could see at least two boys .
+no doctor could see more than two boys .

@@ -10,7 +10,7 @@ NUM_ADJECTIVES = 50
 template1 = 'where {} the {} go ?'
 template2 = 'what {} the {} do ?'
 template3 = 'how {} the {} fit in here ?'
-template4 = 'how {} the {} become {} ?'
+template4 = 'how {} the {} get {} ?'
 template5 = 'when {} the {} stop working ?'
 template6 = 'when {} the {} start ?'
 

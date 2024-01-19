@@ -29,12 +29,14 @@ def main():
 
     # counterbalance both forms of verb as different forms are the contrast
     vbs_and_vbzs_1 = [
-        ('give', 'gives'),
+        #('give', 'gives'),
+        ('give', 'gave'),
     ]
 
     vbs_and_vbzs_2 = [
         ('ask', 'asked'),  # "asks" is not in vocab
-        ('tell', 'tells'),
+        #('tell', 'tells'),
+        ('tell', 'told'),
     ]
 
     prps_obj = ['me', 'you', 'him', 'her', 'them']

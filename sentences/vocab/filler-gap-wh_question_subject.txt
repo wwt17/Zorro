@@ -1,0 +1,4000 @@
+John tried who the dog can ask about horses .
+John tried the dog that can ask about horses .
+John tried who the dog is cutting horses .
+John tried the dog that is cutting horses .
+Jack found who the number can look words .
+Jack found the number that can look words .
+Jack found who the number is singing words .
+Jack found the number that is singing words .
+John thought who the sound can let minutes .
+John thought the sound that can let minutes .
+John thought who the sound is working with minutes .
+John thought the sound that is working with minutes .
+Jack heard who the letter can go birds .
+Jack heard the letter that can go birds .
+Jack heard who the letter is reading birds .
+Jack heard the letter that is reading birds .
+Jack missed who the time can keep years .
+Jack missed the time that can keep years .
+Jack missed who the time is wearing years .
+Jack missed the time that is wearing years .
+Jack looked who the week can drink dogs .
+Jack looked the week that can drink dogs .
+Jack looked who the week is feeling dogs .
+Jack looked the week that is feeling dogs .
+John found who the leg can open eggs .
+John found the leg that can open eggs .
+John found who the leg is cutting eggs .
+John found the leg that is cutting eggs .
+Jane heard who the minute can sing words .
+Jane heard the minute that can sing words .
+Jane heard who the minute is waiting words .
+Jane heard the minute that is waiting words .
+John gave who the girl can ride matches .
+John gave the girl that can ride matches .
+John gave who the girl is riding matches .
+John gave the girl that is riding matches .
+Jack fell who the eye can play colors .
+Jack fell the eye that can play colors .
+Jack fell who the eye is wearing colors .
+Jack fell the eye that is wearing colors .
+John opened who the letter can come to books .
+John opened the letter that can come to books .
+John opened who the letter is moving books .
+John opened the letter that is moving books .
+Jane came who the hand can kick girls .
+Jane came the hand that can kick girls .
+Jane came who the hand is cutting girls .
+Jane came the hand that is cutting girls .
+John went who the bear can meet holes .
+John went the bear that can meet holes .
+John went who the bear is missing holes .
+John went the bear that is missing holes .
+Jack wore who the day can watch trees .
+Jack wore the day that can watch trees .
+Jack wore who the day is walking trees .
+Jack wore the day that is walking trees .
+Jane knew who the bubble can blow friends .
+Jane knew the bubble that can blow friends .
+Jane knew who the bubble is starting friends .
+Jane knew the bubble that is starting friends .
+Jack took who the key can eat times .
+Jack took the key that can eat times .
+Jack took who the key is watching times .
+Jack took the key that is watching times .
+Jane dropped who the flower can seem letters .
+Jane dropped the flower that can seem letters .
+Jane dropped who the flower is singing letters .
+Jane dropped the flower that is singing letters .
+Jack shut who the match can drop numbers .
+Jack shut the match that can drop numbers .
+Jack shut who the match is starting numbers .
+Jack shut the match that is starting numbers .
+Jane found who the key can hold sounds .
+Jane found the key that can hold sounds .
+Jane found who the key is running sounds .
+Jane found the key that is running sounds .
+Jane loved who the eye can move sounds .
+Jane loved the eye that can move sounds .
+Jane loved who the eye is walking sounds .
+Jane loved the eye that is walking sounds .
+Jane ran who the picture can help eggs .
+Jane ran the picture that can help eggs .
+Jane ran who the picture is working with eggs .
+Jane ran the picture that is working with eggs .
+Jack lived who the week can wake trees .
+Jack lived the week that can wake trees .
+Jack lived who the week is leaving trees .
+Jack lived the week that is leaving trees .
+Jack worked who the person can hide words .
+Jack worked the person that can hide words .
+Jack worked who the person is playing words .
+Jack worked the person that is playing words .
+Jack picked who the minute can leave fingers .
+Jack picked the minute that can leave fingers .
+Jack picked who the minute is missing fingers .
+Jack picked the minute that is missing fingers .
+Jane missed who the hole can beat names .
+Jane missed the hole that can beat names .
+Jane missed who the hole is falling on names .
+Jane missed the hole that is falling on names .
+Jack picked who the number can keep works .
+Jack picked the number that can keep works .
+Jack picked who the number is getting works .
+Jack picked the number that is getting works .
+Jack happened who the time can fit minutes .
+Jack happened the time that can fit minutes .
+Jack happened who the time is laying minutes .
+Jack happened the time that is laying minutes .
+Jane wore who the time can write about fingers .
+Jane wore the time that can write about fingers .
+Jane wore who the time is wearing fingers .
+Jane wore the time that is wearing fingers .
+Jane saw who the tree can stand on books .
+Jane saw the tree that can stand on books .
+Jane saw who the tree is jumping books .
+Jane saw the tree that is jumping books .
+Jack picked who the boy can start times .
+Jack picked the boy that can start times .
+Jack picked who the boy is carrying times .
+Jack picked the boy that is carrying times .
+Jack picked who the boy can help fingers .
+Jack picked the boy that can help fingers .
+Jack picked who the boy is working with fingers .
+Jack picked the boy that is working with fingers .
+Jane heard who the part can go girls .
+Jane heard the part that can go girls .
+Jane heard who the part is waiting girls .
+Jane heard the part that is waiting girls .
+Jack shut who the leg can beat flowers .
+Jack shut the leg that can beat flowers .
+Jack shut who the leg is reading flowers .
+Jack shut the leg that is reading flowers .
+Jack took who the picture can seem people .
+Jack took the picture that can seem people .
+Jack took who the picture is trying people .
+Jack took the picture that is trying people .
+Jack heard who the minute can drink songs .
+Jack heard the minute that can drink songs .
+Jack heard who the minute is standing on songs .
+Jack heard the minute that is standing on songs .
+Jane looked who the girl can watch sounds .
+Jane looked the girl that can watch sounds .
+Jane looked who the girl is playing sounds .
+Jane looked the girl that is playing sounds .
+Jane wanted who the horse can take bubbles .
+Jane wanted the horse that can take bubbles .
+Jane wanted who the horse is singing bubbles .
+Jane wanted the horse that is singing bubbles .
+John picked who the dog can leave colors .
+John picked the dog that can leave colors .
+John picked who the dog is walking colors .
+John picked the dog that is walking colors .
+Jack saw who the boat can forget years .
+Jack saw the boat that can forget years .
+Jack saw who the boat is holding years .
+Jack saw the boat that is holding years .
+Jane loved who the word can write about boats .
+Jane loved the word that can write about boats .
+Jane loved who the word is giving boats .
+Jane loved the word that is giving boats .
+Jane shut who the girl can fly with friends .
+Jane shut the girl that can fly with friends .
+Jane shut who the girl is making friends .
+Jane shut the girl that is making friends .
+Jack ran who the eye can ask about days .
+Jack ran the eye that can ask about days .
+Jack ran who the eye is singing days .
+Jack ran the eye that is singing days .
+Jack stopped who the week can feed books .
+Jack stopped the week that can feed books .
+Jack stopped who the week is turning books .
+Jack stopped the week that is turning books .
+Jack saw who the boat can sell days .
+Jack saw the boat that can sell days .
+Jack saw who the boat is cutting days .
+Jack saw the boat that is cutting days .
+John dropped who the car can try fingers .
+John dropped the car that can try fingers .
+John dropped who the car is living fingers .
+John dropped the car that is living fingers .
+Jane walked who the day can understand colors .
+Jane walked the day that can understand colors .
+Jane walked who the day is swimming in colors .
+Jane walked the day that is swimming in colors .
+Jack wanted who the hand can stand on friends .
+Jack wanted the hand that can stand on friends .
+Jack wanted who the hand is sleeping in friends .
+Jack wanted the hand that is sleeping in friends .
+Jane gave who the number can drink weeks .
+Jane gave the number that can drink weeks .
+Jane gave who the number is singing weeks .
+Jane gave the number that is singing weeks .
+Jane played who the car can finish bubbles .
+Jane played the car that can finish bubbles .
+Jane played who the car is coming to bubbles .
+Jane played the car that is coming to bubbles .
+Jane wore who the friend can visit stars .
+Jane wore the friend that can visit stars .
+Jane wore who the friend is trying stars .
+Jane wore the friend that is trying stars .
+Jane came who the eye can take cars .
+Jane came the eye that can take cars .
+Jane came who the eye is moving cars .
+Jane came the eye that is moving cars .
+Jane found who the flower can read girls .
+Jane found the flower that can read girls .
+Jane found who the flower is making girls .
+Jane found the flower that is making girls .
+John saw who the boat can come to works .
+John saw the boat that can come to works .
+John saw who the boat is waiting works .
+John saw the boat that is waiting works .
+Jane knew who the bubble can understand times .
+Jane knew the bubble that can understand times .
+Jane knew who the bubble is playing times .
+Jane knew the bubble that is playing times .
+Jane happened who the time can play bears .
+Jane happened the time that can play bears .
+Jane happened who the time is using bears .
+Jane happened the time that is using bears .
+John tried who the sound can pick names .
+John tried the sound that can pick names .
+John tried who the sound is reading names .
+John tried the sound that is reading names .
+Jane asked who the line can hit birds .
+Jane asked the line that can hit birds .
+Jane asked who the line is riding birds .
+Jane asked the line that is riding birds .
+Jack made who the egg can seem pictures .
+Jack made the egg that can seem pictures .
+Jack made who the egg is working with pictures .
+Jack made the egg that is working with pictures .
+Jane broke who the match can make flowers .
+Jane broke the match that can make flowers .
+Jane broke who the match is dancing flowers .
+Jane broke the match that is dancing flowers .
+Jane asked who the sound can bring eggs .
+Jane asked the sound that can bring eggs .
+Jane asked who the sound is standing on eggs .
+Jane asked the sound that is standing on eggs .
+Jack saw who the friend can lay numbers .
+Jack saw the friend that can lay numbers .
+Jack saw who the friend is putting numbers .
+Jack saw the friend that is putting numbers .
+Jack looked who the book can write about books .
+Jack looked the book that can write about books .
+Jack looked who the book is working with books .
+Jack looked the book that is working with books .
+Jack said who the number can call keys .
+Jack said the number that can call keys .
+Jack said who the number is missing keys .
+Jack said the number that is missing keys .
+Jane meant who the flower can chase flowers .
+Jane meant the flower that can chase flowers .
+Jane meant who the flower is using flowers .
+Jane meant the flower that is using flowers .
+Jane looked who the thing can notice sounds .
+Jane looked the thing that can notice sounds .
+Jane looked who the thing is making sounds .
+Jane looked the thing that is making sounds .
+Jack went who the wheel can take keys .
+Jack went the wheel that can take keys .
+Jack went who the wheel is singing keys .
+Jack went the wheel that is singing keys .
+Jack loved who the piece can drive to times .
+Jack loved the piece that can drive to times .
+Jack loved who the piece is swimming in times .
+Jack loved the piece that is swimming in times .
+Jack heard who the friend can lay fingers .
+Jack heard the friend that can lay fingers .
+Jack heard who the friend is putting fingers .
+Jack heard the friend that is putting fingers .
+Jack loved who the hand can press fingers .
+Jack loved the hand that can press fingers .
+Jack loved who the hand is giving fingers .
+Jack loved the hand that is giving fingers .
+Jane thought who the wheel can cross things .
+Jane thought the wheel that can cross things .
+Jane thought who the wheel is making things .
+Jane thought the wheel that is making things .
+Jane heard who the flower can spill books .
+Jane heard the flower that can spill books .
+Jane heard who the flower is walking books .
+Jane heard the flower that is walking books .
+John ran who the train can watch sounds .
+John ran the train that can watch sounds .
+John ran who the train is singing sounds .
+John ran the train that is singing sounds .
+Jane worked who the minute can blow colors .
+Jane worked the minute that can blow colors .
+Jane worked who the minute is singing colors .
+Jane worked the minute that is singing colors .
+Jane tied who the match can change numbers .
+Jane tied the match that can change numbers .
+Jane tied who the match is taking numbers .
+Jane tied the match that is taking numbers .
+Jane gave who the sound can spill holes .
+Jane gave the sound that can spill holes .
+Jane gave who the sound is waiting holes .
+Jane gave the sound that is waiting holes .
+John tied who the work can mind works .
+John tied the work that can mind works .
+John tied who the work is using works .
+John tied the work that is using works .
+Jack looked who the thing can take bubbles .
+Jack looked the thing that can take bubbles .
+Jack looked who the thing is feeling bubbles .
+Jack looked the thing that is feeling bubbles .
+Jane wanted who the tree can sell eyes .
+Jane wanted the tree that can sell eyes .
+Jane wanted who the tree is playing eyes .
+Jane wanted the tree that is playing eyes .
+Jane ran who the girl can grow years .
+Jane ran the girl that can grow years .
+Jane ran who the girl is thinking about years .
+Jane ran the girl that is thinking about years .
+Jack gave who the line can blow songs .
+Jack gave the line that can blow songs .
+Jack gave who the line is jumping songs .
+Jack gave the line that is jumping songs .
+Jane played who the horse can pop holes .
+Jane played the horse that can pop holes .
+Jane played who the horse is walking holes .
+Jane played the horse that is walking holes .
+John turned who the person can read boats .
+John turned the person that can read boats .
+John turned who the person is moving boats .
+John turned the person that is moving boats .
+Jack picked who the arm can draw eggs .
+Jack picked the arm that can draw eggs .
+Jack picked who the arm is moving eggs .
+Jack picked the arm that is moving eggs .
+Jack played who the day can break birds .
+Jack played the day that can break birds .
+Jack played who the day is cutting birds .
+Jack played the day that is cutting birds .
+Jane opened who the horse can see books .
+Jane opened the horse that can see books .
+Jane opened who the horse is taking books .
+Jane opened the horse that is taking books .
+Jane opened who the eye can push birds .
+Jane opened the eye that can push birds .
+Jane opened who the eye is starting birds .
+Jane opened the eye that is starting birds .
+Jack said who the friend can walk boys .
+Jack said the friend that can walk boys .
+Jack said who the friend is missing boys .
+Jack said the friend that is missing boys .
+Jack tied who the person can carry weeks .
+Jack tied the person that can carry weeks .
+Jack tied who the person is coming to weeks .
+Jack tied the person that is coming to weeks .
+Jack took who the part can get pictures .
+Jack took the part that can get pictures .
+Jack took who the part is showing pictures .
+Jack took the part that is showing pictures .
+John asked who the foot can hide trains .
+John asked the foot that can hide trains .
+John asked who the foot is eating trains .
+John asked the foot that is eating trains .
+Jane got who the boy can take pictures .
+Jane got the boy that can take pictures .
+Jane got who the boy is jumping pictures .
+Jane got the boy that is jumping pictures .
+Jane wanted who the star can wear lines .
+Jane wanted the star that can wear lines .
+Jane wanted who the star is waiting lines .
+Jane wanted the star that is waiting lines .
+John gave who the number can show boats .
+John gave the number that can show boats .
+John gave who the number is showing boats .
+John gave the number that is showing boats .
+John worked who the minute can catch things .
+John worked the minute that can catch things .
+John worked who the minute is working with things .
+John worked the minute that is working with things .
+John loved who the part can cross arms .
+John loved the part that can cross arms .
+John loved who the part is coming to arms .
+John loved the part that is coming to arms .
+John found who the arm can bend colors .
+John found the arm that can bend colors .
+John found who the arm is moving colors .
+John found the arm that is moving colors .
+Jane thought who the bird can blow colors .
+Jane thought the bird that can blow colors .
+Jane thought who the bird is looking colors .
+Jane thought the bird that is looking colors .
+Jack lived who the name can stand on minutes .
+Jack lived the name that can stand on minutes .
+Jack lived who the name is moving minutes .
+Jack lived the name that is moving minutes .
+Jack looked who the boy can play stars .
+Jack looked the boy that can play stars .
+Jack looked who the boy is dancing stars .
+Jack looked the boy that is dancing stars .
+John walked who the letter can hit days .
+John walked the letter that can hit days .
+John walked who the letter is waiting days .
+John walked the letter that is waiting days .
+John ran who the arm can fly with friends .
+John ran the arm that can fly with friends .
+John ran who the arm is showing friends .
+John ran the arm that is showing friends .
+Jane thought who the word can bend times .
+Jane thought the word that can bend times .
+Jane thought who the word is dancing times .
+Jane thought the word that is dancing times .
+John heard who the hand can pick years .
+John heard the hand that can pick years .
+John heard who the hand is missing years .
+John heard the hand that is missing years .
+Jack missed who the foot can try lines .
+Jack missed the foot that can try lines .
+Jack missed who the foot is falling on lines .
+Jack missed the foot that is falling on lines .
+Jack found who the key can decide boats .
+Jack found the key that can decide boats .
+Jack found who the key is giving boats .
+Jack found the key that is giving boats .
+Jack turned who the minute can use boys .
+Jack turned the minute that can use boys .
+Jack turned who the minute is carrying boys .
+Jack turned the minute that is carrying boys .
+Jack found who the book can come to bubbles .
+Jack found the book that can come to bubbles .
+Jack found who the book is cutting bubbles .
+Jack found the book that is cutting bubbles .
+Jane ran who the song can fly with colors .
+Jane ran the song that can fly with colors .
+Jane ran who the song is using colors .
+Jane ran the song that is using colors .
+Jane brought who the year can mind matches .
+Jane brought the year that can mind matches .
+Jane brought who the year is sleeping in matches .
+Jane brought the year that is sleeping in matches .
+Jack said who the minute can make stars .
+Jack said the minute that can make stars .
+Jack said who the minute is making stars .
+Jack said the minute that is making stars .
+Jane loved who the week can decide songs .
+Jane loved the week that can decide songs .
+Jane loved who the week is thinking about songs .
+Jane loved the week that is thinking about songs .
+Jane wore who the piece can watch fingers .
+Jane wore the piece that can watch fingers .
+Jane wore who the piece is flying with fingers .
+Jane wore the piece that is flying with fingers .
+Jack asked who the finger can ride boats .
+Jack asked the finger that can ride boats .
+Jack asked who the finger is feeling boats .
+Jack asked the finger that is feeling boats .
+Jack broke who the sound can open words .
+Jack broke the sound that can open words .
+Jack broke who the sound is waiting words .
+Jack broke the sound that is waiting words .
+John ran who the bird can wake minutes .
+John ran the bird that can wake minutes .
+John ran who the bird is starting minutes .
+John ran the bird that is starting minutes .
+John opened who the day can fall on holes .
+John opened the day that can fall on holes .
+John opened who the day is trying holes .
+John opened the day that is trying holes .
+John came who the bubble can eat numbers .
+John came the bubble that can eat numbers .
+John came who the bubble is watching numbers .
+John came the bubble that is watching numbers .
+John asked who the thing can ride times .
+John asked the thing that can ride times .
+John asked who the thing is standing on times .
+John asked the thing that is standing on times .
+John took who the word can ride numbers .
+John took the word that can ride numbers .
+John took who the word is living numbers .
+John took the word that is living numbers .
+Jane came who the tree can decide names .
+Jane came the tree that can decide names .
+Jane came who the tree is swimming in names .
+Jane came the tree that is swimming in names .
+John thought who the bear can look names .
+John thought the bear that can look names .
+John thought who the bear is missing names .
+John thought the bear that is missing names .
+John brought who the bird can fit years .
+John brought the bird that can fit years .
+John brought who the bird is telling years .
+John brought the bird that is telling years .
+John walked who the arm can talk things .
+John walked the arm that can talk things .
+John walked who the arm is telling things .
+John walked the arm that is telling things .
+John fell who the wheel can stop weeks .
+John fell the wheel that can stop weeks .
+John fell who the wheel is making weeks .
+John fell the wheel that is making weeks .
+Jack worked who the piece can grow flowers .
+Jack worked the piece that can grow flowers .
+Jack worked who the piece is sleeping in flowers .
+Jack worked the piece that is sleeping in flowers .
+Jack wanted who the wheel can leave holes .
+Jack wanted the wheel that can leave holes .
+Jack wanted who the wheel is holding holes .
+Jack wanted the wheel that is holding holes .
+John played who the flower can move feet .
+John played the flower that can move feet .
+John played who the flower is going feet .
+John played the flower that is going feet .
+Jane knew who the arm can help flowers .
+Jane knew the arm that can help flowers .
+Jane knew who the arm is watching flowers .
+Jane knew the arm that is watching flowers .
+John moved who the boat can look stars .
+John moved the boat that can look stars .
+John moved who the boat is dancing stars .
+John moved the boat that is dancing stars .
+Jane went who the dog can count times .
+Jane went the dog that can count times .
+Jane went who the dog is missing times .
+Jane went the dog that is missing times .
+John lived who the match can lay songs .
+John lived the match that can lay songs .
+John lived who the match is living songs .
+John lived the match that is living songs .
+John came who the time can open girls .
+John came the time that can open girls .
+John came who the time is drawing girls .
+John came the time that is drawing girls .
+Jack wore who the train can sell works .
+Jack wore the train that can sell works .
+Jack wore who the train is making works .
+Jack wore the train that is making works .
+John went who the time can stop wheels .
+John went the time that can stop wheels .
+John went who the time is coming to wheels .
+John went the time that is coming to wheels .
+Jane missed who the word can stand on eyes .
+Jane missed the word that can stand on eyes .
+Jane missed who the word is drinking eyes .
+Jane missed the word that is drinking eyes .
+Jack ran who the key can wait boys .
+Jack ran the key that can wait boys .
+Jack ran who the key is using boys .
+Jack ran the key that is using boys .
+John meant who the word can carry stars .
+John meant the word that can carry stars .
+John meant who the word is waiting stars .
+John meant the word that is waiting stars .
+Jane came who the minute can look girls .
+Jane came the minute that can look girls .
+Jane came who the minute is reading girls .
+Jane came the minute that is reading girls .
+Jack loved who the hole can save letters .
+Jack loved the hole that can save letters .
+Jack loved who the hole is living letters .
+Jack loved the hole that is living letters .
+Jane meant who the bubble can try trains .
+Jane meant the bubble that can try trains .
+Jane meant who the bubble is eating trains .
+Jane meant the bubble that is eating trains .
+Jack broke who the bubble can seem dogs .
+Jack broke the bubble that can seem dogs .
+Jack broke who the bubble is giving dogs .
+Jack broke the bubble that is giving dogs .
+John made who the song can hear boys .
+John made the song that can hear boys .
+John made who the song is starting boys .
+John made the song that is starting boys .
+John looked who the piece can make arms .
+John looked the piece that can make arms .
+John looked who the piece is running arms .
+John looked the piece that is running arms .
+John ran who the boy can find girls .
+John ran the boy that can find girls .
+John ran who the boy is drawing girls .
+John ran the boy that is drawing girls .
+Jane tied who the egg can forget times .
+Jane tied the egg that can forget times .
+Jane tied who the egg is laying times .
+Jane tied the egg that is laying times .
+Jane stopped who the work can eat matches .
+Jane stopped the work that can eat matches .
+Jane stopped who the work is watching matches .
+Jane stopped the work that is watching matches .
+Jane ran who the bear can hide songs .
+Jane ran the bear that can hide songs .
+Jane ran who the bear is running songs .
+Jane ran the bear that is running songs .
+Jack moved who the person can start girls .
+Jack moved the person that can start girls .
+Jack moved who the person is taking girls .
+Jack moved the person that is taking girls .
+John wanted who the number can beat matches .
+John wanted the number that can beat matches .
+John wanted who the number is getting matches .
+John wanted the number that is getting matches .
+John tried who the letter can pull stars .
+John tried the letter that can pull stars .
+John tried who the letter is running stars .
+John tried the letter that is running stars .
+Jack stopped who the finger can ask about stars .
+Jack stopped the finger that can ask about stars .
+Jack stopped who the finger is watching stars .
+Jack stopped the finger that is watching stars .
+Jack stopped who the bubble can finish arms .
+Jack stopped the bubble that can finish arms .
+Jack stopped who the bubble is standing on arms .
+Jack stopped the bubble that is standing on arms .
+Jane gave who the train can spill holes .
+Jane gave the train that can spill holes .
+Jane gave who the train is going holes .
+Jane gave the train that is going holes .
+Jack brought who the color can fly with eyes .
+Jack brought the color that can fly with eyes .
+Jack brought who the color is working with eyes .
+Jack brought the color that is working with eyes .
+John meant who the hole can stop times .
+John meant the hole that can stop times .
+John meant who the hole is getting times .
+John meant the hole that is getting times .
+John ran who the horse can leave cars .
+John ran the horse that can leave cars .
+John ran who the horse is running cars .
+John ran the horse that is running cars .
+Jack brought who the dog can understand feet .
+Jack brought the dog that can understand feet .
+Jack brought who the dog is drawing feet .
+Jack brought the dog that is drawing feet .
+Jane opened who the arm can cut flowers .
+Jane opened the arm that can cut flowers .
+Jane opened who the arm is swimming in flowers .
+Jane opened the arm that is swimming in flowers .
+Jane got who the finger can take books .
+Jane got the finger that can take books .
+Jane got who the finger is dancing books .
+Jane got the finger that is dancing books .
+John said who the day can sleep in weeks .
+John said the day that can sleep in weeks .
+John said who the day is leaving weeks .
+John said the day that is leaving weeks .
+John worked who the song can treat letters .
+John worked the song that can treat letters .
+John worked who the song is moving letters .
+John worked the song that is moving letters .
+Jane gave who the flower can turn numbers .
+Jane gave the flower that can turn numbers .
+Jane gave who the flower is riding numbers .
+Jane gave the flower that is riding numbers .
+John knew who the friend can notice trains .
+John knew the friend that can notice trains .
+John knew who the friend is laying trains .
+John knew the friend that is laying trains .
+Jane asked who the number can stay minutes .
+Jane asked the number that can stay minutes .
+Jane asked who the number is standing on minutes .
+Jane asked the number that is standing on minutes .
+Jack lived who the boat can carry years .
+Jack lived the boat that can carry years .
+Jack lived who the boat is waiting years .
+Jack lived the boat that is waiting years .
+Jane walked who the number can hear eyes .
+Jane walked the number that can hear eyes .
+Jane walked who the number is coming to eyes .
+Jane walked the number that is coming to eyes .
+John picked who the car can hit minutes .
+John picked the car that can hit minutes .
+John picked who the car is swimming in minutes .
+John picked the car that is swimming in minutes .
+Jack turned who the train can break days .
+Jack turned the train that can break days .
+Jack turned who the train is missing days .
+Jack turned the train that is missing days .
+John moved who the bear can chase friends .
+John moved the bear that can chase friends .
+John moved who the bear is making friends .
+John moved the bear that is making friends .
+Jack missed who the line can go keys .
+Jack missed the line that can go keys .
+Jack missed who the line is working with keys .
+Jack missed the line that is working with keys .
+John stopped who the word can climb pictures .
+John stopped the word that can climb pictures .
+John stopped who the word is drawing pictures .
+John stopped the word that is drawing pictures .
+John knew who the horse can pull minutes .
+John knew the horse that can pull minutes .
+John knew who the horse is thinking about minutes .
+John knew the horse that is thinking about minutes .
+John tied who the boy can show fingers .
+John tied the boy that can show fingers .
+John tied who the boy is running fingers .
+John tied the boy that is running fingers .
+Jack came who the picture can try legs .
+Jack came the picture that can try legs .
+Jack came who the picture is flying with legs .
+Jack came the picture that is flying with legs .
+John shut who the boat can see dogs .
+John shut the boat that can see dogs .
+John shut who the boat is starting dogs .
+John shut the boat that is starting dogs .
+Jack gave who the word can press sounds .
+Jack gave the word that can press sounds .
+Jack gave who the word is drawing sounds .
+Jack gave the word that is drawing sounds .
+Jack missed who the work can find flowers .
+Jack missed the work that can find flowers .
+Jack missed who the work is drinking flowers .
+Jack missed the work that is drinking flowers .
+Jane brought who the match can get words .
+Jane brought the match that can get words .
+Jane brought who the match is putting words .
+Jane brought the match that is putting words .
+Jack gave who the friend can show hands .
+Jack gave the friend that can show hands .
+Jack gave who the friend is running hands .
+Jack gave the friend that is running hands .
+Jane thought who the person can roll feet .
+Jane thought the person that can roll feet .
+Jane thought who the person is reading feet .
+Jane thought the person that is reading feet .
+Jack tied who the foot can get dogs .
+Jack tied the foot that can get dogs .
+Jack tied who the foot is jumping dogs .
+Jack tied the foot that is jumping dogs .
+Jack tried who the sound can write about words .
+Jack tried the sound that can write about words .
+Jack tried who the sound is watching words .
+Jack tried the sound that is watching words .
+John loved who the word can climb flowers .
+John loved the word that can climb flowers .
+John loved who the word is missing flowers .
+John loved the word that is missing flowers .
+Jane walked who the letter can talk times .
+Jane walked the letter that can talk times .
+Jane walked who the letter is walking times .
+Jane walked the letter that is walking times .
+Jack turned who the friend can lie sounds .
+Jack turned the friend that can lie sounds .
+Jack turned who the friend is coming to sounds .
+Jack turned the friend that is coming to sounds .
+Jack wore who the egg can pop dogs .
+Jack wore the egg that can pop dogs .
+Jack wore who the egg is showing dogs .
+Jack wore the egg that is showing dogs .
+Jack played who the boat can sleep in parts .
+Jack played the boat that can sleep in parts .
+Jack played who the boat is making parts .
+Jack played the boat that is making parts .
+Jack meant who the part can count people .
+Jack meant the part that can count people .
+Jack meant who the part is playing people .
+Jack meant the part that is playing people .
+Jack gave who the leg can stop cars .
+Jack gave the leg that can stop cars .
+Jack gave who the leg is waiting cars .
+Jack gave the leg that is waiting cars .
+Jane brought who the time can hold sounds .
+Jane brought the time that can hold sounds .
+Jane brought who the time is telling sounds .
+Jane brought the time that is telling sounds .
+Jane gave who the hand can kick works .
+Jane gave the hand that can kick works .
+Jane gave who the hand is singing works .
+Jane gave the hand that is singing works .
+Jack ran who the book can come to names .
+Jack ran the book that can come to names .
+Jack ran who the book is jumping names .
+Jack ran the book that is jumping names .
+Jane loved who the foot can walk friends .
+Jane loved the foot that can walk friends .
+Jane loved who the foot is playing friends .
+Jane loved the foot that is playing friends .
+Jane broke who the hand can move books .
+Jane broke the hand that can move books .
+Jane broke who the hand is singing books .
+Jane broke the hand that is singing books .
+Jack moved who the train can wear letters .
+Jack moved the train that can wear letters .
+Jack moved who the train is wearing letters .
+Jack moved the train that is wearing letters .
+John played who the minute can finish dogs .
+John played the minute that can finish dogs .
+John played who the minute is swimming in dogs .
+John played the minute that is swimming in dogs .
+Jane gave who the sound can wait fingers .
+Jane gave the sound that can wait fingers .
+Jane gave who the sound is moving fingers .
+Jane gave the sound that is moving fingers .
+John broke who the name can treat things .
+John broke the name that can treat things .
+John broke who the name is feeling things .
+John broke the name that is feeling things .
+Jack tried who the bird can sell years .
+Jack tried the bird that can sell years .
+Jack tried who the bird is cutting years .
+Jack tried the bird that is cutting years .
+John found who the girl can cut works .
+John found the girl that can cut works .
+John found who the girl is telling works .
+John found the girl that is telling works .
+John asked who the match can fly with sounds .
+John asked the match that can fly with sounds .
+John asked who the match is cutting sounds .
+John asked the match that is cutting sounds .
+Jack asked who the sound can visit parts .
+Jack asked the sound that can visit parts .
+Jack asked who the sound is telling parts .
+Jack asked the sound that is telling parts .
+Jane shut who the line can blow boys .
+Jane shut the line that can blow boys .
+Jane shut who the line is singing boys .
+Jane shut the line that is singing boys .
+Jane got who the key can wake stars .
+Jane got the key that can wake stars .
+Jane got who the key is cutting stars .
+Jane got the key that is cutting stars .
+Jane missed who the wheel can break boats .
+Jane missed the wheel that can break boats .
+Jane missed who the wheel is cutting boats .
+Jane missed the wheel that is cutting boats .
+John knew who the picture can turn people .
+John knew the picture that can turn people .
+John knew who the picture is thinking about people .
+John knew the picture that is thinking about people .
+John heard who the dog can hear cars .
+John heard the dog that can hear cars .
+John heard who the dog is playing cars .
+John heard the dog that is playing cars .
+Jane wanted who the leg can fit holes .
+Jane wanted the leg that can fit holes .
+Jane wanted who the leg is drinking holes .
+Jane wanted the leg that is drinking holes .
+John stopped who the girl can grow times .
+John stopped the girl that can grow times .
+John stopped who the girl is putting times .
+John stopped the girl that is putting times .
+Jane broke who the person can meet holes .
+Jane broke the person that can meet holes .
+Jane broke who the person is making holes .
+Jane broke the person that is making holes .
+Jack took who the egg can visit wheels .
+Jack took the egg that can visit wheels .
+Jack took who the egg is getting wheels .
+Jack took the egg that is getting wheels .
+Jane ran who the car can see bears .
+Jane ran the car that can see bears .
+Jane ran who the car is putting bears .
+Jane ran the car that is putting bears .
+Jack opened who the day can build legs .
+Jack opened the day that can build legs .
+Jack opened who the day is cutting legs .
+Jack opened the day that is cutting legs .
+Jane fell who the wheel can read horses .
+Jane fell the wheel that can read horses .
+Jane fell who the wheel is missing horses .
+Jane fell the wheel that is missing horses .
+Jane took who the girl can visit feet .
+Jane took the girl that can visit feet .
+Jane took who the girl is taking feet .
+Jane took the girl that is taking feet .
+John broke who the horse can bring horses .
+John broke the horse that can bring horses .
+John broke who the horse is using horses .
+John broke the horse that is using horses .
+Jane happened who the song can find lines .
+Jane happened the song that can find lines .
+Jane happened who the song is running lines .
+Jane happened the song that is running lines .
+Jane worked who the hole can bend people .
+Jane worked the hole that can bend people .
+Jane worked who the hole is jumping people .
+Jane worked the hole that is jumping people .
+John loved who the bird can forget keys .
+John loved the bird that can forget keys .
+John loved who the bird is laying keys .
+John loved the bird that is laying keys .
+Jane found who the dog can walk bubbles .
+Jane found the dog that can walk bubbles .
+Jane found who the dog is putting bubbles .
+Jane found the dog that is putting bubbles .
+Jane worked who the star can lay fingers .
+Jane worked the star that can lay fingers .
+Jane worked who the star is missing fingers .
+Jane worked the star that is missing fingers .
+Jack found who the star can play books .
+Jack found the star that can play books .
+Jack found who the star is drawing books .
+Jack found the star that is drawing books .
+Jack thought who the star can wait trees .
+Jack thought the star that can wait trees .
+Jack thought who the star is singing trees .
+Jack thought the star that is singing trees .
+Jane gave who the hand can bring pieces .
+Jane gave the hand that can bring pieces .
+Jane gave who the hand is swimming in pieces .
+Jane gave the hand that is swimming in pieces .
+Jack tried who the finger can kick people .
+Jack tried the finger that can kick people .
+Jack tried who the finger is flying with people .
+Jack tried the finger that is flying with people .
+John moved who the letter can blow feet .
+John moved the letter that can blow feet .
+John moved who the letter is cutting feet .
+John moved the letter that is cutting feet .
+John looked who the car can carry years .
+John looked the car that can carry years .
+John looked who the car is working with years .
+John looked the car that is working with years .
+Jack looked who the thing can grow holes .
+Jack looked the thing that can grow holes .
+Jack looked who the thing is living holes .
+Jack looked the thing that is living holes .
+Jane happened who the time can hurt times .
+Jane happened the time that can hurt times .
+Jane happened who the time is thinking about times .
+Jane happened the time that is thinking about times .
+Jane heard who the color can find hands .
+Jane heard the color that can find hands .
+Jane heard who the color is coming to hands .
+Jane heard the color that is coming to hands .
+Jane broke who the hole can touch parts .
+Jane broke the hole that can touch parts .
+Jane broke who the hole is reading parts .
+Jane broke the hole that is reading parts .
+Jane found who the arm can use fingers .
+Jane found the arm that can use fingers .
+Jane found who the arm is going fingers .
+Jane found the arm that is going fingers .
+Jane wore who the letter can learn names .
+Jane wore the letter that can learn names .
+Jane wore who the letter is showing names .
+Jane wore the letter that is showing names .
+John dropped who the dog can try arms .
+John dropped the dog that can try arms .
+John dropped who the dog is working with arms .
+John dropped the dog that is working with arms .
+Jack dropped who the dog can move colors .
+Jack dropped the dog that can move colors .
+Jack dropped who the dog is carrying colors .
+Jack dropped the dog that is carrying colors .
+John moved who the tree can drink days .
+John moved the tree that can drink days .
+John moved who the tree is reading days .
+John moved the tree that is reading days .
+Jack brought who the train can fall on parts .
+Jack brought the train that can fall on parts .
+Jack brought who the train is standing on parts .
+Jack brought the train that is standing on parts .
+Jack fell who the car can sell pieces .
+Jack fell the car that can sell pieces .
+Jack fell who the car is carrying pieces .
+Jack fell the car that is carrying pieces .
+Jane gave who the thing can beat sounds .
+Jane gave the thing that can beat sounds .
+Jane gave who the thing is laying sounds .
+Jane gave the thing that is laying sounds .
+John meant who the friend can lay wheels .
+John meant the friend that can lay wheels .
+John meant who the friend is cutting wheels .
+John meant the friend that is cutting wheels .
+Jack worked who the dog can fly with works .
+Jack worked the dog that can fly with works .
+Jack worked who the dog is making works .
+Jack worked the dog that is making works .
+Jack went who the year can walk cars .
+Jack went the year that can walk cars .
+Jack went who the year is showing cars .
+Jack went the year that is showing cars .
+Jack asked who the line can drink numbers .
+Jack asked the line that can drink numbers .
+Jack asked who the line is flying with numbers .
+Jack asked the line that is flying with numbers .
+Jack lived who the minute can hide arms .
+Jack lived the minute that can hide arms .
+Jack lived who the minute is falling on arms .
+Jack lived the minute that is falling on arms .
+Jack tried who the bubble can fall on bubbles .
+Jack tried the bubble that can fall on bubbles .
+Jack tried who the bubble is missing bubbles .
+Jack tried the bubble that is missing bubbles .
+Jane thought who the friend can fly with fingers .
+Jane thought the friend that can fly with fingers .
+Jane thought who the friend is sleeping in fingers .
+Jane thought the friend that is sleeping in fingers .
+Jane ran who the bear can treat weeks .
+Jane ran the bear that can treat weeks .
+Jane ran who the bear is thinking about weeks .
+Jane ran the bear that is thinking about weeks .
+Jack loved who the train can start songs .
+Jack loved the train that can start songs .
+Jack loved who the train is going songs .
+Jack loved the train that is going songs .
+John stopped who the part can change works .
+John stopped the part that can change works .
+John stopped who the part is moving works .
+John stopped the part that is moving works .
+Jack brought who the book can draw people .
+Jack brought the book that can draw people .
+Jack brought who the book is trying people .
+Jack brought the book that is trying people .
+John wanted who the bird can forget bubbles .
+John wanted the bird that can forget bubbles .
+John wanted who the bird is waiting bubbles .
+John wanted the bird that is waiting bubbles .
+John missed who the week can wake bubbles .
+John missed the week that can wake bubbles .
+John missed who the week is taking bubbles .
+John missed the week that is taking bubbles .
+John found who the egg can save things .
+John found the egg that can save things .
+John found who the egg is cutting things .
+John found the egg that is cutting things .
+Jack took who the color can drive to weeks .
+Jack took the color that can drive to weeks .
+Jack took who the color is running weeks .
+Jack took the color that is running weeks .
+Jack loved who the song can climb eyes .
+Jack loved the song that can climb eyes .
+Jack loved who the song is laying eyes .
+Jack loved the song that is laying eyes .
+Jack ran who the wheel can kick parts .
+Jack ran the wheel that can kick parts .
+Jack ran who the wheel is wearing parts .
+Jack ran the wheel that is wearing parts .
+John tied who the year can lay people .
+John tied the year that can lay people .
+John tied who the year is telling people .
+John tied the year that is telling people .
+Jane said who the hand can see birds .
+Jane said the hand that can see birds .
+Jane said who the hand is putting birds .
+Jane said the hand that is putting birds .
+John fell who the color can roll songs .
+John fell the color that can roll songs .
+John fell who the color is working with songs .
+John fell the color that is working with songs .
+John wore who the tree can try boats .
+John wore the tree that can try boats .
+John wore who the tree is coming to boats .
+John wore the tree that is coming to boats .
+Jane tied who the year can press hands .
+Jane tied the year that can press hands .
+Jane tied who the year is coming to hands .
+Jane tied the year that is coming to hands .
+John wanted who the sound can sit flowers .
+John wanted the sound that can sit flowers .
+John wanted who the sound is playing flowers .
+John wanted the sound that is playing flowers .
+Jack said who the finger can fly with minutes .
+Jack said the finger that can fly with minutes .
+Jack said who the finger is showing minutes .
+Jack said the finger that is showing minutes .
+Jane thought who the car can leave matches .
+Jane thought the car that can leave matches .
+Jane thought who the car is telling matches .
+Jane thought the car that is telling matches .
+Jack moved who the arm can grow feet .
+Jack moved the arm that can grow feet .
+Jack moved who the arm is wearing feet .
+Jack moved the arm that is wearing feet .
+John found who the year can spill horses .
+John found the year that can spill horses .
+John found who the year is carrying horses .
+John found the year that is carrying horses .
+John came who the key can feed bears .
+John came the key that can feed bears .
+John came who the key is reading bears .
+John came the key that is reading bears .
+Jack gave who the girl can bring songs .
+Jack gave the girl that can bring songs .
+Jack gave who the girl is trying songs .
+Jack gave the girl that is trying songs .
+Jack moved who the finger can sing boys .
+Jack moved the finger that can sing boys .
+Jack moved who the finger is feeling boys .
+Jack moved the finger that is feeling boys .
+John saw who the letter can try friends .
+John saw the letter that can try friends .
+John saw who the letter is working with friends .
+John saw the letter that is working with friends .
+John tied who the book can talk parts .
+John tied the book that can talk parts .
+John tied who the book is running parts .
+John tied the book that is running parts .
+Jack tied who the day can pop holes .
+Jack tied the day that can pop holes .
+Jack tied who the day is thinking about holes .
+Jack tied the day that is thinking about holes .
+Jane looked who the word can draw years .
+Jane looked the word that can draw years .
+Jane looked who the word is putting years .
+Jane looked the word that is putting years .
+Jane meant who the person can fall on matches .
+Jane meant the person that can fall on matches .
+Jane meant who the person is looking matches .
+Jane meant the person that is looking matches .
+Jack meant who the flower can feel girls .
+Jack meant the flower that can feel girls .
+Jack meant who the flower is giving girls .
+Jack meant the flower that is giving girls .
+Jane got who the boy can open words .
+Jane got the boy that can open words .
+Jane got who the boy is starting words .
+Jane got the boy that is starting words .
+John found who the tree can keep feet .
+John found the tree that can keep feet .
+John found who the tree is putting feet .
+John found the tree that is putting feet .
+John moved who the boat can fly with books .
+John moved the boat that can fly with books .
+John moved who the boat is wearing books .
+John moved the boat that is wearing books .
+Jane loved who the arm can hear words .
+Jane loved the arm that can hear words .
+Jane loved who the arm is wearing words .
+Jane loved the arm that is wearing words .
+Jack dropped who the song can try songs .
+Jack dropped the song that can try songs .
+Jack dropped who the song is trying songs .
+Jack dropped the song that is trying songs .
+Jane brought who the leg can push songs .
+Jane brought the leg that can push songs .
+Jane brought who the leg is turning songs .
+Jane brought the leg that is turning songs .
+Jane wanted who the bird can change colors .
+Jane wanted the bird that can change colors .
+Jane wanted who the bird is watching colors .
+Jane wanted the bird that is watching colors .
+John happened who the eye can cross dogs .
+John happened the eye that can cross dogs .
+John happened who the eye is telling dogs .
+John happened the eye that is telling dogs .
+John missed who the star can draw letters .
+John missed the star that can draw letters .
+John missed who the star is working with letters .
+John missed the star that is working with letters .
+John saw who the thing can kick legs .
+John saw the thing that can kick legs .
+John saw who the thing is riding legs .
+John saw the thing that is riding legs .
+Jack looked who the person can open bubbles .
+Jack looked the person that can open bubbles .
+Jack looked who the person is feeling bubbles .
+Jack looked the person that is feeling bubbles .
+John saw who the hole can bring cars .
+John saw the hole that can bring cars .
+John saw who the hole is holding cars .
+John saw the hole that is holding cars .
+Jane came who the word can fly with times .
+Jane came the word that can fly with times .
+Jane came who the word is riding times .
+Jane came the word that is riding times .
+Jack shut who the bubble can take pieces .
+Jack shut the bubble that can take pieces .
+Jack shut who the bubble is standing on pieces .
+Jack shut the bubble that is standing on pieces .
+Jane played who the person can touch minutes .
+Jane played the person that can touch minutes .
+Jane played who the person is turning minutes .
+Jane played the person that is turning minutes .
+John came who the bird can visit pictures .
+John came the bird that can visit pictures .
+John came who the bird is giving pictures .
+John came the bird that is giving pictures .
+Jane stopped who the horse can hold matches .
+Jane stopped the horse that can hold matches .
+Jane stopped who the horse is riding matches .
+Jane stopped the horse that is riding matches .
+Jack broke who the bubble can eat times .
+Jack broke the bubble that can eat times .
+Jack broke who the bubble is feeling times .
+Jack broke the bubble that is feeling times .
+Jack took who the arm can beat keys .
+Jack took the arm that can beat keys .
+Jack took who the arm is drawing keys .
+Jack took the arm that is drawing keys .
+Jane went who the day can let horses .
+Jane went the day that can let horses .
+Jane went who the day is living horses .
+Jane went the day that is living horses .
+Jack took who the thing can build friends .
+Jack took the thing that can build friends .
+Jack took who the thing is riding friends .
+Jack took the thing that is riding friends .
+Jack knew who the egg can bring colors .
+Jack knew the egg that can bring colors .
+Jack knew who the egg is walking colors .
+Jack knew the egg that is walking colors .
+Jack took who the word can reach songs .
+Jack took the word that can reach songs .
+Jack took who the word is dancing songs .
+Jack took the word that is dancing songs .
+John saw who the line can pull stars .
+John saw the line that can pull stars .
+John saw who the line is giving stars .
+John saw the line that is giving stars .
+Jane tried who the dog can use letters .
+Jane tried the dog that can use letters .
+Jane tried who the dog is telling letters .
+Jane tried the dog that is telling letters .
+Jane knew who the friend can press numbers .
+Jane knew the friend that can press numbers .
+Jane knew who the friend is making numbers .
+Jane knew the friend that is making numbers .
+Jack went who the week can eat friends .
+Jack went the week that can eat friends .
+Jack went who the week is drawing friends .
+Jack went the week that is drawing friends .
+Jane came who the bear can cover keys .
+Jane came the bear that can cover keys .
+Jane came who the bear is falling on keys .
+Jane came the bear that is falling on keys .
+Jack picked who the word can go books .
+Jack picked the word that can go books .
+Jack picked who the word is sleeping in books .
+Jack picked the word that is sleeping in books .
+Jack tried who the minute can seem songs .
+Jack tried the minute that can seem songs .
+Jack tried who the minute is wearing songs .
+Jack tried the minute that is wearing songs .
+Jack got who the thing can hide dogs .
+Jack got the thing that can hide dogs .
+Jack got who the thing is riding dogs .
+Jack got the thing that is riding dogs .
+Jane went who the thing can pick boats .
+Jane went the thing that can pick boats .
+Jane went who the thing is going boats .
+Jane went the thing that is going boats .
+John ran who the hand can turn lines .
+John ran the hand that can turn lines .
+John ran who the hand is jumping lines .
+John ran the hand that is jumping lines .
+John asked who the sound can save eggs .
+John asked the sound that can save eggs .
+John asked who the sound is moving eggs .
+John asked the sound that is moving eggs .
+John tied who the minute can eat books .
+John tied the minute that can eat books .
+John tied who the minute is trying books .
+John tied the minute that is trying books .
+Jack missed who the train can stand on keys .
+Jack missed the train that can stand on keys .
+Jack missed who the train is watching keys .
+Jack missed the train that is watching keys .
+Jane opened who the picture can read minutes .
+Jane opened the picture that can read minutes .
+Jane opened who the picture is thinking about minutes .
+Jane opened the picture that is thinking about minutes .
+John tried who the leg can call songs .
+John tried the leg that can call songs .
+John tried who the leg is drinking songs .
+John tried the leg that is drinking songs .
+Jane wanted who the number can wait minutes .
+Jane wanted the number that can wait minutes .
+Jane wanted who the number is going minutes .
+Jane wanted the number that is going minutes .
+Jack picked who the number can call parts .
+Jack picked the number that can call parts .
+Jack picked who the number is leaving parts .
+Jack picked the number that is leaving parts .
+Jack thought who the key can walk eyes .
+Jack thought the key that can walk eyes .
+Jack thought who the key is missing eyes .
+Jack thought the key that is missing eyes .
+Jane played who the boy can save pictures .
+Jane played the boy that can save pictures .
+Jane played who the boy is drawing pictures .
+Jane played the boy that is drawing pictures .
+Jane looked who the tree can pull girls .
+Jane looked the tree that can pull girls .
+Jane looked who the tree is telling girls .
+Jane looked the tree that is telling girls .
+John played who the boy can finish things .
+John played the boy that can finish things .
+John played who the boy is giving things .
+John played the boy that is giving things .
+Jane dropped who the finger can hurt days .
+Jane dropped the finger that can hurt days .
+Jane dropped who the finger is looking days .
+Jane dropped the finger that is looking days .
+John went who the car can show letters .
+John went the car that can show letters .
+John went who the car is playing letters .
+John went the car that is playing letters .
+John wanted who the finger can reach friends .
+John wanted the finger that can reach friends .
+John wanted who the finger is trying friends .
+John wanted the finger that is trying friends .
+John asked who the boy can let lines .
+John asked the boy that can let lines .
+John asked who the boy is coming to lines .
+John asked the boy that is coming to lines .
+Jane loved who the bird can drink lines .
+Jane loved the bird that can drink lines .
+Jane loved who the bird is laying lines .
+Jane loved the bird that is laying lines .
+Jack shut who the match can touch letters .
+Jack shut the match that can touch letters .
+Jack shut who the match is holding letters .
+Jack shut the match that is holding letters .
+Jack got who the color can start bubbles .
+Jack got the color that can start bubbles .
+Jack got who the color is wearing bubbles .
+Jack got the color that is wearing bubbles .
+John missed who the time can keep minutes .
+John missed the time that can keep minutes .
+John missed who the time is carrying minutes .
+John missed the time that is carrying minutes .
+Jane took who the bird can chase years .
+Jane took the bird that can chase years .
+Jane took who the bird is giving years .
+Jane took the bird that is giving years .
+Jack tied who the hole can pull parts .
+Jack tied the hole that can pull parts .
+Jack tied who the hole is reading parts .
+Jack tied the hole that is reading parts .
+Jack missed who the person can pick bears .
+Jack missed the person that can pick bears .
+Jack missed who the person is feeling bears .
+Jack missed the person that is feeling bears .
+Jane worked who the part can drive to eggs .
+Jane worked the part that can drive to eggs .
+Jane worked who the part is leaving eggs .
+Jane worked the part that is leaving eggs .
+Jack heard who the boat can use minutes .
+Jack heard the boat that can use minutes .
+Jack heard who the boat is getting minutes .
+Jack heard the boat that is getting minutes .
+Jane knew who the piece can chase horses .
+Jane knew the piece that can chase horses .
+Jane knew who the piece is looking horses .
+Jane knew the piece that is looking horses .
+John dropped who the minute can feed bubbles .
+John dropped the minute that can feed bubbles .
+John dropped who the minute is feeling bubbles .
+John dropped the minute that is feeling bubbles .
+John missed who the wheel can cross dogs .
+John missed the wheel that can cross dogs .
+John missed who the wheel is going dogs .
+John missed the wheel that is going dogs .
+Jack broke who the year can take fingers .
+Jack broke the year that can take fingers .
+Jack broke who the year is sleeping in fingers .
+Jack broke the year that is sleeping in fingers .
+John wanted who the horse can fly with songs .
+John wanted the horse that can fly with songs .
+John wanted who the horse is leaving songs .
+John wanted the horse that is leaving songs .
+Jack got who the foot can bend names .
+Jack got the foot that can bend names .
+Jack got who the foot is jumping names .
+Jack got the foot that is jumping names .
+Jane said who the week can save legs .
+Jane said the week that can save legs .
+Jane said who the week is giving legs .
+Jane said the week that is giving legs .
+Jane brought who the word can sing boats .
+Jane brought the word that can sing boats .
+Jane brought who the word is waiting boats .
+Jane brought the word that is waiting boats .
+Jane turned who the letter can catch cars .
+Jane turned the letter that can catch cars .
+Jane turned who the letter is flying with cars .
+Jane turned the letter that is flying with cars .
+Jack made who the word can help eggs .
+Jack made the word that can help eggs .
+Jack made who the word is swimming in eggs .
+Jack made the word that is swimming in eggs .
+Jack asked who the dog can let boats .
+Jack asked the dog that can let boats .
+Jack asked who the dog is dancing boats .
+Jack asked the dog that is dancing boats .
+John got who the wheel can lay days .
+John got the wheel that can lay days .
+John got who the wheel is going days .
+John got the wheel that is going days .
+Jack came who the person can come to eggs .
+Jack came the person that can come to eggs .
+Jack came who the person is using eggs .
+Jack came the person that is using eggs .
+Jack said who the friend can draw cars .
+Jack said the friend that can draw cars .
+Jack said who the friend is falling on cars .
+Jack said the friend that is falling on cars .
+John said who the year can touch bubbles .
+John said the year that can touch bubbles .
+John said who the year is waiting bubbles .
+John said the year that is waiting bubbles .
+Jane knew who the hand can sell books .
+Jane knew the hand that can sell books .
+Jane knew who the hand is waiting books .
+Jane knew the hand that is waiting books .
+John saw who the bear can use parts .
+John saw the bear that can use parts .
+John saw who the bear is showing parts .
+John saw the bear that is showing parts .
+Jack picked who the day can pick years .
+Jack picked the day that can pick years .
+Jack picked who the day is living years .
+Jack picked the day that is living years .
+Jack made who the friend can cross holes .
+Jack made the friend that can cross holes .
+Jack made who the friend is putting holes .
+Jack made the friend that is putting holes .
+John came who the wheel can drink bears .
+John came the wheel that can drink bears .
+John came who the wheel is leaving bears .
+John came the wheel that is leaving bears .
+John wore who the girl can mind colors .
+John wore the girl that can mind colors .
+John wore who the girl is carrying colors .
+John wore the girl that is carrying colors .
+John shut who the dog can come to matches .
+John shut the dog that can come to matches .
+John shut who the dog is holding matches .
+John shut the dog that is holding matches .
+Jane lived who the piece can sit times .
+Jane lived the piece that can sit times .
+Jane lived who the piece is moving times .
+Jane lived the piece that is moving times .
+Jack asked who the train can lose legs .
+Jack asked the train that can lose legs .
+Jack asked who the train is riding legs .
+Jack asked the train that is riding legs .
+Jane found who the bear can wake boats .
+Jane found the bear that can wake boats .
+Jane found who the bear is sleeping in boats .
+Jane found the bear that is sleeping in boats .
+John got who the dog can see friends .
+John got the dog that can see friends .
+John got who the dog is feeling friends .
+John got the dog that is feeling friends .
+John ran who the part can turn trains .
+John ran the part that can turn trains .
+John ran who the part is standing on trains .
+John ran the part that is standing on trains .
+Jack gave who the bubble can show minutes .
+Jack gave the bubble that can show minutes .
+Jack gave who the bubble is taking minutes .
+Jack gave the bubble that is taking minutes .
+Jane happened who the hand can kick bubbles .
+Jane happened the hand that can kick bubbles .
+Jane happened who the hand is drinking bubbles .
+Jane happened the hand that is drinking bubbles .
+John wanted who the wheel can sing sounds .
+John wanted the wheel that can sing sounds .
+John wanted who the wheel is making sounds .
+John wanted the wheel that is making sounds .
+Jane looked who the foot can cut friends .
+Jane looked the foot that can cut friends .
+Jane looked who the foot is trying friends .
+Jane looked the foot that is trying friends .
+Jane loved who the leg can call things .
+Jane loved the leg that can call things .
+Jane loved who the leg is laying things .
+Jane loved the leg that is laying things .
+Jane made who the tree can get flowers .
+Jane made the tree that can get flowers .
+Jane made who the tree is coming to flowers .
+Jane made the tree that is coming to flowers .
+John looked who the train can grow times .
+John looked the train that can grow times .
+John looked who the train is missing times .
+John looked the train that is missing times .
+Jack said who the week can cross stars .
+Jack said the week that can cross stars .
+Jack said who the week is singing stars .
+Jack said the week that is singing stars .
+Jack gave who the thing can stand on feet .
+Jack gave the thing that can stand on feet .
+Jack gave who the thing is singing feet .
+Jack gave the thing that is singing feet .
+Jack opened who the foot can cut holes .
+Jack opened the foot that can cut holes .
+Jack opened who the foot is holding holes .
+Jack opened the foot that is holding holes .
+John shut who the tree can make cars .
+John shut the tree that can make cars .
+John shut who the tree is using cars .
+John shut the tree that is using cars .
+Jane brought who the horse can lie colors .
+Jane brought the horse that can lie colors .
+Jane brought who the horse is showing colors .
+Jane brought the horse that is showing colors .
+Jack happened who the time can watch years .
+Jack happened the time that can watch years .
+Jack happened who the time is watching years .
+Jack happened the time that is watching years .
+John took who the dog can eat birds .
+John took the dog that can eat birds .
+John took who the dog is trying birds .
+John took the dog that is trying birds .
+John made who the hand can lie numbers .
+John made the hand that can lie numbers .
+John made who the hand is riding numbers .
+John made the hand that is riding numbers .
+Jack looked who the boat can go words .
+Jack looked the boat that can go words .
+Jack looked who the boat is walking words .
+Jack looked the boat that is walking words .
+John fell who the line can cover letters .
+John fell the line that can cover letters .
+John fell who the line is leaving letters .
+John fell the line that is leaving letters .
+Jack shut who the picture can grow sounds .
+Jack shut the picture that can grow sounds .
+Jack shut who the picture is working with sounds .
+Jack shut the picture that is working with sounds .
+John walked who the year can stop trees .
+John walked the year that can stop trees .
+John walked who the year is watching trees .
+John walked the year that is watching trees .
+Jack brought who the work can mind matches .
+Jack brought the work that can mind matches .
+Jack brought who the work is going matches .
+Jack brought the work that is going matches .
+Jack made who the friend can hit letters .
+Jack made the friend that can hit letters .
+Jack made who the friend is wearing letters .
+Jack made the friend that is wearing letters .
+Jack happened who the line can finish hands .
+Jack happened the line that can finish hands .
+Jack happened who the line is starting hands .
+Jack happened the line that is starting hands .
+Jane dropped who the word can cut numbers .
+Jane dropped the word that can cut numbers .
+Jane dropped who the word is looking numbers .
+Jane dropped the word that is looking numbers .
+John lived who the dog can fall on sounds .
+John lived the dog that can fall on sounds .
+John lived who the dog is riding sounds .
+John lived the dog that is riding sounds .
+John made who the boy can stand on legs .
+John made the boy that can stand on legs .
+John made who the boy is holding legs .
+John made the boy that is holding legs .
+Jack shut who the color can chase colors .
+Jack shut the color that can chase colors .
+Jack shut who the color is trying colors .
+Jack shut the color that is trying colors .
+Jane saw who the book can play matches .
+Jane saw the book that can play matches .
+Jane saw who the book is going matches .
+Jane saw the book that is going matches .
+Jack happened who the day can grow birds .
+Jack happened the day that can grow birds .
+Jack happened who the day is walking birds .
+Jack happened the day that is walking birds .
+Jack opened who the number can walk matches .
+Jack opened the number that can walk matches .
+Jack opened who the number is singing matches .
+Jack opened the number that is singing matches .
+Jack wore who the name can talk works .
+Jack wore the name that can talk works .
+Jack wore who the name is riding works .
+Jack wore the name that is riding works .
+Jack fell who the hand can play songs .
+Jack fell the hand that can play songs .
+Jack fell who the hand is wearing songs .
+Jack fell the hand that is wearing songs .
+John fell who the foot can eat people .
+John fell the foot that can eat people .
+John fell who the foot is living people .
+John fell the foot that is living people .
+Jane heard who the boat can ask about lines .
+Jane heard the boat that can ask about lines .
+Jane heard who the boat is watching lines .
+Jane heard the boat that is watching lines .
+Jane wanted who the word can leave numbers .
+Jane wanted the word that can leave numbers .
+Jane wanted who the word is walking numbers .
+Jane wanted the word that is walking numbers .
+Jack looked who the thing can stay keys .
+Jack looked the thing that can stay keys .
+Jack looked who the thing is carrying keys .
+Jack looked the thing that is carrying keys .
+Jack made who the name can sit feet .
+Jack made the name that can sit feet .
+Jack made who the name is carrying feet .
+Jack made the name that is carrying feet .
+Jane gave who the girl can turn stars .
+Jane gave the girl that can turn stars .
+Jane gave who the girl is leaving stars .
+Jane gave the girl that is leaving stars .
+Jack tied who the bird can see letters .
+Jack tied the bird that can see letters .
+Jack tied who the bird is cutting letters .
+Jack tied the bird that is cutting letters .
+John worked who the key can understand fingers .
+John worked the key that can understand fingers .
+John worked who the key is flying with fingers .
+John worked the key that is flying with fingers .
+Jack wanted who the boy can start holes .
+Jack wanted the boy that can start holes .
+Jack wanted who the boy is walking holes .
+Jack wanted the boy that is walking holes .
+Jane found who the song can bring birds .
+Jane found the song that can bring birds .
+Jane found who the song is living birds .
+Jane found the song that is living birds .
+Jane heard who the match can feel times .
+Jane heard the match that can feel times .
+Jane heard who the match is moving times .
+Jane heard the match that is moving times .
+Jack gave who the word can stop things .
+Jack gave the word that can stop things .
+Jack gave who the word is cutting things .
+Jack gave the word that is cutting things .
+Jack wore who the line can pop birds .
+Jack wore the line that can pop birds .
+Jack wore who the line is standing on birds .
+Jack wore the line that is standing on birds .
+John walked who the day can change fingers .
+John walked the day that can change fingers .
+John walked who the day is feeling fingers .
+John walked the day that is feeling fingers .
+Jack asked who the car can make holes .
+Jack asked the car that can make holes .
+Jack asked who the car is showing holes .
+Jack asked the car that is showing holes .
+Jack came who the name can talk years .
+Jack came the name that can talk years .
+Jack came who the name is holding years .
+Jack came the name that is holding years .
+Jane thought who the sound can kick books .
+Jane thought the sound that can kick books .
+Jane thought who the sound is trying books .
+Jane thought the sound that is trying books .
+Jack opened who the book can talk hands .
+Jack opened the book that can talk hands .
+Jack opened who the book is drinking hands .
+Jack opened the book that is drinking hands .
+John tried who the dog can climb sounds .
+John tried the dog that can climb sounds .
+John tried who the dog is carrying sounds .
+John tried the dog that is carrying sounds .
+Jane loved who the friend can meet songs .
+Jane loved the friend that can meet songs .
+Jane loved who the friend is falling on songs .
+Jane loved the friend that is falling on songs .
+Jack brought who the hole can use matches .
+Jack brought the hole that can use matches .
+Jack brought who the hole is going matches .
+Jack brought the hole that is going matches .
+Jack took who the number can talk numbers .
+Jack took the number that can talk numbers .
+Jack took who the number is running numbers .
+Jack took the number that is running numbers .
+Jane picked who the friend can find dogs .
+Jane picked the friend that can find dogs .
+Jane picked who the friend is moving dogs .
+Jane picked the friend that is moving dogs .
+John went who the dog can pull wheels .
+John went the dog that can pull wheels .
+John went who the dog is thinking about wheels .
+John went the dog that is thinking about wheels .
+Jack played who the friend can save songs .
+Jack played the friend that can save songs .
+Jack played who the friend is trying songs .
+Jack played the friend that is trying songs .
+Jack asked who the hand can cover minutes .
+Jack asked the hand that can cover minutes .
+Jack asked who the hand is coming to minutes .
+Jack asked the hand that is coming to minutes .
+John wanted who the boat can beat bubbles .
+John wanted the boat that can beat bubbles .
+John wanted who the boat is drinking bubbles .
+John wanted the boat that is drinking bubbles .
+John moved who the line can ride birds .
+John moved the line that can ride birds .
+John moved who the line is holding birds .
+John moved the line that is holding birds .
+John made who the train can start pieces .
+John made the train that can start pieces .
+John made who the train is trying pieces .
+John made the train that is trying pieces .
+Jack tried who the minute can open works .
+Jack tried the minute that can open works .
+Jack tried who the minute is starting works .
+Jack tried the minute that is starting works .
+Jack tied who the week can use parts .
+Jack tied the week that can use parts .
+Jack tied who the week is jumping parts .
+Jack tied the week that is jumping parts .
+Jane ran who the egg can push bears .
+Jane ran the egg that can push bears .
+Jane ran who the egg is flying with bears .
+Jane ran the egg that is flying with bears .
+John asked who the egg can sit eggs .
+John asked the egg that can sit eggs .
+John asked who the egg is eating eggs .
+John asked the egg that is eating eggs .
+John asked who the leg can look years .
+John asked the leg that can look years .
+John asked who the leg is sleeping in years .
+John asked the leg that is sleeping in years .
+Jane tried who the piece can lay matches .
+Jane tried the piece that can lay matches .
+Jane tried who the piece is waiting matches .
+Jane tried the piece that is waiting matches .
+Jane tried who the girl can read stars .
+Jane tried the girl that can read stars .
+Jane tried who the girl is leaving stars .
+Jane tried the girl that is leaving stars .
+John stopped who the line can decide parts .
+John stopped the line that can decide parts .
+John stopped who the line is waiting parts .
+John stopped the line that is waiting parts .
+Jack looked who the hand can pick letters .
+Jack looked the hand that can pick letters .
+Jack looked who the hand is cutting letters .
+Jack looked the hand that is cutting letters .
+John heard who the minute can show weeks .
+John heard the minute that can show weeks .
+John heard who the minute is moving weeks .
+John heard the minute that is moving weeks .
+Jane dropped who the finger can break girls .
+Jane dropped the finger that can break girls .
+Jane dropped who the finger is turning girls .
+Jane dropped the finger that is turning girls .
+John moved who the hole can try lines .
+John moved the hole that can try lines .
+John moved who the hole is wearing lines .
+John moved the hole that is wearing lines .
+John saw who the girl can fall on dogs .
+John saw the girl that can fall on dogs .
+John saw who the girl is carrying dogs .
+John saw the girl that is carrying dogs .
+Jane asked who the thing can treat boats .
+Jane asked the thing that can treat boats .
+Jane asked who the thing is walking boats .
+Jane asked the thing that is walking boats .
+John dropped who the sound can meet matches .
+John dropped the sound that can meet matches .
+John dropped who the sound is playing matches .
+John dropped the sound that is playing matches .
+Jack saw who the bear can turn arms .
+Jack saw the bear that can turn arms .
+Jack saw who the bear is trying arms .
+Jack saw the bear that is trying arms .
+Jack wanted who the work can go letters .
+Jack wanted the work that can go letters .
+Jack wanted who the work is leaving letters .
+Jack wanted the work that is leaving letters .
+Jane got who the line can keep years .
+Jane got the line that can keep years .
+Jane got who the line is sleeping in years .
+Jane got the line that is sleeping in years .
+John looked who the song can chase songs .
+John looked the song that can chase songs .
+John looked who the song is singing songs .
+John looked the song that is singing songs .
+Jack stopped who the dog can hurt colors .
+Jack stopped the dog that can hurt colors .
+Jack stopped who the dog is working with colors .
+Jack stopped the dog that is working with colors .
+John moved who the time can feed minutes .
+John moved the time that can feed minutes .
+John moved who the time is moving minutes .
+John moved the time that is moving minutes .
+Jack brought who the bubble can stop birds .
+Jack brought the bubble that can stop birds .
+Jack brought who the bubble is riding birds .
+Jack brought the bubble that is riding birds .
+Jane walked who the song can hear colors .
+Jane walked the song that can hear colors .
+Jane walked who the song is drawing colors .
+Jane walked the song that is drawing colors .
+John fell who the name can change colors .
+John fell the name that can change colors .
+John fell who the name is giving colors .
+John fell the name that is giving colors .
+Jack moved who the work can keep times .
+Jack moved the work that can keep times .
+Jack moved who the work is standing on times .
+Jack moved the work that is standing on times .
+Jack moved who the key can see stars .
+Jack moved the key that can see stars .
+Jack moved who the key is falling on stars .
+Jack moved the key that is falling on stars .
+John looked who the year can pull words .
+John looked the year that can pull words .
+John looked who the year is eating words .
+John looked the year that is eating words .
+John dropped who the train can visit cars .
+John dropped the train that can visit cars .
+John dropped who the train is making cars .
+John dropped the train that is making cars .
+John ran who the car can leave books .
+John ran the car that can leave books .
+John ran who the car is missing books .
+John ran the car that is missing books .
+Jack shut who the boat can notice people .
+Jack shut the boat that can notice people .
+Jack shut who the boat is taking people .
+Jack shut the boat that is taking people .
+John found who the tree can bend days .
+John found the tree that can bend days .
+John found who the tree is looking days .
+John found the tree that is looking days .
+Jack shut who the line can lose times .
+Jack shut the line that can lose times .
+Jack shut who the line is missing times .
+Jack shut the line that is missing times .
+John turned who the leg can sing numbers .
+John turned the leg that can sing numbers .
+John turned who the leg is feeling numbers .
+John turned the leg that is feeling numbers .
+John came who the time can find books .
+John came the time that can find books .
+John came who the time is sleeping in books .
+John came the time that is sleeping in books .
+Jane came who the train can stand on wheels .
+Jane came the train that can stand on wheels .
+Jane came who the train is living wheels .
+Jane came the train that is living wheels .
+Jane worked who the word can hold things .
+Jane worked the word that can hold things .
+Jane worked who the word is eating things .
+Jane worked the word that is eating things .
+Jack got who the eye can cover pictures .
+Jack got the eye that can cover pictures .
+Jack got who the eye is taking pictures .
+Jack got the eye that is taking pictures .
+John tried who the name can watch bubbles .
+John tried the name that can watch bubbles .
+John tried who the name is looking bubbles .
+John tried the name that is looking bubbles .
+John asked who the name can talk holes .
+John asked the name that can talk holes .
+John asked who the name is looking holes .
+John asked the name that is looking holes .
+Jack worked who the word can call words .
+Jack worked the word that can call words .
+Jack worked who the word is riding words .
+Jack worked the word that is riding words .
+Jane lived who the person can change fingers .
+Jane lived the person that can change fingers .
+Jane lived who the person is drinking fingers .
+Jane lived the person that is drinking fingers .
+Jane wanted who the arm can fall on books .
+Jane wanted the arm that can fall on books .
+Jane wanted who the arm is working with books .
+Jane wanted the arm that is working with books .
+John dropped who the key can lie eyes .
+John dropped the key that can lie eyes .
+John dropped who the key is wearing eyes .
+John dropped the key that is wearing eyes .
+Jane stopped who the egg can chase stars .
+Jane stopped the egg that can chase stars .
+Jane stopped who the egg is carrying stars .
+Jane stopped the egg that is carrying stars .
+Jack walked who the car can decide trains .
+Jack walked the car that can decide trains .
+Jack walked who the car is drawing trains .
+Jack walked the car that is drawing trains .
+Jack knew who the sound can sell pictures .
+Jack knew the sound that can sell pictures .
+Jack knew who the sound is singing pictures .
+Jack knew the sound that is singing pictures .
+Jack tried who the tree can get pictures .
+Jack tried the tree that can get pictures .
+Jack tried who the tree is starting pictures .
+Jack tried the tree that is starting pictures .
+John asked who the boy can hold letters .
+John asked the boy that can hold letters .
+John asked who the boy is putting letters .
+John asked the boy that is putting letters .
+Jane saw who the sound can help years .
+Jane saw the sound that can help years .
+Jane saw who the sound is playing years .
+Jane saw the sound that is playing years .
+John missed who the flower can wait arms .
+John missed the flower that can wait arms .
+John missed who the flower is leaving arms .
+John missed the flower that is leaving arms .
+Jack came who the finger can watch flowers .
+Jack came the finger that can watch flowers .
+Jack came who the finger is riding flowers .
+Jack came the finger that is riding flowers .
+Jane thought who the letter can kick legs .
+Jane thought the letter that can kick legs .
+Jane thought who the letter is eating legs .
+Jane thought the letter that is eating legs .
+Jane moved who the eye can call days .
+Jane moved the eye that can call days .
+Jane moved who the eye is looking days .
+Jane moved the eye that is looking days .
+Jane lived who the eye can leave things .
+Jane lived the eye that can leave things .
+Jane lived who the eye is making things .
+Jane lived the eye that is making things .
+John saw who the dog can cut letters .
+John saw the dog that can cut letters .
+John saw who the dog is reading letters .
+John saw the dog that is reading letters .
+Jane found who the bird can help trains .
+Jane found the bird that can help trains .
+Jane found who the bird is dancing trains .
+Jane found the bird that is dancing trains .
+Jack got who the flower can fly with keys .
+Jack got the flower that can fly with keys .
+Jack got who the flower is showing keys .
+Jack got the flower that is showing keys .
+Jack asked who the wheel can bring bubbles .
+Jack asked the wheel that can bring bubbles .
+Jack asked who the wheel is drinking bubbles .
+Jack asked the wheel that is drinking bubbles .
+John lived who the thing can move pieces .
+John lived the thing that can move pieces .
+John lived who the thing is looking pieces .
+John lived the thing that is looking pieces .
+John came who the finger can call minutes .
+John came the finger that can call minutes .
+John came who the finger is missing minutes .
+John came the finger that is missing minutes .
+John gave who the number can decide feet .
+John gave the number that can decide feet .
+John gave who the number is walking feet .
+John gave the number that is walking feet .
+John brought who the work can mind stars .
+John brought the work that can mind stars .
+John brought who the work is putting stars .
+John brought the work that is putting stars .
+Jack got who the match can walk numbers .
+Jack got the match that can walk numbers .
+Jack got who the match is going numbers .
+Jack got the match that is going numbers .
+Jane got who the girl can mind books .
+Jane got the girl that can mind books .
+Jane got who the girl is turning books .
+Jane got the girl that is turning books .
+John worked who the minute can make minutes .
+John worked the minute that can make minutes .
+John worked who the minute is going minutes .
+John worked the minute that is going minutes .
+John went who the boy can roll trains .
+John went the boy that can roll trains .
+John went who the boy is reading trains .
+John went the boy that is reading trains .
+John wore who the horse can blow minutes .
+John wore the horse that can blow minutes .
+John wore who the horse is drawing minutes .
+John wore the horse that is drawing minutes .
+Jack missed who the finger can ride things .
+Jack missed the finger that can ride things .
+Jack missed who the finger is laying things .
+Jack missed the finger that is laying things .
+John wore who the work can beat works .
+John wore the work that can beat works .
+John wore who the work is moving works .
+John wore the work that is moving works .
+Jack found who the finger can cut cars .
+Jack found the finger that can cut cars .
+Jack found who the finger is drawing cars .
+Jack found the finger that is drawing cars .
+Jane shut who the word can write about fingers .
+Jane shut the word that can write about fingers .
+Jane shut who the word is trying fingers .
+Jane shut the word that is trying fingers .
+John tried who the foot can build flowers .
+John tried the foot that can build flowers .
+John tried who the foot is missing flowers .
+John tried the foot that is missing flowers .
+Jack looked who the star can catch cars .
+Jack looked the star that can catch cars .
+Jack looked who the star is laying cars .
+Jack looked the star that is laying cars .
+Jack tried who the person can roll books .
+Jack tried the person that can roll books .
+Jack tried who the person is laying books .
+Jack tried the person that is laying books .
+John tried who the minute can talk weeks .
+John tried the minute that can talk weeks .
+John tried who the minute is reading weeks .
+John tried the minute that is reading weeks .
+Jack looked who the egg can stay feet .
+Jack looked the egg that can stay feet .
+Jack looked who the egg is feeling feet .
+Jack looked the egg that is feeling feet .
+Jane moved who the egg can build dogs .
+Jane moved the egg that can build dogs .
+Jane moved who the egg is walking dogs .
+Jane moved the egg that is walking dogs .
+Jane took who the time can push pieces .
+Jane took the time that can push pieces .
+Jane took who the time is watching pieces .
+Jane took the time that is watching pieces .
+Jack looked who the arm can pick lines .
+Jack looked the arm that can pick lines .
+Jack looked who the arm is getting lines .
+Jack looked the arm that is getting lines .
+Jane moved who the number can let stars .
+Jane moved the number that can let stars .
+Jane moved who the number is telling stars .
+Jane moved the number that is telling stars .
+Jane happened who the flower can learn trees .
+Jane happened the flower that can learn trees .
+Jane happened who the flower is sleeping in trees .
+Jane happened the flower that is sleeping in trees .
+Jane worked who the color can get hands .
+Jane worked the color that can get hands .
+Jane worked who the color is starting hands .
+Jane worked the color that is starting hands .
+John loved who the leg can play names .
+John loved the leg that can play names .
+John loved who the leg is cutting names .
+John loved the leg that is cutting names .
+Jane gave who the flower can keep days .
+Jane gave the flower that can keep days .
+Jane gave who the flower is getting days .
+Jane gave the flower that is getting days .
+Jack meant who the eye can sing wheels .
+Jack meant the eye that can sing wheels .
+Jack meant who the eye is laying wheels .
+Jack meant the eye that is laying wheels .
+Jane meant who the minute can use dogs .
+Jane meant the minute that can use dogs .
+Jane meant who the minute is holding dogs .
+Jane meant the minute that is holding dogs .
+Jane worked who the friend can finish matches .
+Jane worked the friend that can finish matches .
+Jane worked who the friend is making matches .
+Jane worked the friend that is making matches .
+John said who the match can beat words .
+John said the match that can beat words .
+John said who the match is telling words .
+John said the match that is telling words .
+Jack tried who the person can read colors .
+Jack tried the person that can read colors .
+Jack tried who the person is wearing colors .
+Jack tried the person that is wearing colors .
+Jane picked who the week can sleep in cars .
+Jane picked the week that can sleep in cars .
+Jane picked who the week is going cars .
+Jane picked the week that is going cars .
+Jane ran who the bird can try sounds .
+Jane ran the bird that can try sounds .
+Jane ran who the bird is falling on sounds .
+Jane ran the bird that is falling on sounds .
+John happened who the hand can start boats .
+John happened the hand that can start boats .
+John happened who the hand is getting boats .
+John happened the hand that is getting boats .
+Jane knew who the bear can feed lines .
+Jane knew the bear that can feed lines .
+Jane knew who the bear is riding lines .
+Jane knew the bear that is riding lines .
+Jack played who the match can sing boys .
+Jack played the match that can sing boys .
+Jack played who the match is swimming in boys .
+Jack played the match that is swimming in boys .
+Jane tied who the horse can leave numbers .
+Jane tied the horse that can leave numbers .
+Jane tied who the horse is dancing numbers .
+Jane tied the horse that is dancing numbers .
+Jack gave who the key can come to parts .
+Jack gave the key that can come to parts .
+Jack gave who the key is laying parts .
+Jack gave the key that is laying parts .
+Jane went who the year can see bubbles .
+Jane went the year that can see bubbles .
+Jane went who the year is walking bubbles .
+Jane went the year that is walking bubbles .
+John made who the hand can cut works .
+John made the hand that can cut works .
+John made who the hand is feeling works .
+John made the hand that is feeling works .
+John ran who the word can pull stars .
+John ran the word that can pull stars .
+John ran who the word is putting stars .
+John ran the word that is putting stars .
+John heard who the line can write about stars .
+John heard the line that can write about stars .
+John heard who the line is missing stars .
+John heard the line that is missing stars .
+Jane shut who the match can go boats .
+Jane shut the match that can go boats .
+Jane shut who the match is missing boats .
+Jane shut the match that is missing boats .
+Jack stopped who the friend can roll keys .
+Jack stopped the friend that can roll keys .
+Jack stopped who the friend is carrying keys .
+Jack stopped the friend that is carrying keys .
+Jack dropped who the key can feed feet .
+Jack dropped the key that can feed feet .
+Jack dropped who the key is singing feet .
+Jack dropped the key that is singing feet .
+John wore who the tree can use boys .
+John wore the tree that can use boys .
+John wore who the tree is missing boys .
+John wore the tree that is missing boys .
+John dropped who the line can treat years .
+John dropped the line that can treat years .
+John dropped who the line is wearing years .
+John dropped the line that is wearing years .
+John shut who the girl can meet years .
+John shut the girl that can meet years .
+John shut who the girl is holding years .
+John shut the girl that is holding years .
+Jack brought who the match can drive to feet .
+Jack brought the match that can drive to feet .
+Jack brought who the match is holding feet .
+Jack brought the match that is holding feet .
+Jack meant who the girl can touch minutes .
+Jack meant the girl that can touch minutes .
+Jack meant who the girl is reading minutes .
+Jack meant the girl that is reading minutes .
+John worked who the song can start arms .
+John worked the song that can start arms .
+John worked who the song is jumping arms .
+John worked the song that is jumping arms .
+John ran who the horse can catch matches .
+John ran the horse that can catch matches .
+John ran who the horse is falling on matches .
+John ran the horse that is falling on matches .
+Jack took who the sound can walk wheels .
+Jack took the sound that can walk wheels .
+Jack took who the sound is watching wheels .
+Jack took the sound that is watching wheels .
+Jack meant who the foot can hear things .
+Jack meant the foot that can hear things .
+Jack meant who the foot is eating things .
+Jack meant the foot that is eating things .
+Jane dropped who the letter can press horses .
+Jane dropped the letter that can press horses .
+Jane dropped who the letter is going horses .
+Jane dropped the letter that is going horses .
+Jane lived who the star can push numbers .
+Jane lived the star that can push numbers .
+Jane lived who the star is going numbers .
+Jane lived the star that is going numbers .
+Jane stopped who the part can spill words .
+Jane stopped the part that can spill words .
+Jane stopped who the part is trying words .
+Jane stopped the part that is trying words .
+Jane tried who the boat can feed books .
+Jane tried the boat that can feed books .
+Jane tried who the boat is dancing books .
+Jane tried the boat that is dancing books .
+Jane tried who the year can decide boats .
+Jane tried the year that can decide boats .
+Jane tried who the year is cutting boats .
+Jane tried the year that is cutting boats .
+Jane missed who the hole can save pictures .
+Jane missed the hole that can save pictures .
+Jane missed who the hole is making pictures .
+Jane missed the hole that is making pictures .
+Jane happened who the bird can spill feet .
+Jane happened the bird that can spill feet .
+Jane happened who the bird is using feet .
+Jane happened the bird that is using feet .
+Jack walked who the song can talk letters .
+Jack walked the song that can talk letters .
+Jack walked who the song is living letters .
+Jack walked the song that is living letters .
+Jane found who the foot can turn dogs .
+Jane found the foot that can turn dogs .
+Jane found who the foot is riding dogs .
+Jane found the foot that is riding dogs .
+Jack lived who the friend can push letters .
+Jack lived the friend that can push letters .
+Jack lived who the friend is standing on letters .
+Jack lived the friend that is standing on letters .
+John meant who the piece can beat legs .
+John meant the piece that can beat legs .
+John meant who the piece is wearing legs .
+John meant the piece that is wearing legs .
+Jack broke who the bear can eat colors .
+Jack broke the bear that can eat colors .
+Jack broke who the bear is carrying colors .
+Jack broke the bear that is carrying colors .
+John missed who the hand can push flowers .
+John missed the hand that can push flowers .
+John missed who the hand is drawing flowers .
+John missed the hand that is drawing flowers .
+Jane walked who the line can open numbers .
+Jane walked the line that can open numbers .
+Jane walked who the line is eating numbers .
+Jane walked the line that is eating numbers .
+John asked who the egg can beat lines .
+John asked the egg that can beat lines .
+John asked who the egg is running lines .
+John asked the egg that is running lines .
+John came who the match can wake arms .
+John came the match that can wake arms .
+John came who the match is holding arms .
+John came the match that is holding arms .
+Jane found who the minute can cross horses .
+Jane found the minute that can cross horses .
+Jane found who the minute is moving horses .
+Jane found the minute that is moving horses .
+Jack ran who the key can stand on flowers .
+Jack ran the key that can stand on flowers .
+Jack ran who the key is holding flowers .
+Jack ran the key that is holding flowers .
+Jane moved who the song can reach names .
+Jane moved the song that can reach names .
+Jane moved who the song is cutting names .
+Jane moved the song that is cutting names .
+Jack knew who the part can count numbers .
+Jack knew the part that can count numbers .
+Jack knew who the part is riding numbers .
+Jack knew the part that is riding numbers .
+Jack came who the bubble can leave sounds .
+Jack came the bubble that can leave sounds .
+Jack came who the bubble is putting sounds .
+Jack came the bubble that is putting sounds .
+Jane missed who the key can ride people .
+Jane missed the key that can ride people .
+Jane missed who the key is playing people .
+Jane missed the key that is playing people .
+John stopped who the finger can watch sounds .
+John stopped the finger that can watch sounds .
+John stopped who the finger is going sounds .
+John stopped the finger that is going sounds .
+John lived who the song can bring songs .
+John lived the song that can bring songs .
+John lived who the song is walking songs .
+John lived the song that is walking songs .
+John shut who the number can open colors .
+John shut the number that can open colors .
+John shut who the number is playing colors .
+John shut the number that is playing colors .
+John knew who the girl can hold parts .
+John knew the girl that can hold parts .
+John knew who the girl is reading parts .
+John knew the girl that is reading parts .
+Jane thought who the finger can drive to fingers .
+Jane thought the finger that can drive to fingers .
+Jane thought who the finger is falling on fingers .
+Jane thought the finger that is falling on fingers .
+Jane went who the part can cross pictures .
+Jane went the part that can cross pictures .
+Jane went who the part is cutting pictures .
+Jane went the part that is cutting pictures .
+Jack came who the leg can finish keys .
+Jack came the leg that can finish keys .
+Jack came who the leg is working with keys .
+Jack came the leg that is working with keys .
+Jane lived who the friend can forget years .
+Jane lived the friend that can forget years .
+Jane lived who the friend is dancing years .
+Jane lived the friend that is dancing years .
+John found who the leg can walk boys .
+John found the leg that can walk boys .
+John found who the leg is watching boys .
+John found the leg that is watching boys .
+Jack dropped who the time can pop matches .
+Jack dropped the time that can pop matches .
+Jack dropped who the time is watching matches .
+Jack dropped the time that is watching matches .
+Jane heard who the friend can watch lines .
+Jane heard the friend that can watch lines .
+Jane heard who the friend is making lines .
+Jane heard the friend that is making lines .
+Jack missed who the flower can count times .
+Jack missed the flower that can count times .
+Jack missed who the flower is telling times .
+Jack missed the flower that is telling times .
+Jane tried who the leg can catch holes .
+Jane tried the leg that can catch holes .
+Jane tried who the leg is singing holes .
+Jane tried the leg that is singing holes .
+John worked who the line can catch things .
+John worked the line that can catch things .
+John worked who the line is giving things .
+John worked the line that is giving things .
+Jane went who the work can pop boats .
+Jane went the work that can pop boats .
+Jane went who the work is singing boats .
+Jane went the work that is singing boats .
+John picked who the picture can let fingers .
+John picked the picture that can let fingers .
+John picked who the picture is starting fingers .
+John picked the picture that is starting fingers .
+Jane worked who the name can bend horses .
+Jane worked the name that can bend horses .
+Jane worked who the name is coming to horses .
+Jane worked the name that is coming to horses .
+Jack knew who the boy can move parts .
+Jack knew the boy that can move parts .
+Jack knew who the boy is going parts .
+Jack knew the boy that is going parts .
+John turned who the boat can stop holes .
+John turned the boat that can stop holes .
+John turned who the boat is looking holes .
+John turned the boat that is looking holes .
+Jane heard who the wheel can feel works .
+Jane heard the wheel that can feel works .
+Jane heard who the wheel is working with works .
+Jane heard the wheel that is working with works .
+Jack brought who the leg can eat flowers .
+Jack brought the leg that can eat flowers .
+Jack brought who the leg is using flowers .
+Jack brought the leg that is using flowers .
+Jack came who the color can start hands .
+Jack came the color that can start hands .
+Jack came who the color is using hands .
+Jack came the color that is using hands .
+Jane lived who the part can treat birds .
+Jane lived the part that can treat birds .
+Jane lived who the part is taking birds .
+Jane lived the part that is taking birds .
+Jane looked who the book can pop boats .
+Jane looked the book that can pop boats .
+Jane looked who the book is using boats .
+Jane looked the book that is using boats .
+Jane took who the line can keep holes .
+Jane took the line that can keep holes .
+Jane took who the line is drinking holes .
+Jane took the line that is drinking holes .
+John dropped who the foot can beat pieces .
+John dropped the foot that can beat pieces .
+John dropped who the foot is going pieces .
+John dropped the foot that is going pieces .
+Jack knew who the line can lay days .
+Jack knew the line that can lay days .
+Jack knew who the line is cutting days .
+Jack knew the line that is cutting days .
+Jack tried who the flower can cover years .
+Jack tried the flower that can cover years .
+Jack tried who the flower is carrying years .
+Jack tried the flower that is carrying years .
+Jack got who the car can watch boys .
+Jack got the car that can watch boys .
+Jack got who the car is working with boys .
+Jack got the car that is working with boys .
+Jane missed who the year can pop keys .
+Jane missed the year that can pop keys .
+Jane missed who the year is dancing keys .
+Jane missed the year that is dancing keys .
+Jane wanted who the finger can lie keys .
+Jane wanted the finger that can lie keys .
+Jane wanted who the finger is starting keys .
+Jane wanted the finger that is starting keys .
+Jack came who the wheel can reach keys .
+Jack came the wheel that can reach keys .
+Jack came who the wheel is eating keys .
+Jack came the wheel that is eating keys .
+John found who the sound can draw works .
+John found the sound that can draw works .
+John found who the sound is showing works .
+John found the sound that is showing works .
+John dropped who the time can count colors .
+John dropped the time that can count colors .
+John dropped who the time is going colors .
+John dropped the time that is going colors .
+John turned who the bear can carry matches .
+John turned the bear that can carry matches .
+John turned who the bear is starting matches .
+John turned the bear that is starting matches .
+Jane lived who the book can grow numbers .
+Jane lived the book that can grow numbers .
+Jane lived who the book is carrying numbers .
+Jane lived the book that is carrying numbers .
+Jane meant who the minute can press letters .
+Jane meant the minute that can press letters .
+Jane meant who the minute is coming to letters .
+Jane meant the minute that is coming to letters .
+Jane picked who the foot can make flowers .
+Jane picked the foot that can make flowers .
+Jane picked who the foot is telling flowers .
+Jane picked the foot that is telling flowers .
+Jack wore who the eye can reach girls .
+Jack wore the eye that can reach girls .
+Jack wore who the eye is flying with girls .
+Jack wore the eye that is flying with girls .
+Jack broke who the eye can hit birds .
+Jack broke the eye that can hit birds .
+Jack broke who the eye is waiting birds .
+Jack broke the eye that is waiting birds .
+John looked who the egg can visit letters .
+John looked the egg that can visit letters .
+John looked who the egg is riding letters .
+John looked the egg that is riding letters .
+Jane looked who the train can leave horses .
+Jane looked the train that can leave horses .
+Jane looked who the train is swimming in horses .
+Jane looked the train that is swimming in horses .
+Jane took who the tree can save pictures .
+Jane took the tree that can save pictures .
+Jane took who the tree is watching pictures .
+Jane took the tree that is watching pictures .
+Jack meant who the wheel can fit times .
+Jack meant the wheel that can fit times .
+Jack meant who the wheel is drawing times .
+Jack meant the wheel that is drawing times .
+John went who the horse can visit parts .
+John went the horse that can visit parts .
+John went who the horse is making parts .
+John went the horse that is making parts .
+John stopped who the work can hear parts .
+John stopped the work that can hear parts .
+John stopped who the work is using parts .
+John stopped the work that is using parts .
+John knew who the piece can drink pictures .
+John knew the piece that can drink pictures .
+John knew who the piece is falling on pictures .
+John knew the piece that is falling on pictures .
+John worked who the day can save pieces .
+John worked the day that can save pieces .
+John worked who the day is falling on pieces .
+John worked the day that is falling on pieces .
+John looked who the dog can spill sounds .
+John looked the dog that can spill sounds .
+John looked who the dog is coming to sounds .
+John looked the dog that is coming to sounds .
+John walked who the minute can change boys .
+John walked the minute that can change boys .
+John walked who the minute is carrying boys .
+John walked the minute that is carrying boys .
+Jane dropped who the minute can save feet .
+Jane dropped the minute that can save feet .
+Jane dropped who the minute is dancing feet .
+Jane dropped the minute that is dancing feet .
+John walked who the wheel can try wheels .
+John walked the wheel that can try wheels .
+John walked who the wheel is swimming in wheels .
+John walked the wheel that is swimming in wheels .
+John moved who the boat can pull arms .
+John moved the boat that can pull arms .
+John moved who the boat is playing arms .
+John moved the boat that is playing arms .
+Jane gave who the year can sit fingers .
+Jane gave the year that can sit fingers .
+Jane gave who the year is walking fingers .
+Jane gave the year that is walking fingers .
+Jane opened who the part can sing birds .
+Jane opened the part that can sing birds .
+Jane opened who the part is carrying birds .
+Jane opened the part that is carrying birds .
+John asked who the finger can wait weeks .
+John asked the finger that can wait weeks .
+John asked who the finger is missing weeks .
+John asked the finger that is missing weeks .
+Jane came who the line can talk weeks .
+Jane came the line that can talk weeks .
+Jane came who the line is cutting weeks .
+Jane came the line that is cutting weeks .
+John opened who the train can lose trees .
+John opened the train that can lose trees .
+John opened who the train is getting trees .
+John opened the train that is getting trees .
+Jack loved who the match can show bears .
+Jack loved the match that can show bears .
+Jack loved who the match is walking bears .
+Jack loved the match that is walking bears .
+Jane worked who the bird can carry trains .
+Jane worked the bird that can carry trains .
+Jane worked who the bird is making trains .
+Jane worked the bird that is making trains .
+Jack wanted who the hole can stand on bubbles .
+Jack wanted the hole that can stand on bubbles .
+Jack wanted who the hole is standing on bubbles .
+Jack wanted the hole that is standing on bubbles .
+John found who the time can take colors .
+John found the time that can take colors .
+John found who the time is holding colors .
+John found the time that is holding colors .
+John meant who the word can eat dogs .
+John meant the word that can eat dogs .
+John meant who the word is playing dogs .
+John meant the word that is playing dogs .
+John got who the boy can write about cars .
+John got the boy that can write about cars .
+John got who the boy is trying cars .
+John got the boy that is trying cars .
+John opened who the thing can help arms .
+John opened the thing that can help arms .
+John opened who the thing is watching arms .
+John opened the thing that is watching arms .
+Jack said who the match can make dogs .
+Jack said the match that can make dogs .
+Jack said who the match is standing on dogs .
+Jack said the match that is standing on dogs .
+John said who the egg can chase parts .
+John said the egg that can chase parts .
+John said who the egg is feeling parts .
+John said the egg that is feeling parts .
+Jane missed who the song can see horses .
+Jane missed the song that can see horses .
+Jane missed who the song is leaving horses .
+Jane missed the song that is leaving horses .
+Jack thought who the arm can find flowers .
+Jack thought the arm that can find flowers .
+Jack thought who the arm is going flowers .
+Jack thought the arm that is going flowers .
+Jane took who the girl can ask about numbers .
+Jane took the girl that can ask about numbers .
+Jane took who the girl is giving numbers .
+Jane took the girl that is giving numbers .
+Jack opened who the bear can move things .
+Jack opened the bear that can move things .
+Jack opened who the bear is feeling things .
+Jack opened the bear that is feeling things .
+Jack walked who the sound can decide letters .
+Jack walked the sound that can decide letters .
+Jack walked who the sound is moving letters .
+Jack walked the sound that is moving letters .
+John took who the boat can start feet .
+John took the boat that can start feet .
+John took who the boat is playing feet .
+John took the boat that is playing feet .
+Jack lived who the line can understand birds .
+Jack lived the line that can understand birds .
+Jack lived who the line is sleeping in birds .
+Jack lived the line that is sleeping in birds .
+Jack broke who the egg can lie bubbles .
+Jack broke the egg that can lie bubbles .
+Jack broke who the egg is leaving bubbles .
+Jack broke the egg that is leaving bubbles .
+John took who the eye can finish colors .
+John took the eye that can finish colors .
+John took who the eye is coming to colors .
+John took the eye that is coming to colors .
+Jane heard who the leg can lie boys .
+Jane heard the leg that can lie boys .
+Jane heard who the leg is dancing boys .
+Jane heard the leg that is dancing boys .
+Jane saw who the day can catch weeks .
+Jane saw the day that can catch weeks .
+Jane saw who the day is leaving weeks .
+Jane saw the day that is leaving weeks .
+Jane gave who the train can seem boys .
+Jane gave the train that can seem boys .
+Jane gave who the train is moving boys .
+Jane gave the train that is moving boys .
+Jane wanted who the car can pull works .
+Jane wanted the car that can pull works .
+Jane wanted who the car is turning works .
+Jane wanted the car that is turning works .
+Jack worked who the work can read eggs .
+Jack worked the work that can read eggs .
+Jack worked who the work is starting eggs .
+Jack worked the work that is starting eggs .
+Jane missed who the key can wait words .
+Jane missed the key that can wait words .
+Jane missed who the key is riding words .
+Jane missed the key that is riding words .
+Jane gave who the arm can watch words .
+Jane gave the arm that can watch words .
+Jane gave who the arm is giving words .
+Jane gave the arm that is giving words .
+Jack opened who the minute can sell pictures .
+Jack opened the minute that can sell pictures .
+Jack opened who the minute is cutting pictures .
+Jack opened the minute that is cutting pictures .
+Jane knew who the work can sit cars .
+Jane knew the work that can sit cars .
+Jane knew who the work is flying with cars .
+Jane knew the work that is flying with cars .
+Jack loved who the day can break girls .
+Jack loved the day that can break girls .
+Jack loved who the day is trying girls .
+Jack loved the day that is trying girls .
+Jack looked who the finger can cross weeks .
+Jack looked the finger that can cross weeks .
+Jack looked who the finger is drawing weeks .
+Jack looked the finger that is drawing weeks .
+Jane tried who the time can climb pictures .
+Jane tried the time that can climb pictures .
+Jane tried who the time is taking pictures .
+Jane tried the time that is taking pictures .
+John came who the boat can start horses .
+John came the boat that can start horses .
+John came who the boat is drinking horses .
+John came the boat that is drinking horses .
+Jane looked who the wheel can notice colors .
+Jane looked the wheel that can notice colors .
+Jane looked who the wheel is getting colors .
+Jane looked the wheel that is getting colors .
+Jane wore who the dog can push bubbles .
+Jane wore the dog that can push bubbles .
+Jane wore who the dog is using bubbles .
+Jane wore the dog that is using bubbles .
+Jane lived who the wheel can try trees .
+Jane lived the wheel that can try trees .
+Jane lived who the wheel is thinking about trees .
+Jane lived the wheel that is thinking about trees .
+John asked who the bubble can sit lines .
+John asked the bubble that can sit lines .
+John asked who the bubble is waiting lines .
+John asked the bubble that is waiting lines .
+Jack asked who the bear can read fingers .
+Jack asked the bear that can read fingers .
+Jack asked who the bear is drinking fingers .
+Jack asked the bear that is drinking fingers .
+Jane worked who the egg can read numbers .
+Jane worked the egg that can read numbers .
+Jane worked who the egg is giving numbers .
+Jane worked the egg that is giving numbers .
+Jack meant who the match can come to minutes .
+Jack meant the match that can come to minutes .
+Jack meant who the match is trying minutes .
+Jack meant the match that is trying minutes .
+John lived who the book can help weeks .
+John lived the book that can help weeks .
+John lived who the book is putting weeks .
+John lived the book that is putting weeks .
+Jack got who the name can write about boats .
+Jack got the name that can write about boats .
+Jack got who the name is eating boats .
+Jack got the name that is eating boats .
+John meant who the word can press horses .
+John meant the word that can press horses .
+John meant who the word is making horses .
+John meant the word that is making horses .
+Jane stopped who the boy can lose trains .
+Jane stopped the boy that can lose trains .
+Jane stopped who the boy is waiting trains .
+Jane stopped the boy that is waiting trains .
+Jack tried who the key can eat words .
+Jack tried the key that can eat words .
+Jack tried who the key is telling words .
+Jack tried the key that is telling words .
+Jane made who the car can sell trains .
+Jane made the car that can sell trains .
+Jane made who the car is sleeping in trains .
+Jane made the car that is sleeping in trains .
+Jane asked who the key can cross trees .
+Jane asked the key that can cross trees .
+Jane asked who the key is leaving trees .
+Jane asked the key that is leaving trees .
+Jack opened who the week can cover dogs .
+Jack opened the week that can cover dogs .
+Jack opened who the week is dancing dogs .
+Jack opened the week that is dancing dogs .
+Jane went who the finger can sell eggs .
+Jane went the finger that can sell eggs .
+Jane went who the finger is thinking about eggs .
+Jane went the finger that is thinking about eggs .
+Jane found who the work can finish birds .
+Jane found the work that can finish birds .
+Jane found who the work is telling birds .
+Jane found the work that is telling birds .
+Jane tied who the foot can roll eyes .
+Jane tied the foot that can roll eyes .
+Jane tied who the foot is trying eyes .
+Jane tied the foot that is trying eyes .
+Jack said who the match can forget pieces .
+Jack said the match that can forget pieces .
+Jack said who the match is singing pieces .
+Jack said the match that is singing pieces .
+Jack lived who the tree can find flowers .
+Jack lived the tree that can find flowers .
+Jack lived who the tree is thinking about flowers .
+Jack lived the tree that is thinking about flowers .
+Jane thought who the girl can finish stars .
+Jane thought the girl that can finish stars .
+Jane thought who the girl is telling stars .
+Jane thought the girl that is telling stars .
+John broke who the finger can push hands .
+John broke the finger that can push hands .
+John broke who the finger is playing hands .
+John broke the finger that is playing hands .
+Jack gave who the wheel can make trees .
+Jack gave the wheel that can make trees .
+Jack gave who the wheel is starting trees .
+Jack gave the wheel that is starting trees .
+Jack saw who the arm can lose dogs .
+Jack saw the arm that can lose dogs .
+Jack saw who the arm is showing dogs .
+Jack saw the arm that is showing dogs .
+Jack came who the bear can cut boats .
+Jack came the bear that can cut boats .
+Jack came who the bear is going boats .
+Jack came the bear that is going boats .
+Jack moved who the boy can push matches .
+Jack moved the boy that can push matches .
+Jack moved who the boy is getting matches .
+Jack moved the boy that is getting matches .
+John picked who the work can fit things .
+John picked the work that can fit things .
+John picked who the work is making things .
+John picked the work that is making things .
+Jane stopped who the star can pick dogs .
+Jane stopped the star that can pick dogs .
+Jane stopped who the star is singing dogs .
+Jane stopped the star that is singing dogs .
+Jack said who the bear can hold pieces .
+Jack said the bear that can hold pieces .
+Jack said who the bear is singing pieces .
+Jack said the bear that is singing pieces .
+John made who the bubble can play names .
+John made the bubble that can play names .
+John made who the bubble is working with names .
+John made the bubble that is working with names .
+John wore who the boy can visit days .
+John wore the boy that can visit days .
+John wore who the boy is coming to days .
+John wore the boy that is coming to days .
+Jane said who the train can finish boys .
+Jane said the train that can finish boys .
+Jane said who the train is going boys .
+Jane said the train that is going boys .
+Jane thought who the word can make cars .
+Jane thought the word that can make cars .
+Jane thought who the word is feeling cars .
+Jane thought the word that is feeling cars .
+Jack made who the boy can leave friends .
+Jack made the boy that can leave friends .
+Jack made who the boy is waiting friends .
+Jack made the boy that is waiting friends .
+John gave who the work can walk matches .
+John gave the work that can walk matches .
+John gave who the work is taking matches .
+John gave the work that is taking matches .
+John tried who the horse can mind letters .
+John tried the horse that can mind letters .
+John tried who the horse is leaving letters .
+John tried the horse that is leaving letters .
+Jack stopped who the egg can visit books .
+Jack stopped the egg that can visit books .
+Jack stopped who the egg is swimming in books .
+Jack stopped the egg that is swimming in books .
+Jane picked who the eye can hide lines .
+Jane picked the eye that can hide lines .
+Jane picked who the eye is laying lines .
+Jane picked the eye that is laying lines .
+Jack picked who the finger can come to feet .
+Jack picked the finger that can come to feet .
+Jack picked who the finger is giving feet .
+Jack picked the finger that is giving feet .
+John broke who the girl can push works .
+John broke the girl that can push works .
+John broke who the girl is singing works .
+John broke the girl that is singing works .
+John missed who the car can go songs .
+John missed the car that can go songs .
+John missed who the car is singing songs .
+John missed the car that is singing songs .
+Jane found who the match can come to words .
+Jane found the match that can come to words .
+Jane found who the match is jumping words .
+Jane found the match that is jumping words .
+Jane gave who the day can pop dogs .
+Jane gave the day that can pop dogs .
+Jane gave who the day is wearing dogs .
+Jane gave the day that is wearing dogs .
+Jack lived who the arm can meet boys .
+Jack lived the arm that can meet boys .
+Jack lived who the arm is looking boys .
+Jack lived the arm that is looking boys .
+Jane ran who the person can fit eyes .
+Jane ran the person that can fit eyes .
+Jane ran who the person is showing eyes .
+Jane ran the person that is showing eyes .
+Jack knew who the egg can push fingers .
+Jack knew the egg that can push fingers .
+Jack knew who the egg is missing fingers .
+Jack knew the egg that is missing fingers .
+Jane lived who the work can chase feet .
+Jane lived the work that can chase feet .
+Jane lived who the work is sleeping in feet .
+Jane lived the work that is sleeping in feet .
+Jane walked who the piece can sit works .
+Jane walked the piece that can sit works .
+Jane walked who the piece is watching works .
+Jane walked the piece that is watching works .
+John tied who the boy can carry keys .
+John tied the boy that can carry keys .
+John tied who the boy is feeling keys .
+John tied the boy that is feeling keys .
+John happened who the eye can carry boys .
+John happened the eye that can carry boys .
+John happened who the eye is waiting boys .
+John happened the eye that is waiting boys .
+Jack found who the word can carry birds .
+Jack found the word that can carry birds .
+Jack found who the word is laying birds .
+Jack found the word that is laying birds .
+Jane turned who the work can fly with hands .
+Jane turned the work that can fly with hands .
+Jane turned who the work is drawing hands .
+Jane turned the work that is drawing hands .
+John loved who the friend can bend weeks .
+John loved the friend that can bend weeks .
+John loved who the friend is running weeks .
+John loved the friend that is running weeks .
+Jack wanted who the song can wear legs .
+Jack wanted the song that can wear legs .
+Jack wanted who the song is cutting legs .
+Jack wanted the song that is cutting legs .
+Jane got who the horse can turn songs .
+Jane got the horse that can turn songs .
+Jane got who the horse is thinking about songs .
+Jane got the horse that is thinking about songs .
+Jack thought who the wheel can hear sounds .
+Jack thought the wheel that can hear sounds .
+Jack thought who the wheel is eating sounds .
+Jack thought the wheel that is eating sounds .
+Jane moved who the bubble can use days .
+Jane moved the bubble that can use days .
+Jane moved who the bubble is eating days .
+Jane moved the bubble that is eating days .
+John saw who the egg can hurt bears .
+John saw the egg that can hurt bears .
+John saw who the egg is making bears .
+John saw the egg that is making bears .
+Jane worked who the bird can climb arms .
+Jane worked the bird that can climb arms .
+Jane worked who the bird is wearing arms .
+Jane worked the bird that is wearing arms .
+John went who the day can feed letters .
+John went the day that can feed letters .
+John went who the day is dancing letters .
+John went the day that is dancing letters .
+Jack asked who the boat can reach minutes .
+Jack asked the boat that can reach minutes .
+Jack asked who the boat is going minutes .
+Jack asked the boat that is going minutes .
+Jack shut who the minute can sell girls .
+Jack shut the minute that can sell girls .
+Jack shut who the minute is jumping girls .
+Jack shut the minute that is jumping girls .
+Jack wanted who the year can beat feet .
+Jack wanted the year that can beat feet .
+Jack wanted who the year is cutting feet .
+Jack wanted the year that is cutting feet .
+John stopped who the boat can call sounds .
+John stopped the boat that can call sounds .
+John stopped who the boat is living sounds .
+John stopped the boat that is living sounds .
+Jane wanted who the dog can pull days .
+Jane wanted the dog that can pull days .
+Jane wanted who the dog is wearing days .
+Jane wanted the dog that is wearing days .
+Jack picked who the piece can hide sounds .
+Jack picked the piece that can hide sounds .
+Jack picked who the piece is showing sounds .
+Jack picked the piece that is showing sounds .
+Jack opened who the name can hit sounds .
+Jack opened the name that can hit sounds .
+Jack opened who the name is telling sounds .
+Jack opened the name that is telling sounds .
+John wanted who the day can change lines .
+John wanted the day that can change lines .
+John wanted who the day is starting lines .
+John wanted the day that is starting lines .
+Jane looked who the hole can bend hands .
+Jane looked the hole that can bend hands .
+Jane looked who the hole is thinking about hands .
+Jane looked the hole that is thinking about hands .
+John looked who the song can cross keys .
+John looked the song that can cross keys .
+John looked who the song is missing keys .
+John looked the song that is missing keys .
+Jane missed who the flower can reach keys .
+Jane missed the flower that can reach keys .
+Jane missed who the flower is flying with keys .
+Jane missed the flower that is flying with keys .
+Jack took who the hole can cut wheels .
+Jack took the hole that can cut wheels .
+Jack took who the hole is moving wheels .
+Jack took the hole that is moving wheels .
+Jack meant who the boat can pick fingers .
+Jack meant the boat that can pick fingers .
+Jack meant who the boat is waiting fingers .
+Jack meant the boat that is waiting fingers .
+John stopped who the girl can change minutes .
+John stopped the girl that can change minutes .
+John stopped who the girl is trying minutes .
+John stopped the girl that is trying minutes .
+Jane brought who the arm can touch trains .
+Jane brought the arm that can touch trains .
+Jane brought who the arm is riding trains .
+Jane brought the arm that is riding trains .
+John missed who the dog can blow girls .
+John missed the dog that can blow girls .
+John missed who the dog is dancing girls .
+John missed the dog that is dancing girls .
+John gave who the hole can forget dogs .
+John gave the hole that can forget dogs .
+John gave who the hole is falling on dogs .
+John gave the hole that is falling on dogs .
+Jack brought who the girl can hit trees .
+Jack brought the girl that can hit trees .
+Jack brought who the girl is working with trees .
+Jack brought the girl that is working with trees .
+John knew who the finger can climb days .
+John knew the finger that can climb days .
+John knew who the finger is reading days .
+John knew the finger that is reading days .
+Jack stopped who the book can go songs .
+Jack stopped the book that can go songs .
+Jack stopped who the book is using songs .
+Jack stopped the book that is using songs .
+Jack played who the eye can lie times .
+Jack played the eye that can lie times .
+Jack played who the eye is eating times .
+Jack played the eye that is eating times .
+John knew who the train can learn cars .
+John knew the train that can learn cars .
+John knew who the train is giving cars .
+John knew the train that is giving cars .
+Jack ran who the friend can find bears .
+Jack ran the friend that can find bears .
+Jack ran who the friend is moving bears .
+Jack ran the friend that is moving bears .
+John stopped who the day can wait sounds .
+John stopped the day that can wait sounds .
+John stopped who the day is riding sounds .
+John stopped the day that is riding sounds .
+John wore who the person can touch numbers .
+John wore the person that can touch numbers .
+John wore who the person is thinking about numbers .
+John wore the person that is thinking about numbers .
+Jane gave who the wheel can move stars .
+Jane gave the wheel that can move stars .
+Jane gave who the wheel is riding stars .
+Jane gave the wheel that is riding stars .
+Jane dropped who the sound can pick legs .
+Jane dropped the sound that can pick legs .
+Jane dropped who the sound is drinking legs .
+Jane dropped the sound that is drinking legs .
+Jane missed who the boat can finish horses .
+Jane missed the boat that can finish horses .
+Jane missed who the boat is looking horses .
+Jane missed the boat that is looking horses .
+Jane dropped who the dog can seem colors .
+Jane dropped the dog that can seem colors .
+Jane dropped who the dog is working with colors .
+Jane dropped the dog that is working with colors .
+Jane came who the horse can decide cars .
+Jane came the horse that can decide cars .
+Jane came who the horse is sleeping in cars .
+Jane came the horse that is sleeping in cars .
+Jack tied who the thing can sell birds .
+Jack tied the thing that can sell birds .
+Jack tied who the thing is watching birds .
+Jack tied the thing that is watching birds .
+Jack thought who the time can look wheels .
+Jack thought the time that can look wheels .
+Jack thought who the time is dancing wheels .
+Jack thought the time that is dancing wheels .
+John got who the key can mind years .
+John got the key that can mind years .
+John got who the key is missing years .
+John got the key that is missing years .
+Jack found who the time can decide weeks .
+Jack found the time that can decide weeks .
+Jack found who the time is taking weeks .
+Jack found the time that is taking weeks .
+Jane wore who the name can build bubbles .
+Jane wore the name that can build bubbles .
+Jane wore who the name is moving bubbles .
+Jane wore the name that is moving bubbles .
+Jack wanted who the number can grow birds .
+Jack wanted the number that can grow birds .
+Jack wanted who the number is living birds .
+Jack wanted the number that is living birds .
+Jack missed who the girl can drink sounds .
+Jack missed the girl that can drink sounds .
+Jack missed who the girl is feeling sounds .
+Jack missed the girl that is feeling sounds .
+Jack looked who the key can write about numbers .
+Jack looked the key that can write about numbers .
+Jack looked who the key is eating numbers .
+Jack looked the key that is eating numbers .
+John played who the piece can kick feet .
+John played the piece that can kick feet .
+John played who the piece is giving feet .
+John played the piece that is giving feet .
+Jack brought who the song can fall on hands .
+Jack brought the song that can fall on hands .
+Jack brought who the song is looking hands .
+Jack brought the song that is looking hands .
+Jane walked who the hand can find keys .
+Jane walked the hand that can find keys .
+Jane walked who the hand is starting keys .
+Jane walked the hand that is starting keys .
+Jack happened who the picture can ride hands .
+Jack happened the picture that can ride hands .
+Jack happened who the picture is waiting hands .
+Jack happened the picture that is waiting hands .
+Jane thought who the horse can build days .
+Jane thought the horse that can build days .
+Jane thought who the horse is coming to days .
+Jane thought the horse that is coming to days .
+Jane looked who the work can chase songs .
+Jane looked the work that can chase songs .
+Jane looked who the work is holding songs .
+Jane looked the work that is holding songs .
+Jane fell who the egg can cover people .
+Jane fell the egg that can cover people .
+Jane fell who the egg is running people .
+Jane fell the egg that is running people .
+Jane wore who the eye can drink trains .
+Jane wore the eye that can drink trains .
+Jane wore who the eye is missing trains .
+Jane wore the eye that is missing trains .
+John wanted who the bird can lay boats .
+John wanted the bird that can lay boats .
+John wanted who the bird is holding boats .
+John wanted the bird that is holding boats .
+Jack moved who the boat can write about horses .
+Jack moved the boat that can write about horses .
+Jack moved who the boat is giving horses .
+Jack moved the boat that is giving horses .
+Jane picked who the key can push pictures .
+Jane picked the key that can push pictures .
+Jane picked who the key is making pictures .
+Jane picked the key that is making pictures .
+John brought who the sound can watch things .
+John brought the sound that can watch things .
+John brought who the sound is cutting things .
+John brought the sound that is cutting things .
+Jack opened who the boy can hold holes .
+Jack opened the boy that can hold holes .
+Jack opened who the boy is cutting holes .
+Jack opened the boy that is cutting holes .
+Jack broke who the finger can look flowers .
+Jack broke the finger that can look flowers .
+Jack broke who the finger is waiting flowers .
+Jack broke the finger that is waiting flowers .
+Jack gave who the flower can change matches .
+Jack gave the flower that can change matches .
+Jack gave who the flower is working with matches .
+Jack gave the flower that is working with matches .
+John asked who the flower can fall on pictures .
+John asked the flower that can fall on pictures .
+John asked who the flower is reading pictures .
+John asked the flower that is reading pictures .
+Jack moved who the egg can leave weeks .
+Jack moved the egg that can leave weeks .
+Jack moved who the egg is falling on weeks .
+Jack moved the egg that is falling on weeks .
+Jack heard who the train can seem colors .
+Jack heard the train that can seem colors .
+Jack heard who the train is getting colors .
+Jack heard the train that is getting colors .
+Jack said who the song can roll names .
+Jack said the song that can roll names .
+Jack said who the song is missing names .
+Jack said the song that is missing names .
+John turned who the sound can treat friends .
+John turned the sound that can treat friends .
+John turned who the sound is singing friends .
+John turned the sound that is singing friends .
+Jane tried who the word can lose works .
+Jane tried the word that can lose works .
+Jane tried who the word is watching works .
+Jane tried the word that is watching works .
+Jane picked who the day can spill legs .
+Jane picked the day that can spill legs .
+Jane picked who the day is coming to legs .
+Jane picked the day that is coming to legs .
+John got who the foot can fall on keys .
+John got the foot that can fall on keys .
+John got who the foot is getting keys .
+John got the foot that is getting keys .
+John loved who the color can save keys .
+John loved the color that can save keys .
+John loved who the color is thinking about keys .
+John loved the color that is thinking about keys .
+Jane walked who the boy can sleep in pictures .
+Jane walked the boy that can sleep in pictures .
+Jane walked who the boy is drinking pictures .
+Jane walked the boy that is drinking pictures .
+Jack made who the hand can make names .
+Jack made the hand that can make names .
+Jack made who the hand is laying names .
+Jack made the hand that is laying names .
+Jack brought who the sound can show minutes .
+Jack brought the sound that can show minutes .
+Jack brought who the sound is missing minutes .
+Jack brought the sound that is missing minutes .
+Jack tried who the bear can decide holes .
+Jack tried the bear that can decide holes .
+Jack tried who the bear is waiting holes .
+Jack tried the bear that is waiting holes .
+Jack found who the minute can sleep in eyes .
+Jack found the minute that can sleep in eyes .
+Jack found who the minute is taking eyes .
+Jack found the minute that is taking eyes .
+Jane made who the bear can ask about arms .
+Jane made the bear that can ask about arms .
+Jane made who the bear is telling arms .
+Jane made the bear that is telling arms .
+Jack meant who the work can cover girls .
+Jack meant the work that can cover girls .
+Jack meant who the work is laying girls .
+Jack meant the work that is laying girls .
+Jack worked who the dog can hurt trains .
+Jack worked the dog that can hurt trains .
+Jack worked who the dog is leaving trains .
+Jack worked the dog that is leaving trains .
+John tried who the year can understand colors .
+John tried the year that can understand colors .
+John tried who the year is missing colors .
+John tried the year that is missing colors .
+John said who the book can draw pieces .
+John said the book that can draw pieces .
+John said who the book is carrying pieces .
+John said the book that is carrying pieces .
+John picked who the bear can understand weeks .
+John picked the bear that can understand weeks .
+John picked who the bear is drinking weeks .
+John picked the bear that is drinking weeks .
+John took who the egg can let trees .
+John took the egg that can let trees .
+John took who the egg is reading trees .
+John took the egg that is reading trees .
+John looked who the bird can press arms .
+John looked the bird that can press arms .
+John looked who the bird is laying arms .
+John looked the bird that is laying arms .
+Jane tied who the week can walk eyes .
+Jane tied the week that can walk eyes .
+Jane tied who the week is waiting eyes .
+Jane tied the week that is waiting eyes .
+Jack stopped who the hole can catch holes .
+Jack stopped the hole that can catch holes .
+Jack stopped who the hole is waiting holes .
+Jack stopped the hole that is waiting holes .
+Jack thought who the color can drink fingers .
+Jack thought the color that can drink fingers .
+Jack thought who the color is eating fingers .
+Jack thought the color that is eating fingers .
+Jane opened who the part can meet cars .
+Jane opened the part that can meet cars .
+Jane opened who the part is standing on cars .
+Jane opened the part that is standing on cars .
+John meant who the time can let numbers .
+John meant the time that can let numbers .
+John meant who the time is coming to numbers .
+John meant the time that is coming to numbers .
+Jane worked who the star can go trains .
+Jane worked the star that can go trains .
+Jane worked who the star is thinking about trains .
+Jane worked the star that is thinking about trains .
+John made who the bear can hit boats .
+John made the bear that can hit boats .
+John made who the bear is drawing boats .
+John made the bear that is drawing boats .
+Jack brought who the color can stop songs .
+Jack brought the color that can stop songs .
+Jack brought who the color is moving songs .
+Jack brought the color that is moving songs .
+Jack brought who the day can feel bubbles .
+Jack brought the day that can feel bubbles .
+Jack brought who the day is looking bubbles .
+Jack brought the day that is looking bubbles .
+John stopped who the boy can hurt days .
+John stopped the boy that can hurt days .
+John stopped who the boy is moving days .
+John stopped the boy that is moving days .
+Jane lived who the book can lie words .
+Jane lived the book that can lie words .
+Jane lived who the book is feeling words .
+Jane lived the book that is feeling words .
+Jack dropped who the girl can bring books .
+Jack dropped the girl that can bring books .
+Jack dropped who the girl is watching books .
+Jack dropped the girl that is watching books .
+Jane broke who the star can treat legs .
+Jane broke the star that can treat legs .
+Jane broke who the star is holding legs .
+Jane broke the star that is holding legs .
+Jack opened who the bear can wake numbers .
+Jack opened the bear that can wake numbers .
+Jack opened who the bear is missing numbers .
+Jack opened the bear that is missing numbers .
+Jane dropped who the boy can lay fingers .
+Jane dropped the boy that can lay fingers .
+Jane dropped who the boy is laying fingers .
+Jane dropped the boy that is laying fingers .
+Jane missed who the dog can sit things .
+Jane missed the dog that can sit things .
+Jane missed who the dog is getting things .
+Jane missed the dog that is getting things .
+Jane opened who the day can make pictures .
+Jane opened the day that can make pictures .
+Jane opened who the day is feeling pictures .
+Jane opened the day that is feeling pictures .
+Jane turned who the person can help stars .
+Jane turned the person that can help stars .
+Jane turned who the person is moving stars .
+Jane turned the person that is moving stars .
+Jack played who the thing can fit numbers .
+Jack played the thing that can fit numbers .
+Jack played who the thing is using numbers .
+Jack played the thing that is using numbers .
+John found who the friend can lay words .
+John found the friend that can lay words .
+John found who the friend is waiting words .
+John found the friend that is waiting words .
+Jack said who the time can start pieces .
+Jack said the time that can start pieces .
+Jack said who the time is watching pieces .
+Jack said the time that is watching pieces .
+Jane gave who the star can help letters .
+Jane gave the star that can help letters .
+Jane gave who the star is putting letters .
+Jane gave the star that is putting letters .
+Jack found who the minute can look holes .
+Jack found the minute that can look holes .
+Jack found who the minute is jumping holes .
+Jack found the minute that is jumping holes .
+John turned who the year can get dogs .
+John turned the year that can get dogs .
+John turned who the year is thinking about dogs .
+John turned the year that is thinking about dogs .
+John took who the work can write about pieces .
+John took the work that can write about pieces .
+John took who the work is wearing pieces .
+John took the work that is wearing pieces .
+Jack knew who the tree can wait parts .
+Jack knew the tree that can wait parts .
+Jack knew who the tree is telling parts .
+Jack knew the tree that is telling parts .
+Jack asked who the foot can climb letters .
+Jack asked the foot that can climb letters .
+Jack asked who the foot is turning letters .
+Jack asked the foot that is turning letters .
+Jack walked who the star can hurt bears .
+Jack walked the star that can hurt bears .
+Jack walked who the star is moving bears .
+Jack walked the star that is moving bears .
+John said who the letter can understand holes .
+John said the letter that can understand holes .
+John said who the letter is showing holes .
+John said the letter that is showing holes .
+Jane lived who the time can lie words .
+Jane lived the time that can lie words .
+Jane lived who the time is riding words .
+Jane lived the time that is riding words .
+Jack missed who the flower can sleep in names .
+Jack missed the flower that can sleep in names .
+Jack missed who the flower is going names .
+Jack missed the flower that is going names .
+Jane knew who the finger can hear parts .
+Jane knew the finger that can hear parts .
+Jane knew who the finger is coming to parts .
+Jane knew the finger that is coming to parts .
+Jane loved who the boat can let dogs .
+Jane loved the boat that can let dogs .
+Jane loved who the boat is running dogs .
+Jane loved the boat that is running dogs .
+Jack loved who the year can start people .
+Jack loved the year that can start people .
+Jack loved who the year is showing people .
+Jack loved the year that is showing people .
+Jane happened who the girl can hide names .
+Jane happened the girl that can hide names .
+Jane happened who the girl is missing names .
+Jane happened the girl that is missing names .
+John stopped who the egg can roll feet .
+John stopped the egg that can roll feet .
+John stopped who the egg is working with feet .
+John stopped the egg that is working with feet .
+Jane thought who the year can bring eyes .
+Jane thought the year that can bring eyes .
+Jane thought who the year is telling eyes .
+Jane thought the year that is telling eyes .
+John picked who the star can climb hands .
+John picked the star that can climb hands .
+John picked who the star is watching hands .
+John picked the star that is watching hands .
+Jack wanted who the key can open trains .
+Jack wanted the key that can open trains .
+Jack wanted who the key is dancing trains .
+Jack wanted the key that is dancing trains .
+Jane missed who the car can meet friends .
+Jane missed the car that can meet friends .
+Jane missed who the car is eating friends .
+Jane missed the car that is eating friends .
+Jack looked who the name can blow trains .
+Jack looked the name that can blow trains .
+Jack looked who the name is waiting trains .
+Jack looked the name that is waiting trains .
+Jane got who the dog can kick feet .
+Jane got the dog that can kick feet .
+Jane got who the dog is moving feet .
+Jane got the dog that is moving feet .
+Jane fell who the bear can hit boats .
+Jane fell the bear that can hit boats .
+Jane fell who the bear is turning boats .
+Jane fell the bear that is turning boats .
+Jane happened who the friend can wait eyes .
+Jane happened the friend that can wait eyes .
+Jane happened who the friend is laying eyes .
+Jane happened the friend that is laying eyes .
+Jack ran who the name can bring arms .
+Jack ran the name that can bring arms .
+Jack ran who the name is leaving arms .
+Jack ran the name that is leaving arms .
+Jack walked who the work can press parts .
+Jack walked the work that can press parts .
+Jack walked who the work is taking parts .
+Jack walked the work that is taking parts .
+John tried who the week can pick works .
+John tried the week that can pick works .
+John tried who the week is jumping works .
+John tried the week that is jumping works .
+Jack brought who the tree can find eyes .
+Jack brought the tree that can find eyes .
+Jack brought who the tree is sleeping in eyes .
+Jack brought the tree that is sleeping in eyes .
+Jane said who the person can get cars .
+Jane said the person that can get cars .
+Jane said who the person is falling on cars .
+Jane said the person that is falling on cars .
+Jane got who the time can bring bubbles .
+Jane got the time that can bring bubbles .
+Jane got who the time is giving bubbles .
+Jane got the time that is giving bubbles .
+John dropped who the piece can stop colors .
+John dropped the piece that can stop colors .
+John dropped who the piece is drinking colors .
+John dropped the piece that is drinking colors .
+Jack wanted who the horse can make times .
+Jack wanted the horse that can make times .
+Jack wanted who the horse is drawing times .
+Jack wanted the horse that is drawing times .
+John got who the bear can hit colors .
+John got the bear that can hit colors .
+John got who the bear is laying colors .
+John got the bear that is laying colors .
+Jane made who the train can drop cars .
+Jane made the train that can drop cars .
+Jane made who the train is looking cars .
+Jane made the train that is looking cars .
+Jack looked who the dog can write about bears .
+Jack looked the dog that can write about bears .
+Jack looked who the dog is cutting bears .
+Jack looked the dog that is cutting bears .
+John got who the dog can use matches .
+John got the dog that can use matches .
+John got who the dog is reading matches .
+John got the dog that is reading matches .
+John dropped who the number can hit friends .
+John dropped the number that can hit friends .
+John dropped who the number is coming to friends .
+John dropped the number that is coming to friends .
+John dropped who the boat can catch boys .
+John dropped the boat that can catch boys .
+John dropped who the boat is missing boys .
+John dropped the boat that is missing boys .
+Jack took who the work can find dogs .
+Jack took the work that can find dogs .
+Jack took who the work is living dogs .
+Jack took the work that is living dogs .
+Jack lived who the foot can cover boats .
+Jack lived the foot that can cover boats .
+Jack lived who the foot is trying boats .
+Jack lived the foot that is trying boats .
+Jane dropped who the arm can kick holes .
+Jane dropped the arm that can kick holes .
+Jane dropped who the arm is drawing holes .
+Jane dropped the arm that is drawing holes .
+John picked who the letter can feed fingers .
+John picked the letter that can feed fingers .
+John picked who the letter is wearing fingers .
+John picked the letter that is wearing fingers .
+Jack came who the work can hear keys .
+Jack came the work that can hear keys .
+Jack came who the work is carrying keys .
+Jack came the work that is carrying keys .
+Jane came who the finger can help pieces .
+Jane came the finger that can help pieces .
+Jane came who the finger is showing pieces .
+Jane came the finger that is showing pieces .
+Jane gave who the star can fit songs .
+Jane gave the star that can fit songs .
+Jane gave who the star is jumping songs .
+Jane gave the star that is jumping songs .
+Jane shut who the key can help girls .
+Jane shut the key that can help girls .
+Jane shut who the key is watching girls .
+Jane shut the key that is watching girls .
+Jack picked who the car can pick holes .
+Jack picked the car that can pick holes .
+Jack picked who the car is putting holes .
+Jack picked the car that is putting holes .
+John wore who the letter can ride people .
+John wore the letter that can ride people .
+John wore who the letter is drawing people .
+John wore the letter that is drawing people .
+Jane dropped who the day can start pictures .
+Jane dropped the day that can start pictures .
+Jane dropped who the day is running pictures .
+Jane dropped the day that is running pictures .
+Jane happened who the key can draw keys .
+Jane happened the key that can draw keys .
+Jane happened who the key is showing keys .
+Jane happened the key that is showing keys .
+Jack got who the person can get trains .
+Jack got the person that can get trains .
+Jack got who the person is coming to trains .
+Jack got the person that is coming to trains .
+Jack looked who the bubble can finish girls .
+Jack looked the bubble that can finish girls .
+Jack looked who the bubble is telling girls .
+Jack looked the bubble that is telling girls .
+John thought who the bear can cover trains .
+John thought the bear that can cover trains .
+John thought who the bear is living trains .
+John thought the bear that is living trains .
+Jane happened who the eye can forget eggs .
+Jane happened the eye that can forget eggs .
+Jane happened who the eye is giving eggs .
+Jane happened the eye that is giving eggs .
+Jane brought who the key can open stars .
+Jane brought the key that can open stars .
+Jane brought who the key is wearing stars .
+Jane brought the key that is wearing stars .
+Jack took who the bird can pull colors .
+Jack took the bird that can pull colors .
+Jack took who the bird is feeling colors .
+Jack took the bird that is feeling colors .
+Jack found who the minute can feed pieces .
+Jack found the minute that can feed pieces .
+Jack found who the minute is laying pieces .
+Jack found the minute that is laying pieces .
+Jack dropped who the piece can sleep in lines .
+Jack dropped the piece that can sleep in lines .
+Jack dropped who the piece is starting lines .
+Jack dropped the piece that is starting lines .
+Jack tied who the horse can press songs .
+Jack tied the horse that can press songs .
+Jack tied who the horse is sleeping in songs .
+Jack tied the horse that is sleeping in songs .
+Jane ran who the bubble can feel keys .
+Jane ran the bubble that can feel keys .
+Jane ran who the bubble is watching keys .
+Jane ran the bubble that is watching keys .
+Jack happened who the friend can notice lines .
+Jack happened the friend that can notice lines .
+Jack happened who the friend is dancing lines .
+Jack happened the friend that is dancing lines .
+Jack meant who the year can kick horses .
+Jack meant the year that can kick horses .
+Jack meant who the year is thinking about horses .
+Jack meant the year that is thinking about horses .
+Jack made who the bear can watch eggs .
+Jack made the bear that can watch eggs .
+Jack made who the bear is telling eggs .
+Jack made the bear that is telling eggs .
+John played who the bear can ask about holes .
+John played the bear that can ask about holes .
+John played who the bear is holding holes .
+John played the bear that is holding holes .
+John found who the key can use boats .
+John found the key that can use boats .
+John found who the key is waiting boats .
+John found the key that is waiting boats .
+Jane picked who the book can pick eggs .
+Jane picked the book that can pick eggs .
+Jane picked who the book is cutting eggs .
+Jane picked the book that is cutting eggs .
+Jane tied who the foot can read pictures .
+Jane tied the foot that can read pictures .
+Jane tied who the foot is flying with pictures .
+Jane tied the foot that is flying with pictures .
+Jack saw who the horse can try years .
+Jack saw the horse that can try years .
+Jack saw who the horse is giving years .
+Jack saw the horse that is giving years .
+John lived who the sound can move stars .
+John lived the sound that can move stars .
+John lived who the sound is leaving stars .
+John lived the sound that is leaving stars .
+Jane happened who the friend can go weeks .
+Jane happened the friend that can go weeks .
+Jane happened who the friend is coming to weeks .
+Jane happened the friend that is coming to weeks .
+Jack missed who the color can decide weeks .
+Jack missed the color that can decide weeks .
+Jack missed who the color is flying with weeks .
+Jack missed the color that is flying with weeks .
+John played who the wheel can find eyes .
+John played the wheel that can find eyes .
+John played who the wheel is starting eyes .
+John played the wheel that is starting eyes .
+Jack lived who the color can fall on bubbles .
+Jack lived the color that can fall on bubbles .
+Jack lived who the color is feeling bubbles .
+Jack lived the color that is feeling bubbles .
+Jane fell who the boy can chase pieces .
+Jane fell the boy that can chase pieces .
+Jane fell who the boy is drinking pieces .
+Jane fell the boy that is drinking pieces .
+Jane shut who the eye can come to eggs .
+Jane shut the eye that can come to eggs .
+Jane shut who the eye is sleeping in eggs .
+Jane shut the eye that is sleeping in eggs .
+Jane meant who the song can kick books .
+Jane meant the song that can kick books .
+Jane meant who the song is leaving books .
+Jane meant the song that is leaving books .
+Jack thought who the part can hurt works .
+Jack thought the part that can hurt works .
+Jack thought who the part is dancing works .
+Jack thought the part that is dancing works .
+Jane looked who the piece can fit works .
+Jane looked the piece that can fit works .
+Jane looked who the piece is flying with works .
+Jane looked the piece that is flying with works .
+Jack broke who the car can bend keys .
+Jack broke the car that can bend keys .
+Jack broke who the car is reading keys .
+Jack broke the car that is reading keys .
+Jane saw who the flower can call eyes .
+Jane saw the flower that can call eyes .
+Jane saw who the flower is playing eyes .
+Jane saw the flower that is playing eyes .
+Jane ran who the name can pull names .
+Jane ran the name that can pull names .
+Jane ran who the name is leaving names .
+Jane ran the name that is leaving names .
+John turned who the name can lay bubbles .
+John turned the name that can lay bubbles .
+John turned who the name is drinking bubbles .
+John turned the name that is drinking bubbles .
+Jane turned who the horse can blow lines .
+Jane turned the horse that can blow lines .
+Jane turned who the horse is looking lines .
+Jane turned the horse that is looking lines .
+John ran who the girl can wait cars .
+John ran the girl that can wait cars .
+John ran who the girl is starting cars .
+John ran the girl that is starting cars .
+Jack looked who the key can beat girls .
+Jack looked the key that can beat girls .
+Jack looked who the key is turning girls .
+Jack looked the key that is turning girls .
+John fell who the hole can lie weeks .
+John fell the hole that can lie weeks .
+John fell who the hole is jumping weeks .
+John fell the hole that is jumping weeks .
+John broke who the star can sell matches .
+John broke the star that can sell matches .
+John broke who the star is telling matches .
+John broke the star that is telling matches .
+Jack played who the part can start dogs .
+Jack played the part that can start dogs .
+Jack played who the part is telling dogs .
+Jack played the part that is telling dogs .
+John went who the flower can lay letters .
+John went the flower that can lay letters .
+John went who the flower is working with letters .
+John went the flower that is working with letters .
+John brought who the flower can carry feet .
+John brought the flower that can carry feet .
+John brought who the flower is living feet .
+John brought the flower that is living feet .
+Jack broke who the minute can walk boats .
+Jack broke the minute that can walk boats .
+Jack broke who the minute is trying boats .
+Jack broke the minute that is trying boats .
+John tied who the boat can meet days .
+John tied the boat that can meet days .
+John tied who the boat is showing days .
+John tied the boat that is showing days .
+John found who the finger can notice dogs .
+John found the finger that can notice dogs .
+John found who the finger is walking dogs .
+John found the finger that is walking dogs .
+Jack happened who the bubble can read names .
+Jack happened the bubble that can read names .
+Jack happened who the bubble is drawing names .
+Jack happened the bubble that is drawing names .
+John found who the match can hold keys .
+John found the match that can hold keys .
+John found who the match is jumping keys .
+John found the match that is jumping keys .
+Jane looked who the key can hide eggs .
+Jane looked the key that can hide eggs .
+Jane looked who the key is going eggs .
+Jane looked the key that is going eggs .
+Jane opened who the girl can pick letters .
+Jane opened the girl that can pick letters .
+Jane opened who the girl is putting letters .
+Jane opened the girl that is putting letters .
+Jane tried who the line can call arms .
+Jane tried the line that can call arms .
+Jane tried who the line is cutting arms .
+Jane tried the line that is cutting arms .
+Jack ran who the word can eat days .
+Jack ran the word that can eat days .
+Jack ran who the word is wearing days .
+Jack ran the word that is wearing days .
+Jane wore who the bear can treat numbers .
+Jane wore the bear that can treat numbers .
+Jane wore who the bear is running numbers .
+Jane wore the bear that is running numbers .
+John got who the finger can cross words .
+John got the finger that can cross words .
+John got who the finger is trying words .
+John got the finger that is trying words .
+John got who the time can hide trains .
+John got the time that can hide trains .
+John got who the time is singing trains .
+John got the time that is singing trains .
+Jane happened who the star can push books .
+Jane happened the star that can push books .
+Jane happened who the star is eating books .
+Jane happened the star that is eating books .
+John found who the line can walk girls .
+John found the line that can walk girls .
+John found who the line is living girls .
+John found the line that is living girls .
+Jane turned who the work can fit sounds .
+Jane turned the work that can fit sounds .
+Jane turned who the work is putting sounds .
+Jane turned the work that is putting sounds .
+John meant who the dog can eat words .
+John meant the dog that can eat words .
+John meant who the dog is walking words .
+John meant the dog that is walking words .
+John gave who the name can open wheels .
+John gave the name that can open wheels .
+John gave who the name is telling wheels .
+John gave the name that is telling wheels .
+Jane asked who the name can press boats .
+Jane asked the name that can press boats .
+Jane asked who the name is wearing boats .
+Jane asked the name that is wearing boats .
+Jane brought who the flower can hold colors .
+Jane brought the flower that can hold colors .
+Jane brought who the flower is living colors .
+Jane brought the flower that is living colors .
+Jack came who the star can sleep in boys .
+Jack came the star that can sleep in boys .
+Jack came who the star is eating boys .
+Jack came the star that is eating boys .
+John thought who the word can eat matches .
+John thought the word that can eat matches .
+John thought who the word is watching matches .
+John thought the word that is watching matches .
+Jack moved who the boy can hide letters .
+Jack moved the boy that can hide letters .
+Jack moved who the boy is thinking about letters .
+Jack moved the boy that is thinking about letters .
+John asked who the minute can fit bears .
+John asked the minute that can fit bears .
+John asked who the minute is living bears .
+John asked the minute that is living bears .
+John thought who the egg can finish dogs .
+John thought the egg that can finish dogs .
+John thought who the egg is running dogs .
+John thought the egg that is running dogs .
+Jack asked who the book can talk people .
+Jack asked the book that can talk people .
+Jack asked who the book is moving people .
+Jack asked the book that is moving people .
+Jane said who the hand can start colors .
+Jane said the hand that can start colors .
+Jane said who the hand is waiting colors .
+Jane said the hand that is waiting colors .
+Jane loved who the match can lose times .
+Jane loved the match that can lose times .
+Jane loved who the match is drinking times .
+Jane loved the match that is drinking times .
+Jane knew who the song can watch numbers .
+Jane knew the song that can watch numbers .
+Jane knew who the song is giving numbers .
+Jane knew the song that is giving numbers .
+Jane worked who the arm can cover trains .
+Jane worked the arm that can cover trains .
+Jane worked who the arm is wearing trains .
+Jane worked the arm that is wearing trains .
+Jack gave who the foot can play eggs .
+Jack gave the foot that can play eggs .
+Jack gave who the foot is laying eggs .
+Jack gave the foot that is laying eggs .
+John saw who the line can lay trees .
+John saw the line that can lay trees .
+John saw who the line is going trees .
+John saw the line that is going trees .
+Jane walked who the book can beat colors .
+Jane walked the book that can beat colors .
+Jane walked who the book is missing colors .
+Jane walked the book that is missing colors .
+Jane ran who the color can fit flowers .
+Jane ran the color that can fit flowers .
+Jane ran who the color is playing flowers .
+Jane ran the color that is playing flowers .
+John looked who the key can stand on trees .
+John looked the key that can stand on trees .
+John looked who the key is laying trees .
+John looked the key that is laying trees .
+Jane took who the finger can feel stars .
+Jane took the finger that can feel stars .
+Jane took who the finger is singing stars .
+Jane took the finger that is singing stars .
+John stopped who the hand can use keys .
+John stopped the hand that can use keys .
+John stopped who the hand is starting keys .
+John stopped the hand that is starting keys .
+John broke who the girl can go weeks .
+John broke the girl that can go weeks .
+John broke who the girl is working with weeks .
+John broke the girl that is working with weeks .
+Jack missed who the day can show songs .
+Jack missed the day that can show songs .
+Jack missed who the day is putting songs .
+Jack missed the day that is putting songs .
+Jack ran who the horse can bend words .
+Jack ran the horse that can bend words .
+Jack ran who the horse is cutting words .
+Jack ran the horse that is cutting words .
+John broke who the line can read bubbles .
+John broke the line that can read bubbles .
+John broke who the line is drawing bubbles .
+John broke the line that is drawing bubbles .
+Jack tried who the match can draw names .
+Jack tried the match that can draw names .
+Jack tried who the match is flying with names .
+Jack tried the match that is flying with names .
+Jack said who the bird can look works .
+Jack said the bird that can look works .
+Jack said who the bird is missing works .
+Jack said the bird that is missing works .
+Jane brought who the girl can finish times .
+Jane brought the girl that can finish times .
+Jane brought who the girl is dancing times .
+Jane brought the girl that is dancing times .
+John opened who the tree can learn hands .
+John opened the tree that can learn hands .
+John opened who the tree is showing hands .
+John opened the tree that is showing hands .
+John thought who the finger can stop friends .
+John thought the finger that can stop friends .
+John thought who the finger is giving friends .
+John thought the finger that is giving friends .
+John meant who the boy can kick trees .
+John meant the boy that can kick trees .
+John meant who the boy is playing trees .
+John meant the boy that is playing trees .
+Jack walked who the dog can lose lines .
+Jack walked the dog that can lose lines .
+Jack walked who the dog is sleeping in lines .
+Jack walked the dog that is sleeping in lines .
+Jack opened who the friend can count dogs .
+Jack opened the friend that can count dogs .
+Jack opened who the friend is falling on dogs .
+Jack opened the friend that is falling on dogs .
+Jane wanted who the car can get books .
+Jane wanted the car that can get books .
+Jane wanted who the car is working with books .
+Jane wanted the car that is working with books .
+Jack walked who the finger can read cars .
+Jack walked the finger that can read cars .
+Jack walked who the finger is living cars .
+Jack walked the finger that is living cars .
+Jane gave who the hand can mind numbers .
+Jane gave the hand that can mind numbers .
+Jane gave who the hand is falling on numbers .
+Jane gave the hand that is falling on numbers .
+Jack moved who the foot can roll hands .
+Jack moved the foot that can roll hands .
+Jack moved who the foot is living hands .
+Jack moved the foot that is living hands .
+Jack got who the letter can show cars .
+Jack got the letter that can show cars .
+Jack got who the letter is waiting cars .
+Jack got the letter that is waiting cars .
+Jack walked who the hole can reach cars .
+Jack walked the hole that can reach cars .
+Jack walked who the hole is putting cars .
+Jack walked the hole that is putting cars .
+Jane wanted who the wheel can press days .
+Jane wanted the wheel that can press days .
+Jane wanted who the wheel is leaving days .
+Jane wanted the wheel that is leaving days .
+John said who the song can hit boats .
+John said the song that can hit boats .
+John said who the song is getting boats .
+John said the song that is getting boats .
+Jane went who the star can wear legs .
+Jane went the star that can wear legs .
+Jane went who the star is putting legs .
+Jane went the star that is putting legs .
+Jack meant who the flower can catch books .
+Jack meant the flower that can catch books .
+Jack meant who the flower is singing books .
+Jack meant the flower that is singing books .
+John worked who the song can treat years .
+John worked the song that can treat years .
+John worked who the song is coming to years .
+John worked the song that is coming to years .
+Jack thought who the star can keep girls .
+Jack thought the star that can keep girls .
+Jack thought who the star is trying girls .
+Jack thought the star that is trying girls .
+Jack ran who the egg can fall on matches .
+Jack ran the egg that can fall on matches .
+Jack ran who the egg is swimming in matches .
+Jack ran the egg that is swimming in matches .
+Jack gave who the bubble can leave letters .
+Jack gave the bubble that can leave letters .
+Jack gave who the bubble is looking letters .
+Jack gave the bubble that is looking letters .
+Jack thought who the day can change names .
+Jack thought the day that can change names .
+Jack thought who the day is missing names .
+Jack thought the day that is missing names .
+Jack shut who the hole can go flowers .
+Jack shut the hole that can go flowers .
+Jack shut who the hole is looking flowers .
+Jack shut the hole that is looking flowers .
+Jack came who the bear can wake people .
+Jack came the bear that can wake people .
+Jack came who the bear is missing people .
+Jack came the bear that is missing people .
+Jane heard who the day can stand on matches .
+Jane heard the day that can stand on matches .
+Jane heard who the day is drinking matches .
+Jane heard the day that is drinking matches .
+Jane ran who the piece can push parts .
+Jane ran the piece that can push parts .
+Jane ran who the piece is feeling parts .
+Jane ran the piece that is feeling parts .
+Jack tried who the train can fit words .
+Jack tried the train that can fit words .
+Jack tried who the train is waiting words .
+Jack tried the train that is waiting words .
+Jack found who the color can make holes .
+Jack found the color that can make holes .
+Jack found who the color is falling on holes .
+Jack found the color that is falling on holes .
+Jane stopped who the girl can reach trees .
+Jane stopped the girl that can reach trees .
+Jane stopped who the girl is getting trees .
+Jane stopped the girl that is getting trees .
+John tied who the piece can lose works .
+John tied the piece that can lose works .
+John tied who the piece is going works .
+John tied the piece that is going works .
+Jack picked who the number can ride books .
+Jack picked the number that can ride books .
+Jack picked who the number is waiting books .
+Jack picked the number that is waiting books .
+Jack shut who the book can stay wheels .
+Jack shut the book that can stay wheels .
+Jack shut who the book is showing wheels .
+Jack shut the book that is showing wheels .
+John took who the flower can treat parts .
+John took the flower that can treat parts .
+John took who the flower is jumping parts .
+John took the flower that is jumping parts .
+Jack shut who the song can come to keys .
+Jack shut the song that can come to keys .
+Jack shut who the song is leaving keys .
+Jack shut the song that is leaving keys .
+Jack meant who the sound can walk matches .
+Jack meant the sound that can walk matches .
+Jack meant who the sound is falling on matches .
+Jack meant the sound that is falling on matches .
+John worked who the name can help hands .
+John worked the name that can help hands .
+John worked who the name is coming to hands .
+John worked the name that is coming to hands .
+Jack shut who the bear can catch parts .
+Jack shut the bear that can catch parts .
+Jack shut who the bear is falling on parts .
+Jack shut the bear that is falling on parts .
+Jane knew who the match can blow people .
+Jane knew the match that can blow people .
+Jane knew who the match is carrying people .
+Jane knew the match that is carrying people .
+John dropped who the wheel can bend stars .
+John dropped the wheel that can bend stars .
+John dropped who the wheel is making stars .
+John dropped the wheel that is making stars .
+John loved who the wheel can use girls .
+John loved the wheel that can use girls .
+John loved who the wheel is turning girls .
+John loved the wheel that is turning girls .
+John came who the flower can eat matches .
+John came the flower that can eat matches .
+John came who the flower is making matches .
+John came the flower that is making matches .
+Jack went who the book can seem trains .
+Jack went the book that can seem trains .
+Jack went who the book is drawing trains .
+Jack went the book that is drawing trains .
+John opened who the egg can build pictures .
+John opened the egg that can build pictures .
+John opened who the egg is turning pictures .
+John opened the egg that is turning pictures .
+John moved who the minute can show keys .
+John moved the minute that can show keys .
+John moved who the minute is looking keys .
+John moved the minute that is looking keys .
+John shut who the finger can fly with parts .
+John shut the finger that can fly with parts .
+John shut who the finger is sleeping in parts .
+John shut the finger that is sleeping in parts .
+John went who the word can keep days .
+John went the word that can keep days .
+John went who the word is reading days .
+John went the word that is reading days .
+John tied who the part can come to pieces .
+John tied the part that can come to pieces .
+John tied who the part is carrying pieces .
+John tied the part that is carrying pieces .
+Jane opened who the horse can beat bubbles .
+Jane opened the horse that can beat bubbles .
+Jane opened who the horse is drinking bubbles .
+Jane opened the horse that is drinking bubbles .
+Jack took who the wheel can sit words .
+Jack took the wheel that can sit words .
+Jack took who the wheel is telling words .
+Jack took the wheel that is telling words .
+Jack happened who the finger can ride cars .
+Jack happened the finger that can ride cars .
+Jack happened who the finger is singing cars .
+Jack happened the finger that is singing cars .
+John opened who the flower can read birds .
+John opened the flower that can read birds .
+John opened who the flower is singing birds .
+John opened the flower that is singing birds .
+John asked who the horse can wear trees .
+John asked the horse that can wear trees .
+John asked who the horse is putting trees .
+John asked the horse that is putting trees .
+Jack worked who the train can hide years .
+Jack worked the train that can hide years .
+Jack worked who the train is getting years .
+Jack worked the train that is getting years .
+Jack opened who the train can hide friends .
+Jack opened the train that can hide friends .
+Jack opened who the train is reading friends .
+Jack opened the train that is reading friends .
+Jane tried who the minute can press eggs .
+Jane tried the minute that can press eggs .
+Jane tried who the minute is feeling eggs .
+Jane tried the minute that is feeling eggs .
+Jack looked who the person can ask about people .
+Jack looked the person that can ask about people .
+Jack looked who the person is thinking about people .
+Jack looked the person that is thinking about people .
+Jane said who the flower can open eggs .
+Jane said the flower that can open eggs .
+Jane said who the flower is missing eggs .
+Jane said the flower that is missing eggs .
+Jane dropped who the egg can cover colors .
+Jane dropped the egg that can cover colors .
+Jane dropped who the egg is thinking about colors .
+Jane dropped the egg that is thinking about colors .
+John went who the arm can hear lines .
+John went the arm that can hear lines .
+John went who the arm is running lines .
+John went the arm that is running lines .
+Jane ran who the boy can reach weeks .
+Jane ran the boy that can reach weeks .
+Jane ran who the boy is standing on weeks .
+Jane ran the boy that is standing on weeks .
+Jack saw who the part can reach stars .
+Jack saw the part that can reach stars .
+Jack saw who the part is taking stars .
+Jack saw the part that is taking stars .
+Jack saw who the foot can climb colors .
+Jack saw the foot that can climb colors .
+Jack saw who the foot is coming to colors .
+Jack saw the foot that is coming to colors .
+Jack lived who the friend can press lines .
+Jack lived the friend that can press lines .
+Jack lived who the friend is walking lines .
+Jack lived the friend that is walking lines .
+Jack missed who the horse can roll people .
+Jack missed the horse that can roll people .
+Jack missed who the horse is telling people .
+Jack missed the horse that is telling people .
+Jack missed who the eye can wake eyes .
+Jack missed the eye that can wake eyes .
+Jack missed who the eye is thinking about eyes .
+Jack missed the eye that is thinking about eyes .
+John saw who the bubble can try people .
+John saw the bubble that can try people .
+John saw who the bubble is eating people .
+John saw the bubble that is eating people .
+Jane meant who the girl can build girls .
+Jane meant the girl that can build girls .
+Jane meant who the girl is turning girls .
+Jane meant the girl that is turning girls .
+Jack came who the girl can lose friends .
+Jack came the girl that can lose friends .
+Jack came who the girl is dancing friends .
+Jack came the girl that is dancing friends .
+Jane fell who the leg can break fingers .
+Jane fell the leg that can break fingers .
+Jane fell who the leg is living fingers .
+Jane fell the leg that is living fingers .
+Jane got who the person can learn numbers .
+Jane got the person that can learn numbers .
+Jane got who the person is watching numbers .
+Jane got the person that is watching numbers .
+John made who the work can turn words .
+John made the work that can turn words .
+John made who the work is giving words .
+John made the work that is giving words .
+Jane happened who the girl can drop cars .
+Jane happened the girl that can drop cars .
+Jane happened who the girl is turning cars .
+Jane happened the girl that is turning cars .

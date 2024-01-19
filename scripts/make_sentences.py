@@ -51,6 +51,8 @@ if __name__ == "__main__":
 
     vocab_words = get_vocab_words(args.vocab_name)
 
+    paradigm_sentences = {}
+
     # for all paradigms
     for phenomenon, paradigm in get_phenomena_and_paradigms():
 
@@ -64,7 +66,10 @@ if __name__ == "__main__":
         sentence_pairs = list(
             islice(
                 collect_unique_pairs(
-                    paired(paradigm_module.main()) # type: ignore
+                    filter(
+                        sentence_pair_in_vocab,
+                        paired(paradigm_module.main()) # type: ignore
+                    )
                 ),
                 configs.Data.num_pairs_per_paradigm
             )
@@ -87,6 +92,7 @@ if __name__ == "__main__":
                 print(sentence_pair[1])
 
         print(f"Saving {len(saved_sentences)} sentences.")
+        paradigm_sentences[(phenomenon, paradigm)] = saved_sentences
 
         if not saved_sentences:
             print('Did not generate any sentences.'
@@ -109,3 +115,8 @@ if __name__ == "__main__":
                     f.write(sentence + '\n')
 
             print(f'Saved sentences to {out_path}')
+
+    print(f"n_total_saved_paradigms={len(paradigm_sentences)}")
+    for (phenomenon, paradigm), sentences in paradigm_sentences.items():
+        if len(sentences) < 4000:
+            print(f"{phenomenon} {paradigm}: {len(sentences)}")

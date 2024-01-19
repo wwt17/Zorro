@@ -1,0 +1,4000 @@
+is the medicine says something ?
+is the medicine saying something ?
+can the medicine says something ?
+can the medicine say something ?
+is the truck works ?
+is the truck working ?
+can the truck takes the fish away ?
+can the truck take the fish away ?
+is the roof goes ?
+is the roof going ?
+can the roof goes ?
+can the roof go ?
+is the color takes the bubble away ?
+is the color taking the bubble away ?
+can the color goes ?
+can the color go ?
+is the rock makes the color something ?
+is the rock making the color something ?
+can the rock takes the color away ?
+can the rock take the color away ?
+is the sea lives ?
+is the sea living ?
+can the sea says something ?
+can the sea say something ?
+is the place plays ?
+is the place playing ?
+can the place lives ?
+can the place live ?
+is the picture lives ?
+is the picture living ?
+can the picture says something ?
+can the picture say something ?
+is the guy takes the roof away ?
+is the guy taking the roof away ?
+can the guy lives ?
+can the guy live ?
+is the building lives ?
+is the building living ?
+can the building comes to the head ?
+can the building come to the head ?
+is the row says something ?
+is the row saying something ?
+can the row leaves ?
+can the row leave ?
+is the plastic makes the part something ?
+is the plastic making the part something ?
+can the plastic seems ?
+can the plastic seem ?
+is the minute goes ?
+is the minute going ?
+can the minute leaves ?
+can the minute leave ?
+is the kitchen makes the question something ?
+is the kitchen making the question something ?
+can the kitchen goes ?
+can the kitchen go ?
+is the nose goes ?
+is the nose going ?
+can the nose lives ?
+can the nose live ?
+is the heart comes to the water ?
+is the heart coming to the water ?
+can the heart says something ?
+can the heart say something ?
+is the fan works ?
+is the fan working ?
+can the fan seems ?
+can the fan seem ?
+is the box comes to the oil ?
+is the box coming to the oil ?
+can the box seems ?
+can the box seem ?
+is the road goes ?
+is the road going ?
+can the road seems ?
+can the road seem ?
+is the finger works ?
+is the finger working ?
+can the finger plays ?
+can the finger play ?
+is the ice plays ?
+is the ice playing ?
+can the ice makes the year something ?
+can the ice make the year something ?
+is the lady takes the ball away ?
+is the lady taking the ball away ?
+can the lady says something ?
+can the lady say something ?
+is the piece comes to the dinner ?
+is the piece coming to the dinner ?
+can the piece goes ?
+can the piece go ?
+is the friend takes the engine away ?
+is the friend taking the engine away ?
+can the friend goes ?
+can the friend go ?
+is the apple comes to the school ?
+is the apple coming to the school ?
+can the apple plays ?
+can the apple play ?
+is the sky leaves ?
+is the sky leaving ?
+can the sky goes ?
+can the sky go ?
+is the road comes to the rabbit ?
+is the road coming to the rabbit ?
+can the road says something ?
+can the road say something ?
+is the man says something ?
+is the man saying something ?
+can the man seems ?
+can the man seem ?
+is the mouse lives ?
+is the mouse living ?
+can the mouse says something ?
+can the mouse say something ?
+is the doctor says something ?
+is the doctor saying something ?
+can the doctor seems ?
+can the doctor seem ?
+is the tree takes the river away ?
+is the tree taking the river away ?
+can the tree takes the river away ?
+can the tree take the river away ?
+is the egg makes the sand something ?
+is the egg making the sand something ?
+can the egg goes ?
+can the egg go ?
+is the face plays ?
+is the face playing ?
+can the face leaves ?
+can the face leave ?
+is the something goes ?
+is the something going ?
+can the something makes the pair something ?
+can the something make the pair something ?
+is the word works ?
+is the word working ?
+can the word comes to the cake ?
+can the word come to the cake ?
+is the wheel takes the moment away ?
+is the wheel taking the moment away ?
+can the wheel seems ?
+can the wheel seem ?
+is the piece takes the elephant away ?
+is the piece taking the elephant away ?
+can the piece lives ?
+can the piece live ?
+is the tail goes ?
+is the tail going ?
+can the tail lives ?
+can the tail live ?
+is the window goes ?
+is the window going ?
+can the window makes the tongue something ?
+can the window make the tongue something ?
+is the moment comes to the beach ?
+is the moment coming to the beach ?
+can the moment takes the beach away ?
+can the moment take the beach away ?
+is the thing plays ?
+is the thing playing ?
+can the thing comes to the side ?
+can the thing come to the side ?
+is the body makes the fire something ?
+is the body making the fire something ?
+can the body lives ?
+can the body live ?
+is the pipe lives ?
+is the pipe living ?
+can the pipe leaves ?
+can the pipe leave ?
+is the mouse takes the piano away ?
+is the mouse taking the piano away ?
+can the mouse lives ?
+can the mouse live ?
+is the song plays ?
+is the song playing ?
+can the song makes the hand something ?
+can the song make the hand something ?
+is the river comes to the fun ?
+is the river coming to the fun ?
+can the river takes the fun away ?
+can the river take the fun away ?
+is the story plays ?
+is the story playing ?
+can the story goes ?
+can the story go ?
+is the circle takes the piece away ?
+is the circle taking the piece away ?
+can the circle takes the piece away ?
+can the circle take the piece away ?
+is the page plays ?
+is the page playing ?
+can the page takes him away ?
+can the page take him away ?
+is the bus plays ?
+is the bus playing ?
+can the bus plays ?
+can the bus play ?
+is the land makes the friend something ?
+is the land making the friend something ?
+can the land makes the friend something ?
+can the land make the friend something ?
+is the painting works ?
+is the painting working ?
+can the painting leaves ?
+can the painting leave ?
+is the room makes the uncle something ?
+is the room making the uncle something ?
+can the room goes ?
+can the room go ?
+is the pipe says something ?
+is the pipe saying something ?
+can the pipe goes ?
+can the pipe go ?
+is the horse makes the song something ?
+is the horse making the song something ?
+can the horse seems ?
+can the horse seem ?
+is the grass goes ?
+is the grass going ?
+can the grass plays ?
+can the grass play ?
+is the color comes to the dust ?
+is the color coming to the dust ?
+can the color says something ?
+can the color say something ?
+is the string works ?
+is the string working ?
+can the string makes the toy something ?
+can the string make the toy something ?
+is the heat takes the face away ?
+is the heat taking the face away ?
+can the heat leaves ?
+can the heat leave ?
+is the music says something ?
+is the music saying something ?
+can the music makes the rest something ?
+can the music make the rest something ?
+is the bus leaves ?
+is the bus leaving ?
+can the bus says something ?
+can the bus say something ?
+is the fish plays ?
+is the fish playing ?
+can the fish seems ?
+can the fish seem ?
+is the fun works ?
+is the fun working ?
+can the fun says something ?
+can the fun say something ?
+is the moment comes to the milk ?
+is the moment coming to the milk ?
+can the moment lives ?
+can the moment live ?
+is the hospital lives ?
+is the hospital living ?
+can the hospital lives ?
+can the hospital live ?
+is the Jane lives ?
+is the Jane living ?
+can the Jane plays ?
+can the Jane play ?
+is the piece lives ?
+is the piece living ?
+can the piece leaves ?
+can the piece leave ?
+is the dust makes the bus something ?
+is the dust making the bus something ?
+can the dust plays ?
+can the dust play ?
+is the place lives ?
+is the place living ?
+can the place plays ?
+can the place play ?
+is the bus lives ?
+is the bus living ?
+can the bus goes ?
+can the bus go ?
+is the couple makes the machine something ?
+is the couple making the machine something ?
+can the couple plays ?
+can the couple play ?
+is the chair makes the fight something ?
+is the chair making the fight something ?
+can the chair says something ?
+can the chair say something ?
+is the someone goes ?
+is the someone going ?
+can the someone plays ?
+can the someone play ?
+is the town says something ?
+is the town saying something ?
+can the town seems ?
+can the town seem ?
+is the bird makes the coffee something ?
+is the bird making the coffee something ?
+can the bird comes to the coffee ?
+can the bird come to the coffee ?
+is the man takes the eye away ?
+is the man taking the eye away ?
+can the man lives ?
+can the man live ?
+is the sand comes to the oil ?
+is the sand coming to the oil ?
+can the sand seems ?
+can the sand seem ?
+is the music plays ?
+is the music playing ?
+can the music leaves ?
+can the music leave ?
+is the stick goes ?
+is the stick going ?
+can the stick seems ?
+can the stick seem ?
+is the color comes to the monster ?
+is the color coming to the monster ?
+can the color comes to the monster ?
+can the color come to the monster ?
+is the book goes ?
+is the book going ?
+can the book comes to the uncle ?
+can the book come to the uncle ?
+is the string takes the row away ?
+is the string taking the row away ?
+can the string comes to the row ?
+can the string come to the row ?
+is the jacket makes the room something ?
+is the jacket making the room something ?
+can the jacket says something ?
+can the jacket say something ?
+is the string makes the road something ?
+is the string making the road something ?
+can the string leaves ?
+can the string leave ?
+is the line plays ?
+is the line playing ?
+can the line takes the song away ?
+can the line take the song away ?
+is the morning makes the heart something ?
+is the morning making the heart something ?
+can the morning makes the heart something ?
+can the morning make the heart something ?
+is the train leaves ?
+is the train leaving ?
+can the train comes to the stick ?
+can the train come to the stick ?
+is the head comes to the toy ?
+is the head coming to the toy ?
+can the head lives ?
+can the head live ?
+is the rock works ?
+is the rock working ?
+can the rock makes the light something ?
+can the rock make the light something ?
+is the air lives ?
+is the air living ?
+can the air goes ?
+can the air go ?
+is the color makes the rest something ?
+is the color making the rest something ?
+can the color makes the rest something ?
+can the color make the rest something ?
+is the hand leaves ?
+is the hand leaving ?
+can the hand goes ?
+can the hand go ?
+is the butter lives ?
+is the butter living ?
+can the butter plays ?
+can the butter play ?
+is the pair takes the fight away ?
+is the pair taking the fight away ?
+can the pair makes the fight something ?
+can the pair make the fight something ?
+is the truck leaves ?
+is the truck leaving ?
+can the truck comes to the story ?
+can the truck come to the story ?
+is the plane says something ?
+is the plane saying something ?
+can the plane lives ?
+can the plane live ?
+is the mouth plays ?
+is the mouth playing ?
+can the mouth takes the cup away ?
+can the mouth take the cup away ?
+is the plant leaves ?
+is the plant leaving ?
+can the plant leaves ?
+can the plant leave ?
+is the heart plays ?
+is the heart playing ?
+can the heart lives ?
+can the heart live ?
+is the lady makes the today something ?
+is the lady making the today something ?
+can the lady takes the today away ?
+can the lady take the today away ?
+is the hospital comes to the heart ?
+is the hospital coming to the heart ?
+can the hospital takes the heart away ?
+can the hospital take the heart away ?
+is the oil comes to the jacket ?
+is the oil coming to the jacket ?
+can the oil comes to the jacket ?
+can the oil come to the jacket ?
+is the face works ?
+is the face working ?
+can the face lives ?
+can the face live ?
+is the line works ?
+is the line working ?
+can the line goes ?
+can the line go ?
+is the dog says something ?
+is the dog saying something ?
+can the dog seems ?
+can the dog seem ?
+is the elephant makes the step something ?
+is the elephant making the step something ?
+can the elephant lives ?
+can the elephant live ?
+is the engine goes ?
+is the engine going ?
+can the engine takes the elephant away ?
+can the engine take the elephant away ?
+is the lion says something ?
+is the lion saying something ?
+can the lion says something ?
+can the lion say something ?
+is the leg takes the foot away ?
+is the leg taking the foot away ?
+can the leg leaves ?
+can the leg leave ?
+is the truck takes the bridge away ?
+is the truck taking the bridge away ?
+can the truck takes the bridge away ?
+can the truck take the bridge away ?
+is the wheel leaves ?
+is the wheel leaving ?
+can the wheel goes ?
+can the wheel go ?
+is the bowl comes to the girl ?
+is the bowl coming to the girl ?
+can the bowl says something ?
+can the bowl say something ?
+is the door works ?
+is the door working ?
+can the door lives ?
+can the door live ?
+is the bottom says something ?
+is the bottom saying something ?
+can the bottom leaves ?
+can the bottom leave ?
+is the key lives ?
+is the key living ?
+can the key takes the plastic away ?
+can the key take the plastic away ?
+is the pocket comes to the coffee ?
+is the pocket coming to the coffee ?
+can the pocket says something ?
+can the pocket say something ?
+is the row lives ?
+is the row living ?
+can the row goes ?
+can the row go ?
+is the man leaves ?
+is the man leaving ?
+can the man leaves ?
+can the man leave ?
+is the story says something ?
+is the story saying something ?
+can the story says something ?
+can the story say something ?
+is the day works ?
+is the day working ?
+can the day takes the year away ?
+can the day take the year away ?
+is the cup makes the house something ?
+is the cup making the house something ?
+can the cup leaves ?
+can the cup leave ?
+is the food leaves ?
+is the food leaving ?
+can the food plays ?
+can the food play ?
+is the tongue works ?
+is the tongue working ?
+can the tongue leaves ?
+can the tongue leave ?
+is the case works ?
+is the case working ?
+can the case seems ?
+can the case seem ?
+is the pair makes the alphabet something ?
+is the pair making the alphabet something ?
+can the pair says something ?
+can the pair say something ?
+is the tree works ?
+is the tree working ?
+can the tree takes the writing away ?
+can the tree take the writing away ?
+is the train works ?
+is the train working ?
+can the train seems ?
+can the train seem ?
+is the engine leaves ?
+is the engine leaving ?
+can the engine goes ?
+can the engine go ?
+is the string comes to the yard ?
+is the string coming to the yard ?
+can the string seems ?
+can the string seem ?
+is the money comes to the tail ?
+is the money coming to the tail ?
+can the money comes to the tail ?
+can the money come to the tail ?
+is the trouble makes the trip something ?
+is the trouble making the trip something ?
+can the trouble plays ?
+can the trouble play ?
+is the tongue plays ?
+is the tongue playing ?
+can the tongue goes ?
+can the tongue go ?
+is the building makes the minute something ?
+is the building making the minute something ?
+can the building seems ?
+can the building seem ?
+is the honey comes to the work ?
+is the honey coming to the work ?
+can the honey goes ?
+can the honey go ?
+is the paint plays ?
+is the paint playing ?
+can the paint says something ?
+can the paint say something ?
+is the horse says something ?
+is the horse saying something ?
+can the horse leaves ?
+can the horse leave ?
+is the middle comes to the painting ?
+is the middle coming to the painting ?
+can the middle leaves ?
+can the middle leave ?
+is the case takes the pair away ?
+is the case taking the pair away ?
+can the case goes ?
+can the case go ?
+is the pocket takes the place away ?
+is the pocket taking the place away ?
+can the pocket lives ?
+can the pocket live ?
+is the street works ?
+is the street working ?
+can the street leaves ?
+can the street leave ?
+is the face goes ?
+is the face going ?
+can the face comes to the place ?
+can the face come to the place ?
+is the plate makes you something ?
+is the plate making you something ?
+can the plate lives ?
+can the plate live ?
+is the fish makes the sea something ?
+is the fish making the sea something ?
+can the fish leaves ?
+can the fish leave ?
+is the dance says something ?
+is the dance saying something ?
+can the dance takes the chocolate away ?
+can the dance take the chocolate away ?
+is the chocolate says something ?
+is the chocolate saying something ?
+can the chocolate takes the lion away ?
+can the chocolate take the lion away ?
+is the stuff says something ?
+is the stuff saying something ?
+can the stuff makes the picture something ?
+can the stuff make the picture something ?
+is the idea says something ?
+is the idea saying something ?
+can the idea seems ?
+can the idea seem ?
+is the dog plays ?
+is the dog playing ?
+can the dog plays ?
+can the dog play ?
+is the foot plays ?
+is the foot playing ?
+can the foot plays ?
+can the foot play ?
+is the boom leaves ?
+is the boom leaving ?
+can the boom seems ?
+can the boom seem ?
+is the dog leaves ?
+is the dog leaving ?
+can the dog lives ?
+can the dog live ?
+can the book comes to the part ?
+can the book come to the part ?
+is the trip comes to the glass ?
+is the trip coming to the glass ?
+can the trip goes ?
+can the trip go ?
+is the neck lives ?
+is the neck living ?
+can the neck makes the school something ?
+can the neck make the school something ?
+can the hospital plays ?
+can the hospital play ?
+is the everything takes the mouse away ?
+is the everything taking the mouse away ?
+can the everything lives ?
+can the everything live ?
+is the part says something ?
+is the part saying something ?
+can the part leaves ?
+can the part leave ?
+is the thing works ?
+is the thing working ?
+can the thing goes ?
+can the thing go ?
+is the plant goes ?
+is the plant going ?
+can the plant seems ?
+can the plant seem ?
+is the person leaves ?
+is the person leaving ?
+can the person goes ?
+can the person go ?
+can the stuff seems ?
+can the stuff seem ?
+is the toy leaves ?
+is the toy leaving ?
+can the toy seems ?
+can the toy seem ?
+is the kind takes the glass away ?
+is the kind taking the glass away ?
+can the kind takes the glass away ?
+can the kind take the glass away ?
+is the morning leaves ?
+is the morning leaving ?
+can the morning leaves ?
+can the morning leave ?
+is the anything works ?
+is the anything working ?
+can the anything says something ?
+can the anything say something ?
+is the finger plays ?
+is the finger playing ?
+can the finger seems ?
+can the finger seem ?
+can the paint leaves ?
+can the paint leave ?
+is the pipe goes ?
+is the pipe going ?
+can the pipe plays ?
+can the pipe play ?
+is the town leaves ?
+is the town leaving ?
+can the town leaves ?
+can the town leave ?
+is the moon works ?
+is the moon working ?
+can the moon leaves ?
+can the moon leave ?
+is the boy makes the man something ?
+is the boy making the man something ?
+can the boy seems ?
+can the boy seem ?
+is the bus says something ?
+is the bus saying something ?
+can the bus comes to her ?
+can the bus come to her ?
+is the light says something ?
+is the light saying something ?
+can the light seems ?
+can the light seem ?
+is the lion plays ?
+is the lion playing ?
+can the lion lives ?
+can the lion live ?
+is the star makes the grass something ?
+is the star making the grass something ?
+can the star goes ?
+can the star go ?
+is the summer works ?
+is the summer working ?
+can the summer lives ?
+can the summer live ?
+is the doctor takes the rabbit away ?
+is the doctor taking the rabbit away ?
+can the doctor takes the rabbit away ?
+can the doctor take the rabbit away ?
+is the arm goes ?
+is the arm going ?
+can the arm says something ?
+can the arm say something ?
+is the baby goes ?
+is the baby going ?
+can the baby seems ?
+can the baby seem ?
+is the person comes to the boy ?
+is the person coming to the boy ?
+can the person makes the boy something ?
+can the person make the boy something ?
+can the lion takes the bell away ?
+can the lion take the bell away ?
+is the side goes ?
+is the side going ?
+can the side takes the bell away ?
+can the side take the bell away ?
+is the cup says something ?
+is the cup saying something ?
+can the cup makes the plant something ?
+can the cup make the plant something ?
+is the front comes to the light ?
+is the front coming to the light ?
+can the front plays ?
+can the front play ?
+is the care goes ?
+is the care going ?
+can the care takes the hair away ?
+can the care take the hair away ?
+is the elephant makes the apple something ?
+is the elephant making the apple something ?
+can the elephant comes to the apple ?
+can the elephant come to the apple ?
+is the anything goes ?
+is the anything going ?
+can the anything makes the hat something ?
+can the anything make the hat something ?
+is the bubble comes to the lot ?
+is the bubble coming to the lot ?
+can the bubble goes ?
+can the bubble go ?
+is the horn comes to the trouble ?
+is the horn coming to the trouble ?
+can the horn goes ?
+can the horn go ?
+is the bridge makes the noise something ?
+is the bridge making the noise something ?
+can the bridge leaves ?
+can the bridge leave ?
+is the half takes the river away ?
+is the half taking the river away ?
+can the half seems ?
+can the half seem ?
+is the kind goes ?
+is the kind going ?
+can the kind plays ?
+can the kind play ?
+is the building takes the pair away ?
+is the building taking the pair away ?
+can the building makes the pair something ?
+can the building make the pair something ?
+is the Jane comes to the machine ?
+is the Jane coming to the machine ?
+can the Jane makes the machine something ?
+can the Jane make the machine something ?
+is the yard says something ?
+is the yard saying something ?
+can the yard goes ?
+can the yard go ?
+is the row takes the wind away ?
+is the row taking the wind away ?
+is the doctor plays ?
+is the doctor playing ?
+can the doctor comes to the chocolate ?
+can the doctor come to the chocolate ?
+is the name works ?
+is the name working ?
+can the name takes the day away ?
+can the name take the day away ?
+is the everyone says something ?
+is the everyone saying something ?
+can the everyone comes to the rabbit ?
+can the everyone come to the rabbit ?
+is the dinner comes to the chicken ?
+is the dinner coming to the chicken ?
+can the dinner says something ?
+can the dinner say something ?
+is the horse goes ?
+is the horse going ?
+can the horse takes the piece away ?
+can the horse take the piece away ?
+is the fight takes the coffee away ?
+is the fight taking the coffee away ?
+can the fight takes the coffee away ?
+can the fight take the coffee away ?
+is the table goes ?
+is the table going ?
+can the table says something ?
+can the table say something ?
+is the step goes ?
+is the step going ?
+can the step plays ?
+can the step play ?
+is the bike makes the finger something ?
+is the bike making the finger something ?
+can the bike plays ?
+can the bike play ?
+is the question takes the grass away ?
+is the question taking the grass away ?
+can the question seems ?
+can the question seem ?
+is the eye works ?
+is the eye working ?
+can the eye makes the land something ?
+can the eye make the land something ?
+is the lion goes ?
+is the lion going ?
+is the ball says something ?
+is the ball saying something ?
+can the ball comes to the medicine ?
+can the ball come to the medicine ?
+is the bell goes ?
+is the bell going ?
+can the bell plays ?
+can the bell play ?
+is the piano makes the writing something ?
+is the piano making the writing something ?
+can the piano comes to the writing ?
+can the piano come to the writing ?
+is the fight makes the word something ?
+is the fight making the word something ?
+can the fight takes the word away ?
+can the fight take the word away ?
+is the restaurant plays ?
+is the restaurant playing ?
+can the restaurant lives ?
+can the restaurant live ?
+can the stick plays ?
+can the stick play ?
+is the school comes to the problem ?
+is the school coming to the problem ?
+can the school takes the problem away ?
+can the school take the problem away ?
+can the road takes the chicken away ?
+can the road take the chicken away ?
+is the course says something ?
+is the course saying something ?
+can the course comes to the fruit ?
+can the course come to the fruit ?
+is the baby leaves ?
+is the baby leaving ?
+can the baby lives ?
+can the baby live ?
+is the grass says something ?
+is the grass saying something ?
+can the grass leaves ?
+can the grass leave ?
+is the piece makes the air something ?
+is the piece making the air something ?
+can the piece says something ?
+can the piece say something ?
+is the wall makes the bridge something ?
+is the wall making the bridge something ?
+can the wall says something ?
+can the wall say something ?
+is the school goes ?
+is the school going ?
+can the school leaves ?
+can the school leave ?
+is the bowl leaves ?
+is the bowl leaving ?
+can the bowl goes ?
+can the bowl go ?
+is the bowl says something ?
+is the bowl saying something ?
+can the bowl leaves ?
+can the bowl leave ?
+is the birthday comes to the thing ?
+is the birthday coming to the thing ?
+can the birthday lives ?
+can the birthday live ?
+is the world makes the top something ?
+is the world making the top something ?
+can the world plays ?
+can the world play ?
+is the lady leaves ?
+is the lady leaving ?
+can the lady goes ?
+can the lady go ?
+is the butter goes ?
+is the butter going ?
+can the butter leaves ?
+can the butter leave ?
+is the street comes to the part ?
+is the street coming to the part ?
+can the street seems ?
+can the street seem ?
+can the horse makes the sound something ?
+can the horse make the sound something ?
+is the heat lives ?
+is the heat living ?
+is the sea makes the wall something ?
+is the sea making the wall something ?
+can the sea comes to the wall ?
+can the sea come to the wall ?
+is the car plays ?
+is the car playing ?
+can the car goes ?
+can the car go ?
+is the toy says something ?
+is the toy saying something ?
+can the toy plays ?
+can the toy play ?
+is the baby works ?
+is the baby working ?
+can the baby makes the arm something ?
+can the baby make the arm something ?
+is the table makes the jacket something ?
+is the table making the jacket something ?
+can the table seems ?
+can the table seem ?
+is the ear comes to the pair ?
+is the ear coming to the pair ?
+can the ear says something ?
+can the ear say something ?
+is the road lives ?
+is the road living ?
+can the road goes ?
+can the road go ?
+is the lion leaves ?
+is the lion leaving ?
+can the lion leaves ?
+can the lion leave ?
+is the duck works ?
+is the duck working ?
+can the duck lives ?
+can the duck live ?
+is the toy takes the oil away ?
+is the toy taking the oil away ?
+can the toy makes the oil something ?
+can the toy make the oil something ?
+is the lion takes the rabbit away ?
+is the lion taking the rabbit away ?
+can the lion comes to the rabbit ?
+can the lion come to the rabbit ?
+can the engine plays ?
+can the engine play ?
+is the jacket plays ?
+is the jacket playing ?
+can the jacket takes the beach away ?
+can the jacket take the beach away ?
+is the box goes ?
+is the box going ?
+is the road plays ?
+is the road playing ?
+is the way says something ?
+is the way saying something ?
+can the way plays ?
+can the way play ?
+is the fan says something ?
+is the fan saying something ?
+can the fan goes ?
+can the fan go ?
+is the number says something ?
+is the number saying something ?
+can the number plays ?
+can the number play ?
+is the grass leaves ?
+is the grass leaving ?
+is the star plays ?
+is the star playing ?
+can the star says something ?
+can the star say something ?
+is the someone works ?
+is the someone working ?
+can the someone comes to the tail ?
+can the someone come to the tail ?
+is the job goes ?
+is the job going ?
+can the job seems ?
+can the job seem ?
+is the machine says something ?
+is the machine saying something ?
+can the machine lives ?
+can the machine live ?
+is the train plays ?
+is the train playing ?
+can the train comes to the moment ?
+can the train come to the moment ?
+is the picture makes the week something ?
+is the picture making the week something ?
+can the picture comes to the week ?
+can the picture come to the week ?
+is the work goes ?
+is the work going ?
+can the work plays ?
+can the work play ?
+is the cup plays ?
+is the cup playing ?
+can the cup makes the finger something ?
+can the cup make the finger something ?
+is the sand works ?
+is the sand working ?
+can the sand lives ?
+can the sand live ?
+is the town goes ?
+is the town going ?
+can the town says something ?
+can the town say something ?
+is the fact works ?
+is the fact working ?
+can the fact makes the bridge something ?
+can the fact make the bridge something ?
+is the kitchen plays ?
+is the kitchen playing ?
+can the kitchen takes the row away ?
+can the kitchen take the row away ?
+is the machine comes to the way ?
+is the machine coming to the way ?
+can the machine takes the way away ?
+can the machine take the way away ?
+is the wind comes to the grass ?
+is the wind coming to the grass ?
+can the wind says something ?
+can the wind say something ?
+is the window says something ?
+is the window saying something ?
+can the window seems ?
+can the window seem ?
+is the bottom works ?
+is the bottom working ?
+can the bottom comes to the lady ?
+can the bottom come to the lady ?
+is the bed takes the machine away ?
+is the bed taking the machine away ?
+can the bed says something ?
+can the bed say something ?
+is the table takes the floor away ?
+is the table taking the floor away ?
+is the money leaves ?
+is the money leaving ?
+can the money comes to the sandwich ?
+can the money come to the sandwich ?
+is the word leaves ?
+is the word leaving ?
+can the word comes to the boom ?
+can the word come to the boom ?
+is the name says something ?
+is the name saying something ?
+can the name plays ?
+can the name play ?
+is the bird plays ?
+is the bird playing ?
+can the bird seems ?
+can the bird seem ?
+is the sandwich works ?
+is the sandwich working ?
+can the sandwich goes ?
+can the sandwich go ?
+is the butter plays ?
+is the butter playing ?
+is the boy leaves ?
+is the boy leaving ?
+is the everything plays ?
+is the everything playing ?
+can the everything makes the fruit something ?
+can the everything make the fruit something ?
+is the fun comes to the someone ?
+is the fun coming to the someone ?
+can the fun makes the someone something ?
+can the fun make the someone something ?
+can the side leaves ?
+can the side leave ?
+is the plastic lives ?
+is the plastic living ?
+is the kitchen says something ?
+is the kitchen saying something ?
+can the kitchen lives ?
+can the kitchen live ?
+is the door leaves ?
+is the door leaving ?
+can the door takes the city away ?
+can the door take the city away ?
+is the plane lives ?
+is the plane living ?
+can the plane comes to the train ?
+can the plane come to the train ?
+is the plane makes the ground something ?
+is the plane making the ground something ?
+can the plane takes the ground away ?
+can the plane take the ground away ?
+is the week lives ?
+is the week living ?
+can the week says something ?
+can the week say something ?
+is the chicken comes to the everything ?
+is the chicken coming to the everything ?
+can the chicken leaves ?
+can the chicken leave ?
+is the book takes the grass away ?
+is the book taking the grass away ?
+can the book plays ?
+can the book play ?
+is the bus comes to the dance ?
+is the bus coming to the dance ?
+is the noise works ?
+is the noise working ?
+can the noise says something ?
+can the noise say something ?
+is the station comes to the ear ?
+is the station coming to the ear ?
+can the station takes the ear away ?
+can the station take the ear away ?
+is the air plays ?
+is the air playing ?
+can the air makes the job something ?
+can the air make the job something ?
+is the opening leaves ?
+is the opening leaving ?
+can the opening lives ?
+can the opening live ?
+is the person makes the city something ?
+is the person making the city something ?
+can the person makes the city something ?
+can the person make the city something ?
+is the coffee takes the mouth away ?
+is the coffee taking the mouth away ?
+can the coffee leaves ?
+can the coffee leave ?
+is the morning lives ?
+is the morning living ?
+can the morning comes to the lot ?
+can the morning come to the lot ?
+is the piano says something ?
+is the piano saying something ?
+can the piano leaves ?
+can the piano leave ?
+is the lot goes ?
+is the lot going ?
+can the lot lives ?
+can the lot live ?
+can the music says something ?
+can the music say something ?
+is the glass goes ?
+is the glass going ?
+can the glass says something ?
+can the glass say something ?
+is the medicine goes ?
+is the medicine going ?
+can the medicine plays ?
+can the medicine play ?
+is the milk makes the color something ?
+is the milk making the color something ?
+can the milk goes ?
+can the milk go ?
+is the person comes to the number ?
+is the person coming to the number ?
+can the person says something ?
+can the person say something ?
+is the thing makes the street something ?
+is the thing making the street something ?
+can the thing lives ?
+can the thing live ?
+can the doctor makes the fact something ?
+can the doctor make the fact something ?
+is the hat lives ?
+is the hat living ?
+can the hat makes the plate something ?
+can the hat make the plate something ?
+is the city leaves ?
+is the city leaving ?
+can the city takes the none away ?
+can the city take the none away ?
+is the half takes the circle away ?
+is the half taking the circle away ?
+can the half goes ?
+can the half go ?
+is the lady works ?
+is the lady working ?
+is the pocket works ?
+is the pocket working ?
+can the pocket makes the grass something ?
+can the pocket make the grass something ?
+is the rabbit plays ?
+is the rabbit playing ?
+can the rabbit goes ?
+can the rabbit go ?
+is the page says something ?
+is the page saying something ?
+can the page goes ?
+can the page go ?
+is the door lives ?
+is the door living ?
+can the door plays ?
+can the door play ?
+is the bit says something ?
+is the bit saying something ?
+can the bit says something ?
+can the bit say something ?
+is the engine plays ?
+is the engine playing ?
+can the engine seems ?
+can the engine seem ?
+is the foot says something ?
+is the foot saying something ?
+can the foot comes to the piece ?
+can the foot come to the piece ?
+is the door makes the mouse something ?
+is the door making the mouse something ?
+can the door comes to the mouse ?
+can the door come to the mouse ?
+is the oil plays ?
+is the oil playing ?
+can the oil goes ?
+can the oil go ?
+can the building goes ?
+can the building go ?
+is the engine takes the face away ?
+is the engine taking the face away ?
+can the engine lives ?
+can the engine live ?
+is the person comes to the world ?
+is the person coming to the world ?
+is the bed comes to the boy ?
+is the bed coming to the boy ?
+is the coffee takes the cheese away ?
+is the coffee taking the cheese away ?
+can the coffee comes to the cheese ?
+can the coffee come to the cheese ?
+is the part lives ?
+is the part living ?
+can the part lives ?
+can the part live ?
+can the lady leaves ?
+can the lady leave ?
+is the cheese goes ?
+is the cheese going ?
+can the cheese leaves ?
+can the cheese leave ?
+is the nobody goes ?
+is the nobody going ?
+can the nobody says something ?
+can the nobody say something ?
+is the moment comes to the tongue ?
+is the moment coming to the tongue ?
+can the moment leaves ?
+can the moment leave ?
+is the tree comes to the square ?
+is the tree coming to the square ?
+can the tree makes the square something ?
+can the tree make the square something ?
+is the anything leaves ?
+is the anything leaving ?
+can the anything makes the everything something ?
+can the anything make the everything something ?
+is the phone goes ?
+is the phone going ?
+can the phone comes to him ?
+can the phone come to him ?
+is the duck lives ?
+is the duck living ?
+can the duck seems ?
+can the duck seem ?
+is the star goes ?
+is the star going ?
+is the job works ?
+is the job working ?
+can the job comes to the hand ?
+can the job come to the hand ?
+can the part takes the flower away ?
+can the part take the flower away ?
+is the ring leaves ?
+is the ring leaving ?
+can the ring leaves ?
+can the ring leave ?
+is the honey says something ?
+is the honey saying something ?
+can the honey seems ?
+can the honey seem ?
+is the ball comes to the tongue ?
+is the ball coming to the tongue ?
+can the ball plays ?
+can the ball play ?
+is the hole works ?
+is the hole working ?
+can the hole seems ?
+can the hole seem ?
+is the river lives ?
+is the river living ?
+can the river plays ?
+can the river play ?
+is the story takes the sandwich away ?
+is the story taking the sandwich away ?
+can the story makes the sandwich something ?
+can the story make the sandwich something ?
+is the someone lives ?
+is the someone living ?
+can the someone takes the cup away ?
+can the someone take the cup away ?
+is the chicken makes the plate something ?
+is the chicken making the plate something ?
+can the chicken lives ?
+can the chicken live ?
+is the hole goes ?
+is the hole going ?
+can the hole says something ?
+can the hole say something ?
+is the fire takes the everyone away ?
+is the fire taking the everyone away ?
+can the fire takes the everyone away ?
+can the fire take the everyone away ?
+is the arm makes the top something ?
+is the arm making the top something ?
+can the arm leaves ?
+can the arm leave ?
+is the bird makes the year something ?
+is the bird making the year something ?
+can the bird lives ?
+can the bird live ?
+is the roof says something ?
+is the roof saying something ?
+can the roof says something ?
+can the roof say something ?
+is the word comes to the Jane ?
+is the word coming to the Jane ?
+can the word plays ?
+can the word play ?
+is the time makes the today something ?
+is the time making the today something ?
+can the time plays ?
+can the time play ?
+is the bottom comes to the bus ?
+is the bottom coming to the bus ?
+can the bottom goes ?
+can the bottom go ?
+is the girl goes ?
+is the girl going ?
+can the girl plays ?
+can the girl play ?
+is the water leaves ?
+is the water leaving ?
+can the water takes the bus away ?
+can the water take the bus away ?
+is the fruit says something ?
+is the fruit saying something ?
+can the fruit takes the number away ?
+can the fruit take the number away ?
+is the bowl makes the butter something ?
+is the bowl making the butter something ?
+can the bowl lives ?
+can the bowl live ?
+is the oil goes ?
+is the oil going ?
+can the oil takes the boom away ?
+can the oil take the boom away ?
+is the pair plays ?
+is the pair playing ?
+can the pair lives ?
+can the pair live ?
+is the birthday goes ?
+is the birthday going ?
+can the birthday takes the food away ?
+can the birthday take the food away ?
+is the chair says something ?
+is the chair saying something ?
+can the chair makes the painting something ?
+can the chair make the painting something ?
+is the bear goes ?
+is the bear going ?
+can the bear says something ?
+can the bear say something ?
+is the piece takes the ground away ?
+is the piece taking the ground away ?
+can the piece seems ?
+can the piece seem ?
+is the side comes to the everyone ?
+is the side coming to the everyone ?
+can the side plays ?
+can the side play ?
+is the plastic makes the town something ?
+is the plastic making the town something ?
+can the plastic lives ?
+can the plastic live ?
+is the duck takes the paper away ?
+is the duck taking the paper away ?
+is the boom says something ?
+is the boom saying something ?
+can the boom goes ?
+can the boom go ?
+is the dog makes the mouse something ?
+is the dog making the mouse something ?
+can the dog goes ?
+can the dog go ?
+is the hand takes the hospital away ?
+is the hand taking the hospital away ?
+can the hand lives ?
+can the hand live ?
+can the train takes the cake away ?
+can the train take the cake away ?
+is the fight plays ?
+is the fight playing ?
+can the fight seems ?
+can the fight seem ?
+is the summer lives ?
+is the summer living ?
+can the summer leaves ?
+can the summer leave ?
+is the minute comes to the piece ?
+is the minute coming to the piece ?
+can the minute lives ?
+can the minute live ?
+is the front goes ?
+is the front going ?
+can the front says something ?
+can the front say something ?
+is the house makes the person something ?
+is the house making the person something ?
+can the house says something ?
+can the house say something ?
+is the wheel comes to the game ?
+is the wheel coming to the game ?
+can the wheel takes the game away ?
+can the wheel take the game away ?
+is the job takes the room away ?
+is the job taking the room away ?
+can the job makes the room something ?
+can the job make the room something ?
+is the anyone works ?
+is the anyone working ?
+can the anyone takes the street away ?
+can the anyone take the street away ?
+is the air says something ?
+is the air saying something ?
+can the air plays ?
+can the air play ?
+is the chicken goes ?
+is the chicken going ?
+can the chicken says something ?
+can the chicken say something ?
+is the doctor comes to the bear ?
+is the doctor coming to the bear ?
+can the doctor says something ?
+can the doctor say something ?
+is the birthday works ?
+is the birthday working ?
+can the birthday takes the number away ?
+can the birthday take the number away ?
+is the anyone lives ?
+is the anyone living ?
+can the anyone leaves ?
+can the anyone leave ?
+is the friend comes to the wind ?
+is the friend coming to the wind ?
+can the friend says something ?
+can the friend say something ?
+is the heat comes to the truck ?
+is the heat coming to the truck ?
+can the heat comes to the truck ?
+can the heat come to the truck ?
+is the bowl plays ?
+is the bowl playing ?
+can the hole makes the girl something ?
+can the hole make the girl something ?
+is the bike comes to the dance ?
+is the bike coming to the dance ?
+can the bike goes ?
+can the bike go ?
+can the word takes the sky away ?
+can the word take the sky away ?
+can the grass goes ?
+can the grass go ?
+is the color takes the morning away ?
+is the color taking the morning away ?
+can the color makes the morning something ?
+can the color make the morning something ?
+can the line makes the anything something ?
+can the line make the anything something ?
+is the phone works ?
+is the phone working ?
+can the phone seems ?
+can the phone seem ?
+is the none says something ?
+is the none saying something ?
+can the none seems ?
+can the none seem ?
+is the way lives ?
+is the way living ?
+can the way leaves ?
+can the way leave ?
+is the person says something ?
+is the person saying something ?
+can the person comes to the book ?
+can the person come to the book ?
+is the butter comes to the street ?
+is the butter coming to the street ?
+is the cheese takes the bear away ?
+is the cheese taking the bear away ?
+can the cheese lives ?
+can the cheese live ?
+is the arm works ?
+is the arm working ?
+can the arm goes ?
+can the arm go ?
+is the person lives ?
+is the person living ?
+can the person makes the bit something ?
+can the person make the bit something ?
+is the chocolate takes the someone away ?
+is the chocolate taking the someone away ?
+can the chocolate leaves ?
+can the chocolate leave ?
+is the plate says something ?
+is the plate saying something ?
+can the plate comes to the door ?
+can the plate come to the door ?
+is the nothing lives ?
+is the nothing living ?
+can the nothing seems ?
+can the nothing seem ?
+can the sea comes to the bird ?
+can the sea come to the bird ?
+is the duck says something ?
+is the duck saying something ?
+can the duck plays ?
+can the duck play ?
+is the sky comes to the bike ?
+is the sky coming to the bike ?
+can the sky lives ?
+can the sky live ?
+is the piano takes the fan away ?
+is the piano taking the fan away ?
+can the piano makes the fan something ?
+can the piano make the fan something ?
+is the side takes the table away ?
+is the side taking the table away ?
+can the side comes to the table ?
+can the side come to the table ?
+is the jacket comes to the idea ?
+is the jacket coming to the idea ?
+can the jacket seems ?
+can the jacket seem ?
+is the rest lives ?
+is the rest living ?
+can the rest makes the table something ?
+can the rest make the table something ?
+can the anything leaves ?
+can the anything leave ?
+is the trouble plays ?
+is the trouble playing ?
+can the trouble says something ?
+can the trouble say something ?
+is the bird lives ?
+is the bird living ?
+can the bird goes ?
+can the bird go ?
+is the week takes the uncle away ?
+is the week taking the uncle away ?
+can the week lives ?
+can the week live ?
+is the wheel plays ?
+is the wheel playing ?
+can the wheel lives ?
+can the wheel live ?
+is the coffee makes the case something ?
+is the coffee making the case something ?
+can the coffee says something ?
+can the coffee say something ?
+is the arm leaves ?
+is the arm leaving ?
+can the arm seems ?
+can the arm seem ?
+is the color makes the sea something ?
+is the color making the sea something ?
+can the color plays ?
+can the color play ?
+is the juice says something ?
+is the juice saying something ?
+can the juice takes the box away ?
+can the juice take the box away ?
+is the part takes the cooking away ?
+is the part taking the cooking away ?
+can the part takes the cooking away ?
+can the part take the cooking away ?
+can the birthday leaves ?
+can the birthday leave ?
+is the trouble takes the mirror away ?
+is the trouble taking the mirror away ?
+is the cup lives ?
+is the cup living ?
+can the cup comes to the fight ?
+can the cup come to the fight ?
+is the bear works ?
+is the bear working ?
+can the bear goes ?
+can the bear go ?
+is the everyone goes ?
+is the everyone going ?
+can the everyone leaves ?
+can the everyone leave ?
+is the sky takes the everything away ?
+is the sky taking the everything away ?
+can the sky says something ?
+can the sky say something ?
+can the rest lives ?
+can the rest live ?
+is the fun says something ?
+is the fun saying something ?
+can the fun comes to the station ?
+can the fun come to the station ?
+is the fight lives ?
+is the fight living ?
+can the fight leaves ?
+can the fight leave ?
+is the finger says something ?
+is the finger saying something ?
+can the finger leaves ?
+can the finger leave ?
+is the front takes the body away ?
+is the front taking the body away ?
+can the front comes to the body ?
+can the front come to the body ?
+is the fish comes to the body ?
+is the fish coming to the body ?
+can the fish comes to the body ?
+can the fish come to the body ?
+is the butter comes to the house ?
+is the butter coming to the house ?
+can the butter comes to the house ?
+can the butter come to the house ?
+is the farm takes the fire away ?
+is the farm taking the fire away ?
+can the farm plays ?
+can the farm play ?
+is the body says something ?
+is the body saying something ?
+can the body seems ?
+can the body seem ?
+is the jacket leaves ?
+is the jacket leaving ?
+can the jacket takes the front away ?
+can the jacket take the front away ?
+is the problem plays ?
+is the problem playing ?
+can the problem plays ?
+can the problem play ?
+is the key takes the duck away ?
+is the key taking the duck away ?
+can the key makes the duck something ?
+can the key make the duck something ?
+is the truck lives ?
+is the truck living ?
+can the truck goes ?
+can the truck go ?
+is the boy takes the table away ?
+is the boy taking the table away ?
+can the boy comes to the table ?
+can the boy come to the table ?
+is the step works ?
+is the step working ?
+can the step comes to the piece ?
+can the step come to the piece ?
+can the baby comes to the beach ?
+can the baby come to the beach ?
+is the cheese comes to the anyone ?
+is the cheese coming to the anyone ?
+can the cheese takes the anyone away ?
+can the cheese take the anyone away ?
+is the bit makes the pipe something ?
+is the bit making the pipe something ?
+can the bit comes to the pipe ?
+can the bit come to the pipe ?
+is the leg lives ?
+is the leg living ?
+can the leg comes to the opening ?
+can the leg come to the opening ?
+is the uncle lives ?
+is the uncle living ?
+can the uncle seems ?
+can the uncle seem ?
+is the pocket comes to the body ?
+is the pocket coming to the body ?
+can the pocket makes the body something ?
+can the pocket make the body something ?
+can the row plays ?
+can the row play ?
+is the arm comes to the square ?
+is the arm coming to the square ?
+is the beach goes ?
+is the beach going ?
+can the beach leaves ?
+can the beach leave ?
+is the sand takes the monster away ?
+is the sand taking the monster away ?
+can the sand comes to the monster ?
+can the sand come to the monster ?
+is the elephant comes to the anything ?
+is the elephant coming to the anything ?
+can the elephant goes ?
+can the elephant go ?
+can the day makes the sandwich something ?
+can the day make the sandwich something ?
+can the place seems ?
+can the place seem ?
+is the bubble comes to the wheel ?
+is the bubble coming to the wheel ?
+can the bubble says something ?
+can the bubble say something ?
+is the farm leaves ?
+is the farm leaving ?
+can the farm takes the bowl away ?
+can the farm take the bowl away ?
+is the year makes the neck something ?
+is the year making the neck something ?
+can the year leaves ?
+can the year leave ?
+is the mouth takes the medicine away ?
+is the mouth taking the medicine away ?
+can the mouth leaves ?
+can the mouth leave ?
+is the rest takes the doctor away ?
+is the rest taking the doctor away ?
+is the fish says something ?
+is the fish saying something ?
+can the fish plays ?
+can the fish play ?
+is the mouse says something ?
+is the mouse saying something ?
+can the mouse seems ?
+can the mouse seem ?
+is the fight says something ?
+is the fight saying something ?
+can the fight makes the page something ?
+can the fight make the page something ?
+is the fruit plays ?
+is the fruit playing ?
+can the fruit makes the job something ?
+can the fruit make the job something ?
+is the flower makes the boy something ?
+is the flower making the boy something ?
+can the flower makes the boy something ?
+can the flower make the boy something ?
+is the wall goes ?
+is the wall going ?
+can the wall comes to the rock ?
+can the wall come to the rock ?
+is the hair takes the cooking away ?
+is the hair taking the cooking away ?
+can the hair makes the cooking something ?
+can the hair make the cooking something ?
+is the paint makes the light something ?
+is the paint making the light something ?
+can the paint lives ?
+can the paint live ?
+is the stick says something ?
+is the stick saying something ?
+can the stick goes ?
+can the stick go ?
+is the writing goes ?
+is the writing going ?
+can the writing leaves ?
+can the writing leave ?
+is the half comes to the music ?
+is the half coming to the music ?
+can the half lives ?
+can the half live ?
+is the beach takes the work away ?
+is the beach taking the work away ?
+can the beach says something ?
+can the beach say something ?
+is the work comes to the door ?
+is the work coming to the door ?
+can the work leaves ?
+can the work leave ?
+can the bus makes the horse something ?
+can the bus make the horse something ?
+is the doctor comes to the door ?
+is the doctor coming to the door ?
+can the doctor takes the door away ?
+can the doctor take the door away ?
+is the duck takes the pipe away ?
+is the duck taking the pipe away ?
+can the duck leaves ?
+can the duck leave ?
+is the bike comes to the restaurant ?
+is the bike coming to the restaurant ?
+is the wind makes the point something ?
+is the wind making the point something ?
+can the wind goes ?
+can the wind go ?
+is the hospital goes ?
+is the hospital going ?
+can the hospital comes to the fight ?
+can the hospital come to the fight ?
+is the sandwich says something ?
+is the sandwich saying something ?
+can the sandwich plays ?
+can the sandwich play ?
+is the bike leaves ?
+is the bike leaving ?
+can the bike takes the fan away ?
+can the bike take the fan away ?
+is the farm makes the monster something ?
+is the farm making the monster something ?
+can the farm seems ?
+can the farm seem ?
+is the something says something ?
+is the something saying something ?
+can the something takes the match away ?
+can the something take the match away ?
+can the arm comes to the summer ?
+can the arm come to the summer ?
+is the mouse leaves ?
+is the mouse leaving ?
+is the chair makes the bottom something ?
+is the chair making the bottom something ?
+can the chair makes the bottom something ?
+can the chair make the bottom something ?
+is the flower says something ?
+is the flower saying something ?
+can the flower plays ?
+can the flower play ?
+is the honey plays ?
+is the honey playing ?
+is the lot leaves ?
+is the lot leaving ?
+is the pipe works ?
+is the pipe working ?
+is the rain makes the guy something ?
+is the rain making the guy something ?
+can the rain says something ?
+can the rain say something ?
+is the river goes ?
+is the river going ?
+is the pipe takes the tree away ?
+is the pipe taking the tree away ?
+can the pipe comes to the tree ?
+can the pipe come to the tree ?
+is the handle plays ?
+is the handle playing ?
+can the handle seems ?
+can the handle seem ?
+is the bird comes to the piece ?
+is the bird coming to the piece ?
+can the bird makes the piece something ?
+can the bird make the piece something ?
+is the station works ?
+is the station working ?
+can the station says something ?
+can the station say something ?
+is the knife lives ?
+is the knife living ?
+can the knife makes the fact something ?
+can the knife make the fact something ?
+is the plant says something ?
+is the plant saying something ?
+can the plant goes ?
+can the plant go ?
+is the problem works ?
+is the problem working ?
+can the problem makes the fun something ?
+can the problem make the fun something ?
+is the top leaves ?
+is the top leaving ?
+can the top plays ?
+can the top play ?
+is the fun goes ?
+is the fun going ?
+can the fun comes to the sea ?
+can the fun come to the sea ?
+can the step makes the yard something ?
+can the step make the yard something ?
+is the man works ?
+is the man working ?
+can the man goes ?
+can the man go ?
+is the name lives ?
+is the name living ?
+is the alphabet makes the problem something ?
+is the alphabet making the problem something ?
+can the alphabet takes the problem away ?
+can the alphabet take the problem away ?
+is the circle lives ?
+is the circle living ?
+can the circle makes the table something ?
+can the circle make the table something ?
+can the nobody comes to the plastic ?
+can the nobody come to the plastic ?
+can the finger takes the guy away ?
+can the finger take the guy away ?
+is the string makes the dust something ?
+is the string making the dust something ?
+can the string plays ?
+can the string play ?
+is the car works ?
+is the car working ?
+can the car seems ?
+can the car seem ?
+is the ground comes to the summer ?
+is the ground coming to the summer ?
+can the ground comes to the summer ?
+can the ground come to the summer ?
+is the floor goes ?
+is the floor going ?
+can the floor plays ?
+can the floor play ?
+is the day goes ?
+is the day going ?
+can the day plays ?
+can the day play ?
+is the tongue says something ?
+is the tongue saying something ?
+can the tongue takes the engine away ?
+can the tongue take the engine away ?
+is the idea works ?
+is the idea working ?
+can the idea plays ?
+can the idea play ?
+is the question lives ?
+is the question living ?
+can the question goes ?
+can the question go ?
+is the dust says something ?
+is the dust saying something ?
+can the dust takes the rock away ?
+can the dust take the rock away ?
+can the grass lives ?
+can the grass live ?
+is the park makes the man something ?
+is the park making the man something ?
+can the park makes the man something ?
+can the park make the man something ?
+can the chair seems ?
+can the chair seem ?
+is the sugar makes the nose something ?
+is the sugar making the nose something ?
+can the sugar plays ?
+can the sugar play ?
+is the uncle plays ?
+is the uncle playing ?
+is the bike says something ?
+is the bike saying something ?
+can the bike leaves ?
+can the bike leave ?
+is the ice goes ?
+is the ice going ?
+can the ice says something ?
+can the ice say something ?
+is the bell takes the nobody away ?
+is the bell taking the nobody away ?
+is the boat says something ?
+is the boat saying something ?
+can the boat comes to the air ?
+can the boat come to the air ?
+is the time makes the hour something ?
+is the time making the hour something ?
+can the time takes the hour away ?
+can the time take the hour away ?
+can the number seems ?
+can the number seem ?
+is the everything makes the horn something ?
+is the everything making the horn something ?
+can the everything takes the horn away ?
+can the everything take the horn away ?
+is the part leaves ?
+is the part leaving ?
+is the way takes the truck away ?
+is the way taking the truck away ?
+can the way lives ?
+can the way live ?
+is the oil lives ?
+is the oil living ?
+can the oil leaves ?
+can the oil leave ?
+is the front makes the middle something ?
+is the front making the middle something ?
+is the head lives ?
+is the head living ?
+can the head says something ?
+can the head say something ?
+is the chair plays ?
+is the chair playing ?
+can the chair goes ?
+can the chair go ?
+is the plant works ?
+is the plant working ?
+can the plant makes the summer something ?
+can the plant make the summer something ?
+is the couple leaves ?
+is the couple leaving ?
+can the couple leaves ?
+can the couple leave ?
+is the front takes the care away ?
+is the front taking the care away ?
+can the front seems ?
+can the front seem ?
+is the pocket says something ?
+is the pocket saying something ?
+can the pocket leaves ?
+can the pocket leave ?
+is the trouble says something ?
+is the trouble saying something ?
+can the trouble leaves ?
+can the trouble leave ?
+is the stuff leaves ?
+is the stuff leaving ?
+can the stuff lives ?
+can the stuff live ?
+is the trip comes to the match ?
+is the trip coming to the match ?
+can the trip takes the match away ?
+can the trip take the match away ?
+is the game leaves ?
+is the game leaving ?
+can the game goes ?
+can the game go ?
+is the apple plays ?
+is the apple playing ?
+can the apple takes the mirror away ?
+can the apple take the mirror away ?
+is the glass lives ?
+is the glass living ?
+can the glass seems ?
+can the glass seem ?
+is the farm lives ?
+is the farm living ?
+is the horn works ?
+is the horn working ?
+can the horn makes the plastic something ?
+can the horn make the plastic something ?
+can the piano comes to the way ?
+can the piano come to the way ?
+is the none leaves ?
+is the none leaving ?
+can the none says something ?
+can the none say something ?
+can the everything seems ?
+can the everything seem ?
+is the way goes ?
+is the way going ?
+can the way goes ?
+can the way go ?
+is the work takes the morning away ?
+is the work taking the morning away ?
+is the plate goes ?
+is the plate going ?
+can the plate comes to the boat ?
+can the plate come to the boat ?
+is the side leaves ?
+is the side leaving ?
+can the side goes ?
+can the side go ?
+is the heat goes ?
+is the heat going ?
+can the heat comes to the day ?
+can the heat come to the day ?
+can the fruit makes the ear something ?
+can the fruit make the ear something ?
+is the writing lives ?
+is the writing living ?
+can the writing makes the ring something ?
+can the writing make the ring something ?
+is the chicken takes the restaurant away ?
+is the chicken taking the restaurant away ?
+can the chicken plays ?
+can the chicken play ?
+is the opening goes ?
+is the opening going ?
+is the top comes to the egg ?
+is the top coming to the egg ?
+can the top says something ?
+can the top say something ?
+can the tongue seems ?
+can the tongue seem ?
+is the square works ?
+is the square working ?
+can the square seems ?
+can the square seem ?
+can the Jane comes to the care ?
+can the Jane come to the care ?
+is the plate leaves ?
+is the plate leaving ?
+can the plate takes the boy away ?
+can the plate take the boy away ?
+is the cheese takes the city away ?
+is the cheese taking the city away ?
+is the juice makes the place something ?
+is the juice making the place something ?
+can the juice goes ?
+can the juice go ?
+can the yard makes the town something ?
+can the yard make the town something ?
+is the jacket goes ?
+is the jacket going ?
+is the car comes to the half ?
+is the car coming to the half ?
+is the something takes the duck away ?
+is the something taking the duck away ?
+can the something makes the duck something ?
+can the something make the duck something ?
+can the ice takes the plant away ?
+can the ice take the plant away ?
+can the page says something ?
+can the page say something ?
+is the middle works ?
+is the middle working ?
+can the middle lives ?
+can the middle live ?
+is the farm works ?
+is the farm working ?
+can the farm comes to the ground ?
+can the farm come to the ground ?
+can the fan leaves ?
+can the fan leave ?
+can the restaurant comes to the word ?
+can the restaurant come to the word ?
+is the beach leaves ?
+is the beach leaving ?
+can the beach lives ?
+can the beach live ?
+is the number comes to the grass ?
+is the number coming to the grass ?
+can the number comes to the grass ?
+can the number come to the grass ?
+is the sugar plays ?
+is the sugar playing ?
+can the sugar says something ?
+can the sugar say something ?
+is the juice plays ?
+is the juice playing ?
+can the juice says something ?
+can the juice say something ?
+is the tower works ?
+is the tower working ?
+can the tower says something ?
+can the tower say something ?
+is the point lives ?
+is the point living ?
+can the point makes the bottom something ?
+can the point make the bottom something ?
+is the fan comes to the truck ?
+is the fan coming to the truck ?
+can the fan takes the truck away ?
+can the fan take the truck away ?
+is the hospital leaves ?
+is the hospital leaving ?
+can the hospital seems ?
+can the hospital seem ?
+is the part comes to the top ?
+is the part coming to the top ?
+can the part says something ?
+can the part say something ?
+is the trouble goes ?
+is the trouble going ?
+can the trouble lives ?
+can the trouble live ?
+is the bridge works ?
+is the bridge working ?
+can the bridge seems ?
+can the bridge seem ?
+is the milk leaves ?
+is the milk leaving ?
+can the milk seems ?
+can the milk seem ?
+is the cup works ?
+is the cup working ?
+can the cup goes ?
+can the cup go ?
+can the tongue says something ?
+can the tongue say something ?
+is the anyone leaves ?
+is the anyone leaving ?
+can the anyone makes the book something ?
+can the anyone make the book something ?
+is the nothing leaves ?
+is the nothing leaving ?
+can the nothing plays ?
+can the nothing play ?
+is the moment says something ?
+is the moment saying something ?
+can the moment takes the boom away ?
+can the moment take the boom away ?
+is the finger goes ?
+is the finger going ?
+is the hair works ?
+is the hair working ?
+can the hair makes the anyone something ?
+can the hair make the anyone something ?
+is the string says something ?
+is the string saying something ?
+is the heart says something ?
+is the heart saying something ?
+is the glass takes the moon away ?
+is the glass taking the moon away ?
+can the glass leaves ?
+can the glass leave ?
+can the something says something ?
+can the something say something ?
+is the sun takes the bird away ?
+is the sun taking the bird away ?
+can the sun plays ?
+can the sun play ?
+is the side takes the part away ?
+is the side taking the part away ?
+can the side says something ?
+can the side say something ?
+is the knife works ?
+is the knife working ?
+can the knife makes the course something ?
+can the knife make the course something ?
+is the problem goes ?
+is the problem going ?
+can the problem goes ?
+can the problem go ?
+is the bread works ?
+is the bread working ?
+can the bread goes ?
+can the bread go ?
+can the town takes the tree away ?
+can the town take the tree away ?
+is the bear makes the phone something ?
+is the bear making the phone something ?
+can the bear plays ?
+can the bear play ?
+is the lion takes the cat away ?
+is the lion taking the cat away ?
+is the hole plays ?
+is the hole playing ?
+can the hole takes the bowl away ?
+can the hole take the bowl away ?
+is the sea leaves ?
+is the sea leaving ?
+is the top lives ?
+is the top living ?
+can the top leaves ?
+can the top leave ?
+can the sky comes to the school ?
+can the sky come to the school ?
+is the hand lives ?
+is the hand living ?
+can the hand plays ?
+can the hand play ?
+is the toy makes the doctor something ?
+is the toy making the doctor something ?
+can the toy comes to the doctor ?
+can the toy come to the doctor ?
+is the someone comes to the fight ?
+is the someone coming to the fight ?
+can the someone makes the fight something ?
+can the someone make the fight something ?
+is the food lives ?
+is the food living ?
+is the yard takes the flower away ?
+is the yard taking the flower away ?
+can the yard plays ?
+can the yard play ?
+is the window comes to the mirror ?
+is the window coming to the mirror ?
+can the window lives ?
+can the window live ?
+can the bird takes the dog away ?
+can the bird take the dog away ?
+is the glass works ?
+is the glass working ?
+can the finger comes to the way ?
+can the finger come to the way ?
+is the egg makes the dust something ?
+is the egg making the dust something ?
+can the egg seems ?
+can the egg seem ?
+is the sea works ?
+is the sea working ?
+can the sea comes to the match ?
+can the sea come to the match ?
+is the kitchen works ?
+is the kitchen working ?
+can the kitchen leaves ?
+can the kitchen leave ?
+is the foot lives ?
+is the foot living ?
+is the letter lives ?
+is the letter living ?
+can the letter goes ?
+can the letter go ?
+can the fan makes the wheel something ?
+can the fan make the wheel something ?
+is the writing says something ?
+is the writing saying something ?
+can the writing seems ?
+can the writing seem ?
+is the train says something ?
+is the train saying something ?
+can the car says something ?
+can the car say something ?
+can the ring comes to the cup ?
+can the ring come to the cup ?
+is the circle leaves ?
+is the circle leaving ?
+can the circle leaves ?
+can the circle leave ?
+is the street goes ?
+is the street going ?
+can the street plays ?
+can the street play ?
+is the alphabet works ?
+is the alphabet working ?
+can the alphabet takes the letter away ?
+can the alphabet take the letter away ?
+is the day says something ?
+is the day saying something ?
+can the day makes the tree something ?
+can the day make the tree something ?
+is the air works ?
+is the air working ?
+can the air says something ?
+can the air say something ?
+is the engine makes the match something ?
+is the engine making the match something ?
+can the plane says something ?
+can the plane say something ?
+is the medicine lives ?
+is the medicine living ?
+can the medicine makes the music something ?
+can the medicine make the music something ?
+is the moon makes the egg something ?
+is the moon making the egg something ?
+can the moon lives ?
+can the moon live ?
+is the sky comes to the everything ?
+is the sky coming to the everything ?
+is the chicken takes the fan away ?
+is the chicken taking the fan away ?
+is the way takes the snake away ?
+is the way taking the snake away ?
+can the way comes to the snake ?
+can the way come to the snake ?
+is the truck comes to the neck ?
+is the truck coming to the neck ?
+can the truck plays ?
+can the truck play ?
+is the dinner takes the dust away ?
+is the dinner taking the dust away ?
+can the dinner seems ?
+can the dinner seem ?
+is the mouth comes to her ?
+is the mouth coming to her ?
+can the mouth lives ?
+can the mouth live ?
+can the cup takes the horse away ?
+can the cup take the horse away ?
+is the station takes it away ?
+is the station taking it away ?
+can the station comes to it ?
+can the station come to it ?
+is the square lives ?
+is the square living ?
+can the square makes the cake something ?
+can the square make the cake something ?
+is the game lives ?
+is the game living ?
+can the game seems ?
+can the game seem ?
+is the bell plays ?
+is the bell playing ?
+can the bell comes to the pocket ?
+can the bell come to the pocket ?
+is the birthday lives ?
+is the birthday living ?
+is the fruit makes the bread something ?
+is the fruit making the bread something ?
+can the fruit lives ?
+can the fruit live ?
+is the star takes the heart away ?
+is the star taking the heart away ?
+can the foot comes to the yard ?
+can the foot come to the yard ?
+is the chicken lives ?
+is the chicken living ?
+can the chicken seems ?
+can the chicken seem ?
+is the front leaves ?
+is the front leaving ?
+can the front makes the side something ?
+can the front make the side something ?
+can the ice goes ?
+can the ice go ?
+is the noise plays ?
+is the noise playing ?
+can the noise makes the match something ?
+can the noise make the match something ?
+is the egg says something ?
+is the egg saying something ?
+can the egg comes to the glass ?
+can the egg come to the glass ?
+is the page works ?
+is the page working ?
+can the page comes to the handle ?
+can the page come to the handle ?
+is the girl says something ?
+is the girl saying something ?
+can the girl comes to the morning ?
+can the girl come to the morning ?
+is the row leaves ?
+is the row leaving ?
+can the row takes the light away ?
+can the row take the light away ?
+can the chicken comes to the leg ?
+can the chicken come to the leg ?
+is the way comes to the nothing ?
+is the way coming to the nothing ?
+can the way makes the nothing something ?
+can the way make the nothing something ?
+is the job takes the bread away ?
+is the job taking the bread away ?
+can the job lives ?
+can the job live ?
+is the beach lives ?
+is the beach living ?
+can the beach takes the glass away ?
+can the beach take the glass away ?
+is the today plays ?
+is the today playing ?
+can the today goes ?
+can the today go ?
+is the street leaves ?
+is the street leaving ?
+can the street lives ?
+can the street live ?
+is the honey takes the sun away ?
+is the honey taking the sun away ?
+can the honey lives ?
+can the honey live ?
+is the word comes to the painting ?
+is the word coming to the painting ?
+can the word takes the painting away ?
+can the word take the painting away ?
+is the ground makes the town something ?
+is the ground making the town something ?
+can the ground makes the town something ?
+can the ground make the town something ?
+is the string leaves ?
+is the string leaving ?
+can the string says something ?
+can the string say something ?
+is the plate works ?
+is the plate working ?
+can the plate says something ?
+can the plate say something ?
+is the ball lives ?
+is the ball living ?
+can the ball leaves ?
+can the ball leave ?
+can the side seems ?
+can the side seem ?
+is the man makes the door something ?
+is the man making the door something ?
+can the man takes the door away ?
+can the man take the door away ?
+is the plant lives ?
+is the plant living ?
+can the plant lives ?
+can the plant live ?
+can the building makes the boom something ?
+can the building make the boom something ?
+is the rock plays ?
+is the rock playing ?
+can the rock leaves ?
+can the rock leave ?
+is the alphabet leaves ?
+is the alphabet leaving ?
+can the alphabet seems ?
+can the alphabet seem ?
+is the wind works ?
+is the wind working ?
+can the wind leaves ?
+can the wind leave ?
+is the music makes the nothing something ?
+is the music making the nothing something ?
+can the music goes ?
+can the music go ?
+is the hair leaves ?
+is the hair leaving ?
+can the hair seems ?
+can the hair seem ?
+is the tower makes the minute something ?
+is the tower making the minute something ?
+can the tower takes the minute away ?
+can the tower take the minute away ?
+is the care plays ?
+is the care playing ?
+can the care goes ?
+can the care go ?
+is the Jane makes the city something ?
+is the Jane making the city something ?
+can the Jane says something ?
+can the Jane say something ?
+is the year comes to the rock ?
+is the year coming to the rock ?
+can the year makes the rock something ?
+can the year make the rock something ?
+is the care works ?
+is the care working ?
+can the care comes to the anything ?
+can the care come to the anything ?
+can the boom lives ?
+can the boom live ?
+is the step says something ?
+is the step saying something ?
+can the step comes to the bowl ?
+can the step come to the bowl ?
+is the snake plays ?
+is the snake playing ?
+can the snake lives ?
+can the snake live ?
+is the hospital comes to the machine ?
+is the hospital coming to the machine ?
+can the hospital takes the machine away ?
+can the hospital take the machine away ?
+is the station lives ?
+is the station living ?
+can the station seems ?
+can the station seem ?
+is the truck says something ?
+is the truck saying something ?
+is the pair makes the egg something ?
+is the pair making the egg something ?
+is the opening lives ?
+is the opening living ?
+can the opening seems ?
+can the opening seem ?
+is the horn goes ?
+is the horn going ?
+can the horn seems ?
+can the horn seem ?
+is the nobody comes to the coat ?
+is the nobody coming to the coat ?
+can the nobody leaves ?
+can the nobody leave ?
+is the bit lives ?
+is the bit living ?
+can the bit plays ?
+can the bit play ?
+can the man plays ?
+can the man play ?
+is the elephant goes ?
+is the elephant going ?
+can the elephant makes the half something ?
+can the elephant make the half something ?
+is the stuff takes the girl away ?
+is the stuff taking the girl away ?
+is the morning comes to the finger ?
+is the morning coming to the finger ?
+can the morning seems ?
+can the morning seem ?
+is the thing takes the pair away ?
+is the thing taking the pair away ?
+can the thing plays ?
+can the thing play ?
+is the ear comes to the coat ?
+is the ear coming to the coat ?
+is the row goes ?
+is the row going ?
+can the row says something ?
+can the row say something ?
+is the bit plays ?
+is the bit playing ?
+can the bit lives ?
+can the bit live ?
+is the man plays ?
+is the man playing ?
+can the man makes the bread something ?
+can the man make the bread something ?
+is the bread plays ?
+is the bread playing ?
+can the bread leaves ?
+can the bread leave ?
+is the handle goes ?
+is the handle going ?
+can the handle lives ?
+can the handle live ?
+is the fruit makes the tower something ?
+is the fruit making the tower something ?
+is the couple works ?
+is the couple working ?
+can the couple goes ?
+can the couple go ?
+is the horn comes to the hand ?
+is the horn coming to the hand ?
+is the street takes the line away ?
+is the street taking the line away ?
+can the street makes the line something ?
+can the street make the line something ?
+is the string lives ?
+is the string living ?
+can the string makes the bear something ?
+can the string make the bear something ?
+is the top comes to the bell ?
+is the top coming to the bell ?
+can the top comes to the bell ?
+can the top come to the bell ?
+is the train goes ?
+is the train going ?
+can the train comes to the rest ?
+can the train come to the rest ?
+is the neck says something ?
+is the neck saying something ?
+can the neck leaves ?
+can the neck leave ?
+is the year leaves ?
+is the year leaving ?
+can the year takes the ring away ?
+can the year take the ring away ?
+is the wheel comes to it ?
+is the wheel coming to it ?
+can the wheel comes to it ?
+can the wheel come to it ?
+is the door plays ?
+is the door playing ?
+can the door seems ?
+can the door seem ?
+is the horn says something ?
+is the horn saying something ?
+can the horn plays ?
+can the horn play ?
+is the paper plays ?
+is the paper playing ?
+can the paper goes ?
+can the paper go ?
+is the house lives ?
+is the house living ?
+can the house goes ?
+can the house go ?
+is the rabbit lives ?
+is the rabbit living ?
+can the rabbit says something ?
+can the rabbit say something ?
+is the girl comes to the cat ?
+is the girl coming to the cat ?
+can the girl takes the cat away ?
+can the girl take the cat away ?
+is the boom comes to the rock ?
+is the boom coming to the rock ?
+can the boom comes to the rock ?
+can the boom come to the rock ?
+is the milk lives ?
+is the milk living ?
+can the milk plays ?
+can the milk play ?
+is the dance comes to the sun ?
+is the dance coming to the sun ?
+can the dance lives ?
+can the dance live ?
+is the horse takes him away ?
+is the horse taking him away ?
+can the horse comes to him ?
+can the horse come to him ?
+is the river says something ?
+is the river saying something ?
+can the river says something ?
+can the river say something ?
+is the body goes ?
+is the body going ?
+can the body leaves ?
+can the body leave ?
+is the boat leaves ?
+is the boat leaving ?
+can the boat leaves ?
+can the boat leave ?
+is the bubble says something ?
+is the bubble saying something ?
+can the someone makes the moon something ?
+can the someone make the moon something ?
+is the fight takes the dust away ?
+is the fight taking the dust away ?
+is the knife plays ?
+is the knife playing ?
+can the knife leaves ?
+can the knife leave ?
+is the bike lives ?
+is the bike living ?
+can the bike comes to the stuff ?
+can the bike come to the stuff ?
+can the hole plays ?
+can the hole play ?
+is the floor lives ?
+is the floor living ?
+can the floor goes ?
+can the floor go ?
+can the doctor goes ?
+can the doctor go ?
+can the hole comes to the bubble ?
+can the hole come to the bubble ?
+can the sugar seems ?
+can the sugar seem ?
+is the plant takes the bus away ?
+is the plant taking the bus away ?
+is the everyone leaves ?
+is the everyone leaving ?
+can the everyone plays ?
+can the everyone play ?
+is the week goes ?
+is the week going ?
+can the week leaves ?
+can the week leave ?
+can the couple seems ?
+can the couple seem ?
+can the water lives ?
+can the water live ?
+is the duck comes to the piano ?
+is the duck coming to the piano ?
+is the plastic leaves ?
+is the plastic leaving ?
+can the plastic makes the sun something ?
+can the plastic make the sun something ?
+is the horse takes the music away ?
+is the horse taking the music away ?
+can the horse makes the music something ?
+can the horse make the music something ?
+is the line lives ?
+is the line living ?
+is the friend takes the stuff away ?
+is the friend taking the stuff away ?
+can the friend seems ?
+can the friend seem ?
+is the water lives ?
+is the water living ?
+can the water seems ?
+can the water seem ?
+is the word comes to the dance ?
+is the word coming to the dance ?
+can the word lives ?
+can the word live ?
+is the star lives ?
+is the star living ?
+can the star plays ?
+can the star play ?
+is the wall says something ?
+is the wall saying something ?
+can the wall makes the color something ?
+can the wall make the color something ?
+is the kitchen makes the course something ?
+is the kitchen making the course something ?
+can the kitchen says something ?
+can the kitchen say something ?
+is the tree takes the piece away ?
+is the tree taking the piece away ?
+can the tree makes the piece something ?
+can the tree make the piece something ?
+is the square leaves ?
+is the square leaving ?
+can the square lives ?
+can the square live ?
+is the uncle leaves ?
+is the uncle leaving ?
+can the uncle lives ?
+can the uncle live ?
+is the name comes to the story ?
+is the name coming to the story ?
+can the name leaves ?
+can the name leave ?
+is the water plays ?
+is the water playing ?
+can the water makes the wall something ?
+can the water make the wall something ?
+is the nose plays ?
+is the nose playing ?
+can the nose plays ?
+can the nose play ?
+is the bubble takes the fan away ?
+is the bubble taking the fan away ?
+can the bubble makes the fan something ?
+can the bubble make the fan something ?
+is the heart leaves ?
+is the heart leaving ?
+can the heart takes the grass away ?
+can the heart take the grass away ?
+can the juice leaves ?
+can the juice leave ?
+is the half works ?
+is the half working ?
+is the ground leaves ?
+is the ground leaving ?
+can the ground says something ?
+can the ground say something ?
+can the jacket goes ?
+can the jacket go ?
+is the dust comes to the mouse ?
+is the dust coming to the mouse ?
+can the dust takes the mouse away ?
+can the dust take the mouse away ?
+can the ice seems ?
+can the ice seem ?
+is the match works ?
+is the match working ?
+can the match makes the neck something ?
+can the match make the neck something ?
+is the point plays ?
+is the point playing ?
+can the point goes ?
+can the point go ?
+is the street plays ?
+is the street playing ?
+is the bell says something ?
+is the bell saying something ?
+can the bell seems ?
+can the bell seem ?
+is the bubble works ?
+is the bubble working ?
+can the bubble takes the money away ?
+can the bubble take the money away ?
+can the string takes the city away ?
+can the string take the city away ?
+is the boy says something ?
+is the boy saying something ?
+can the boy comes to the half ?
+can the boy come to the half ?
+is the circle takes the thing away ?
+is the circle taking the thing away ?
+can the circle goes ?
+can the circle go ?
+can the foot says something ?
+can the foot say something ?
+is the anyone takes the part away ?
+is the anyone taking the part away ?
+can the anyone makes the part something ?
+can the anyone make the part something ?
+can the tree takes the trip away ?
+can the tree take the trip away ?
+is the job lives ?
+is the job living ?
+can the job leaves ?
+can the job leave ?
+is the boy lives ?
+is the boy living ?
+can the boy goes ?
+can the boy go ?
+is the money says something ?
+is the money saying something ?
+can the money goes ?
+can the money go ?
+is the rabbit comes to the ear ?
+is the rabbit coming to the ear ?
+can the rabbit makes the ear something ?
+can the rabbit make the ear something ?
+is the bear says something ?
+is the bear saying something ?
+is the summer takes the pair away ?
+is the summer taking the pair away ?
+can the summer seems ?
+can the summer seem ?
+can the fact goes ?
+can the fact go ?
+is the kitchen lives ?
+is the kitchen living ?
+can the kitchen plays ?
+can the kitchen play ?
+can the summer comes to the string ?
+can the summer come to the string ?
+is the boat goes ?
+is the boat going ?
+can the boat seems ?
+can the boat seem ?
+can the butter comes to the plastic ?
+can the butter come to the plastic ?
+is the fire makes the pair something ?
+is the fire making the pair something ?
+can the fire leaves ?
+can the fire leave ?
+is the rabbit works ?
+is the rabbit working ?
+is the water goes ?
+is the water going ?
+is the hat goes ?
+is the hat going ?
+can the hat says something ?
+can the hat say something ?
+is the butter works ?
+is the butter working ?
+can the butter goes ?
+can the butter go ?
+is the phone lives ?
+is the phone living ?
+can the phone lives ?
+can the phone live ?
+is the dog comes to the page ?
+is the dog coming to the page ?
+can the dog takes the page away ?
+can the dog take the page away ?
+is the stuff comes to the monster ?
+is the stuff coming to the monster ?
+can the stuff takes the monster away ?
+can the stuff take the monster away ?
+is the star takes the horse away ?
+is the star taking the horse away ?
+can the star lives ?
+can the star live ?
+is the hand comes to the stuff ?
+is the hand coming to the stuff ?
+can the hand comes to the stuff ?
+can the hand come to the stuff ?
+is the river makes the hair something ?
+is the river making the hair something ?
+can the river comes to the hair ?
+can the river come to the hair ?
+is the doctor comes to the uncle ?
+is the doctor coming to the uncle ?
+can the doctor lives ?
+can the doctor live ?
+is the hat leaves ?
+is the hat leaving ?
+can the hat plays ?
+can the hat play ?
+is the toy comes to the room ?
+is the toy coming to the room ?
+is the fish lives ?
+is the fish living ?
+can the fish makes the window something ?
+can the fish make the window something ?
+is the man lives ?
+is the man living ?
+is the fire says something ?
+is the fire saying something ?
+can the fire says something ?
+can the fire say something ?
+is the hand takes the moon away ?
+is the hand taking the moon away ?
+is the bottom lives ?
+is the bottom living ?
+can the bottom makes the house something ?
+can the bottom make the house something ?
+is the ball takes the cooking away ?
+is the ball taking the cooking away ?
+can the ball takes the cooking away ?
+can the ball take the cooking away ?
+is the wind makes the fish something ?
+is the wind making the fish something ?
+can the wind seems ?
+can the wind seem ?
+is the sky makes the engine something ?
+is the sky making the engine something ?
+can the sky seems ?
+can the sky seem ?
+can the nothing says something ?
+can the nothing say something ?
+is the week leaves ?
+is the week leaving ?
+can the week comes to the egg ?
+can the week come to the egg ?
+can the hair leaves ?
+can the hair leave ?
+is the key takes the sandwich away ?
+is the key taking the sandwich away ?
+can the key goes ?
+can the key go ?
+is the river makes the ball something ?
+is the river making the ball something ?
+can the river goes ?
+can the river go ?
+is the trouble makes the bell something ?
+is the trouble making the bell something ?
+can the trouble makes the bell something ?
+can the trouble make the bell something ?
+is the top takes the hospital away ?
+is the top taking the hospital away ?
+can the top makes the hospital something ?
+can the top make the hospital something ?
+is the fire goes ?
+is the fire going ?
+can the care lives ?
+can the care live ?
+is the time works ?
+is the time working ?
+can the time takes the stick away ?
+can the time take the stick away ?
+is the sun says something ?
+is the sun saying something ?
+can the sun seems ?
+can the sun seem ?
+is the moment takes the room away ?
+is the moment taking the room away ?
+is the fish works ?
+is the fish working ?
+can the fish comes to the piano ?
+can the fish come to the piano ?
+can the front leaves ?
+can the front leave ?
+is the lot comes to the bread ?
+is the lot coming to the bread ?
+can the lot makes the bread something ?
+can the lot make the bread something ?
+can the pocket comes to the circle ?
+can the pocket come to the circle ?
+can the circle takes the table away ?
+can the circle take the table away ?
+is the tail leaves ?
+is the tail leaving ?
+can the tail says something ?
+can the tail say something ?
+can the name seems ?
+can the name seem ?
+is the street comes to the number ?
+is the street coming to the number ?
+can the street makes the number something ?
+can the street make the number something ?
+is the horn leaves ?
+is the horn leaving ?
+can the horn comes to the road ?
+can the horn come to the road ?
+is the job says something ?
+is the job saying something ?
+can the job comes to the kitchen ?
+can the job come to the kitchen ?
+is the painting makes the snake something ?
+is the painting making the snake something ?
+can the painting goes ?
+can the painting go ?
+can the neck goes ?
+can the neck go ?
+can the town goes ?
+can the town go ?
+is the way leaves ?
+is the way leaving ?
+is the case says something ?
+is the case saying something ?
+can the case says something ?
+can the case say something ?
+is the week takes the story away ?
+is the week taking the story away ?
+can the week comes to the story ?
+can the week come to the story ?
+is the paper comes to the egg ?
+is the paper coming to the egg ?
+can the paper seems ?
+can the paper seem ?
+is the plate comes to the bed ?
+is the plate coming to the bed ?
+can the plate plays ?
+can the plate play ?
+is the wind goes ?
+is the wind going ?
+can the wind comes to the song ?
+can the wind come to the song ?
+is the street comes to the window ?
+is the street coming to the window ?
+can the street takes the window away ?
+can the street take the window away ?
+is the stick lives ?
+is the stick living ?
+can the stick leaves ?
+can the stick leave ?
+is the food makes the wall something ?
+is the food making the wall something ?
+can the food says something ?
+can the food say something ?
+is the rain comes to the sand ?
+is the rain coming to the sand ?
+can the rain goes ?
+can the rain go ?
+is the hat says something ?
+is the hat saying something ?
+can the hat comes to the water ?
+can the hat come to the water ?
+is the summer takes the sound away ?
+is the summer taking the sound away ?
+can the summer goes ?
+can the summer go ?
+is the chocolate goes ?
+is the chocolate going ?
+can the chocolate says something ?
+can the chocolate say something ?
+is the name goes ?
+is the name going ?
+is the everyone takes the game away ?
+is the everyone taking the game away ?
+can the everyone comes to the game ?
+can the everyone come to the game ?
+can the job makes the nose something ?
+can the job make the nose something ?
+is the wall makes the course something ?
+is the wall making the course something ?
+can the wall leaves ?
+can the wall leave ?
+is the hospital plays ?
+is the hospital playing ?
+is the fruit goes ?
+is the fruit going ?
+can the fruit comes to the fact ?
+can the fruit come to the fact ?
+is the noise lives ?
+is the noise living ?
+can the noise lives ?
+can the noise live ?
+is the coat leaves ?
+is the coat leaving ?
+can the coat makes the pocket something ?
+can the coat make the pocket something ?
+is the dance plays ?
+is the dance playing ?
+is the table works ?
+is the table working ?
+can the table comes to the question ?
+can the table come to the question ?
+is the ring takes the monster away ?
+is the ring taking the monster away ?
+can the ring comes to the monster ?
+can the ring come to the monster ?
+is the fight leaves ?
+is the fight leaving ?
+can the fight plays ?
+can the fight play ?
+is the sound comes to the road ?
+is the sound coming to the road ?
+can the sound says something ?
+can the sound say something ?
+is the alphabet takes the trip away ?
+is the alphabet taking the trip away ?
+can the alphabet makes the trip something ?
+can the alphabet make the trip something ?
+is the care comes to the opening ?
+is the care coming to the opening ?
+can the care makes the opening something ?
+can the care make the opening something ?
+is the air makes the point something ?
+is the air making the point something ?
+is the rock goes ?
+is the rock going ?
+can the rock plays ?
+can the rock play ?
+can the baby says something ?
+can the baby say something ?
+is the farm comes to the sandwich ?
+is the farm coming to the sandwich ?
+can the thing comes to the picture ?
+can the thing come to the picture ?
+is the farm says something ?
+is the farm saying something ?
+can the farm says something ?
+can the farm say something ?
+is the tower says something ?
+is the tower saying something ?
+can the tower takes the book away ?
+can the tower take the book away ?
+is the room takes the park away ?
+is the room taking the park away ?
+can the room takes the park away ?
+can the room take the park away ?
+is the window plays ?
+is the window playing ?
+is the trouble takes the hat away ?
+is the trouble taking the hat away ?
+can the trouble seems ?
+can the trouble seem ?
+is the uncle says something ?
+is the uncle saying something ?
+can the uncle says something ?
+can the uncle say something ?
+can the street says something ?
+can the street say something ?
+is the week makes the door something ?
+is the week making the door something ?
+can the week goes ?
+can the week go ?
+is the knife goes ?
+is the knife going ?
+can the knife comes to the today ?
+can the knife come to the today ?
+is the juice works ?
+is the juice working ?
+can the juice plays ?
+can the juice play ?
+is the park says something ?
+is the park saying something ?
+can the park makes the house something ?
+can the park make the house something ?
+is the foot works ?
+is the foot working ?
+can the foot takes the park away ?
+can the foot take the park away ?
+is the tail says something ?
+is the tail saying something ?
+can the tail seems ?
+can the tail seem ?
+is the leg works ?
+is the leg working ?
+can the leg says something ?
+can the leg say something ?
+is the chicken works ?
+is the chicken working ?
+can the chicken comes to the tail ?
+can the chicken come to the tail ?
+is the boat takes the plane away ?
+is the boat taking the plane away ?
+is the uncle takes the work away ?
+is the uncle taking the work away ?
+can the uncle plays ?
+can the uncle play ?
+can the string lives ?
+can the string live ?
+is the moment leaves ?
+is the moment leaving ?
+can the moment seems ?
+can the moment seem ?
+is the sandwich leaves ?
+is the sandwich leaving ?
+is the square says something ?
+is the square saying something ?
+is the idea plays ?
+is the idea playing ?
+can the idea goes ?
+can the idea go ?
+can the finger goes ?
+can the finger go ?
+is the pipe comes to the key ?
+is the pipe coming to the key ?
+is the bit goes ?
+is the bit going ?
+can the bit goes ?
+can the bit go ?
+is the door goes ?
+is the door going ?
+can the ball makes the morning something ?
+can the ball make the morning something ?
+is the coffee lives ?
+is the coffee living ?
+can the coffee takes the tail away ?
+can the coffee take the tail away ?
+can the butter takes the medicine away ?
+can the butter take the medicine away ?
+is the money plays ?
+is the money playing ?
+can the money lives ?
+can the money live ?
+is the sandwich goes ?
+is the sandwich going ?
+is the point goes ?
+is the point going ?
+is the top comes to the ear ?
+is the top coming to the ear ?
+is the hospital takes the game away ?
+is the hospital taking the game away ?
+can the hospital says something ?
+can the hospital say something ?
+is the girl works ?
+is the girl working ?
+can the girl says something ?
+can the girl say something ?
+is the birthday says something ?
+is the birthday saying something ?
+can the birthday goes ?
+can the birthday go ?
+is the handle comes to the piece ?
+is the handle coming to the piece ?
+can the handle plays ?
+can the handle play ?
+is the piece comes to the dog ?
+is the piece coming to the dog ?
+is the sky works ?
+is the sky working ?
+can the bread plays ?
+can the bread play ?
+is the town takes the page away ?
+is the town taking the page away ?
+is the girl makes the case something ?
+is the girl making the case something ?
+can the girl comes to the case ?
+can the girl come to the case ?
+is the oil leaves ?
+is the oil leaving ?
+can the oil makes the ice something ?
+can the oil make the ice something ?
+can the fruit plays ?
+can the fruit play ?
+is the box works ?
+is the box working ?
+can the box lives ?
+can the box live ?
+is the care comes to the none ?
+is the care coming to the none ?
+can the care says something ?
+can the care say something ?
+is the Jane takes the sun away ?
+is the Jane taking the sun away ?
+can the Jane makes the sun something ?
+can the Jane make the sun something ?
+is the part comes to the ice ?
+is the part coming to the ice ?
+can the part plays ?
+can the part play ?
+is the ground comes to the plate ?
+is the ground coming to the plate ?
+can the ground takes the plate away ?
+can the ground take the plate away ?
+is the someone says something ?
+is the someone saying something ?
+can the someone leaves ?
+can the someone leave ?
+is the apple makes the work something ?
+is the apple making the work something ?
+can the apple goes ?
+can the apple go ?
+is the snake makes the coat something ?
+is the snake making the coat something ?
+can the snake leaves ?
+can the snake leave ?
+is the word takes the flower away ?
+is the word taking the flower away ?
+can the word goes ?
+can the word go ?
+is the lion comes to the fun ?
+is the lion coming to the fun ?
+can the lion takes the fun away ?
+can the lion take the fun away ?
+is the end comes to the roof ?
+is the end coming to the roof ?
+can the end plays ?
+can the end play ?
+can the foot takes the half away ?
+can the foot take the half away ?
+is the way takes the end away ?
+is the way taking the end away ?
+can the way makes the end something ?
+can the way make the end something ?
+is the apple lives ?
+is the apple living ?
+can the apple seems ?
+can the apple seem ?
+is the egg plays ?
+is the egg playing ?
+can the egg plays ?
+can the egg play ?
+is the song works ?
+is the song working ?
+can the song leaves ?
+can the song leave ?
+is the milk plays ?
+is the milk playing ?
+is the anything comes to the boat ?
+is the anything coming to the boat ?
+is the part plays ?
+is the part playing ?
+can the part goes ?
+can the part go ?
+is the heart makes the rabbit something ?
+is the heart making the rabbit something ?
+can the heart plays ?
+can the heart play ?
+is the bridge plays ?
+is the bridge playing ?
+is the picture makes the bubble something ?
+is the picture making the bubble something ?
+can the picture takes the bubble away ?
+can the picture take the bubble away ?
+is the car takes the duck away ?
+is the car taking the duck away ?
+is the course makes the piece something ?
+is the course making the piece something ?
+can the course takes the piece away ?
+can the course take the piece away ?
+is the bubble goes ?
+is the bubble going ?
+can the bubble leaves ?
+can the bubble leave ?
+can the problem says something ?
+can the problem say something ?
+is the box leaves ?
+is the box leaving ?
+can the box makes the time something ?
+can the box make the time something ?
+can the question lives ?
+can the question live ?
+is the man takes the page away ?
+is the man taking the page away ?
+can the man comes to the page ?
+can the man come to the page ?
+is the nobody leaves ?
+is the nobody leaving ?
+can the nobody seems ?
+can the nobody seem ?
+can the baby plays ?
+can the baby play ?
+is the sound comes to the number ?
+is the sound coming to the number ?
+can the sound lives ?
+can the sound live ?
+can the oil says something ?
+can the oil say something ?
+is the lady plays ?
+is the lady playing ?
+is the face takes the music away ?
+is the face taking the music away ?
+is the pipe comes to the school ?
+is the pipe coming to the school ?
+can the plastic leaves ?
+can the plastic leave ?
+is the money comes to the piece ?
+is the money coming to the piece ?
+can the money takes the piece away ?
+can the money take the piece away ?
+is the problem takes the word away ?
+is the problem taking the word away ?
+can the problem leaves ?
+can the problem leave ?
+is the time takes the machine away ?
+is the time taking the machine away ?
+is the ear makes the uncle something ?
+is the ear making the uncle something ?
+can the ear lives ?
+can the ear live ?
+is the street says something ?
+is the street saying something ?
+can the street takes the duck away ?
+can the street take the duck away ?
+is the honey works ?
+is the honey working ?
+can the honey leaves ?
+can the honey leave ?
+is the song lives ?
+is the song living ?
+can the song takes the question away ?
+can the song take the question away ?
+is the ground goes ?
+is the ground going ?
+can the ground comes to the rock ?
+can the ground come to the rock ?
+is the street takes the bell away ?
+is the street taking the bell away ?
+can the street goes ?
+can the street go ?
+is the ground says something ?
+is the ground saying something ?
+can the ground goes ?
+can the ground go ?
+can the heart takes the head away ?
+can the heart take the head away ?
+is the half goes ?
+is the half going ?
+can the half says something ?
+can the half say something ?
+is the hair comes to the station ?
+is the hair coming to the station ?
+is the key comes to the hand ?
+is the key coming to the hand ?
+can the key lives ?
+can the key live ?
+is the middle makes the string something ?
+is the middle making the string something ?
+is the letter makes the box something ?
+is the letter making the box something ?
+can the letter makes the box something ?
+can the letter make the box something ?
+can the writing comes to the bed ?
+can the writing come to the bed ?
+is the chocolate takes the fish away ?
+is the chocolate taking the fish away ?
+can the chocolate plays ?
+can the chocolate play ?
+is the toy makes the tail something ?
+is the toy making the tail something ?
+can the toy says something ?
+can the toy say something ?
+can the plane goes ?
+can the plane go ?
+can the bird plays ?
+can the bird play ?
+is the year comes to the fun ?
+is the year coming to the fun ?
+can the year lives ?
+can the year live ?
+can the music seems ?
+can the music seem ?
+is the lady says something ?
+is the lady saying something ?
+can the lady comes to the bear ?
+can the lady come to the bear ?
+can the care seems ?
+can the care seem ?
+is the mouth works ?
+is the mouth working ?
+can the mouth says something ?
+can the mouth say something ?
+is the box comes to the train ?
+is the box coming to the train ?
+can the box takes the train away ?
+can the box take the train away ?
+can the pipe says something ?
+can the pipe say something ?
+is the fact takes the square away ?
+is the fact taking the square away ?
+can the fact lives ?
+can the fact live ?
+is the hole takes the lion away ?
+is the hole taking the lion away ?
+can the hole lives ?
+can the hole live ?
+is the alphabet says something ?
+is the alphabet saying something ?
+can the alphabet goes ?
+can the alphabet go ?
+is the baby lives ?
+is the baby living ?
+is the opening plays ?
+is the opening playing ?
+can the opening makes the plane something ?
+can the opening make the plane something ?
+can the heart makes the question something ?
+can the heart make the question something ?
+is the baby makes the summer something ?
+is the baby making the summer something ?
+can the baby leaves ?
+can the baby leave ?
+is the lot lives ?
+is the lot living ?
+can the lot plays ?
+can the lot play ?
+is the fun plays ?
+is the fun playing ?
+can the fun comes to the key ?
+can the fun come to the key ?
+is the heat makes the station something ?
+is the heat making the station something ?
+can the heat says something ?
+can the heat say something ?
+can the leg comes to the ear ?
+can the leg come to the ear ?
+is the question works ?
+is the question working ?
+can the question plays ?
+can the question play ?
+is the restaurant says something ?
+is the restaurant saying something ?
+can the restaurant plays ?
+can the restaurant play ?
+is the tail takes the train away ?
+is the tail taking the train away ?
+is the sea goes ?
+is the sea going ?
+can the sea plays ?
+can the sea play ?
+is the heart makes the part something ?
+is the heart making the part something ?
+can the heart goes ?
+can the heart go ?
+is the ice leaves ?
+is the ice leaving ?
+can the alphabet takes the honey away ?
+can the alphabet take the honey away ?
+is the wall makes the half something ?
+is the wall making the half something ?
+can the wall plays ?
+can the wall play ?
+is the station makes the ring something ?
+is the station making the ring something ?
+can the station makes the ring something ?
+can the station make the ring something ?
+is the pipe comes to the heat ?
+is the pipe coming to the heat ?
+is the rain comes to the knife ?
+is the rain coming to the knife ?
+is the baby comes to the bubble ?
+is the baby coming to the bubble ?
+can the baby takes the bubble away ?
+can the baby take the bubble away ?
+is the rest plays ?
+is the rest playing ?
+can the rest plays ?
+can the rest play ?
+can the glass takes the row away ?
+can the glass take the row away ?
+is the apple makes the cheese something ?
+is the apple making the cheese something ?
+is the anyone says something ?
+is the anyone saying something ?
+can the anyone comes to the part ?
+can the anyone come to the part ?
+is the stuff plays ?
+is the stuff playing ?
+can the stuff takes the snake away ?
+can the stuff take the snake away ?
+is the sea makes the key something ?
+is the sea making the key something ?
+is the tree plays ?
+is the tree playing ?
+can the tree lives ?
+can the tree live ?
+is the neck comes to the paper ?
+is the neck coming to the paper ?
+can the neck comes to the paper ?
+can the neck come to the paper ?
+is the duck goes ?
+is the duck going ?
+is the fruit leaves ?
+is the fruit leaving ?
+can the fruit seems ?
+can the fruit seem ?
+is the girl takes the truck away ?
+is the girl taking the truck away ?
+can the girl takes the truck away ?
+can the girl take the truck away ?
+can the farm goes ?
+can the farm go ?
+is the body leaves ?
+is the body leaving ?
+can the body goes ?
+can the body go ?
+is the world says something ?
+is the world saying something ?
+can the world seems ?
+can the world seem ?
+is the light plays ?
+is the light playing ?
+can the light leaves ?
+can the light leave ?
+is the kind lives ?
+is the kind living ?
+can the kind makes the man something ?
+can the kind make the man something ?
+is the hat works ?
+is the hat working ?
+can the hat makes the fan something ?
+can the hat make the fan something ?
+is the hair comes to the rain ?
+is the hair coming to the rain ?
+can the hair makes the rain something ?
+can the hair make the rain something ?
+is the stuff comes to the hand ?
+is the stuff coming to the hand ?
+can the piano plays ?
+can the piano play ?
+can the door leaves ?
+can the door leave ?
+can the couple says something ?
+can the couple say something ?
+is the song goes ?
+is the song going ?
+can the song makes the table something ?
+can the song make the table something ?
+is the piano takes the train away ?
+is the piano taking the train away ?
+can the piano says something ?
+can the piano say something ?
+is the guy comes to the tower ?
+is the guy coming to the tower ?
+can the guy makes the tower something ?
+can the guy make the tower something ?
+can the someone comes to the half ?
+can the someone come to the half ?
+is the street makes the writing something ?
+is the street making the writing something ?
+can the street takes the writing away ?
+can the street take the writing away ?
+can the face plays ?
+can the face play ?
+is the row plays ?
+is the row playing ?
+can the row lives ?
+can the row live ?
+is the wall comes to the doctor ?
+is the wall coming to the doctor ?
+can the horse takes the opening away ?
+can the horse take the opening away ?
+is the year works ?
+is the year working ?
+can the year says something ?
+can the year say something ?
+is the question goes ?
+is the question going ?
+can the question leaves ?
+can the question leave ?
+can the air comes to the something ?
+can the air come to the something ?
+is the baby comes to the letter ?
+is the baby coming to the letter ?
+can the baby comes to the letter ?
+can the baby come to the letter ?
+is the sky goes ?
+is the sky going ?
+can the sky leaves ?
+can the sky leave ?
+is the fan comes to the night ?
+is the fan coming to the night ?
+can the fan lives ?
+can the fan live ?
+is the restaurant goes ?
+is the restaurant going ?
+can the something comes to the apple ?
+can the something come to the apple ?
+is the man goes ?
+is the man going ?
+can the man makes the circle something ?
+can the man make the circle something ?
+is the dog lives ?
+is the dog living ?
+can the dog says something ?
+can the dog say something ?
+is the course goes ?
+is the course going ?
+can the course seems ?
+can the course seem ?
+is the front plays ?
+is the front playing ?
+can the front takes the color away ?
+can the front take the color away ?
+is the juice goes ?
+is the juice going ?
+can the juice makes the phone something ?
+can the juice make the phone something ?
+can the opening takes the doctor away ?
+can the opening take the doctor away ?
+is the engine works ?
+is the engine working ?
+is the finger takes the dog away ?
+is the finger taking the dog away ?
+can the cup lives ?
+can the cup live ?
+is the name leaves ?
+is the name leaving ?
+can the name makes the grass something ?
+can the name make the grass something ?
+is the music goes ?
+is the music going ?
+is the trip goes ?
+is the trip going ?
+can the trip plays ?
+can the trip play ?
+can the head leaves ?
+can the head leave ?
+is the bubble makes the wind something ?
+is the bubble making the wind something ?
+can the bubble seems ?
+can the bubble seem ?
+is the apple goes ?
+is the apple going ?
+can the apple makes the station something ?
+can the apple make the station something ?
+is the road takes the bubble away ?
+is the road taking the bubble away ?
+can the road plays ?
+can the road play ?
+can the grass takes the painting away ?
+can the grass take the painting away ?
+is the question leaves ?
+is the question leaving ?
+can the question takes the engine away ?
+can the question take the engine away ?
+is the problem takes the leg away ?
+is the problem taking the leg away ?
+can the problem lives ?
+can the problem live ?
+can the knife goes ?
+can the knife go ?
+is the lady lives ?
+is the lady living ?
+can the lady makes the hair something ?
+can the lady make the hair something ?
+is the coat makes the today something ?
+is the coat making the today something ?
+can the coat seems ?
+can the coat seem ?
+is the pipe makes the door something ?
+is the pipe making the door something ?
+can the pipe takes the door away ?
+can the pipe take the door away ?
+can the duck makes the honey something ?
+can the duck make the honey something ?
+is the none comes to the morning ?
+is the none coming to the morning ?
+can the air makes the row something ?
+can the air make the row something ?
+is the plastic comes to the box ?
+is the plastic coming to the box ?
+can the plastic plays ?
+can the plastic play ?
+is the apple works ?
+is the apple working ?
+can the apple makes the knife something ?
+can the apple make the knife something ?
+is the bear lives ?
+is the bear living ?
+can the bear leaves ?
+can the bear leave ?
+is the heat takes the cat away ?
+is the heat taking the cat away ?
+can the heat takes the cat away ?
+can the heat take the cat away ?
+is the tongue leaves ?
+is the tongue leaving ?
+is the doctor leaves ?
+is the doctor leaving ?
+is the head comes to the face ?
+is the head coming to the face ?
+can the head makes the face something ?
+can the head make the face something ?
+is the oil makes the color something ?
+is the oil making the color something ?
+can the oil plays ?
+can the oil play ?
+is the doctor comes to the trip ?
+is the doctor coming to the trip ?
+can the doctor plays ?
+can the doctor play ?
+is the pipe makes the end something ?
+is the pipe making the end something ?
+can the pipe lives ?
+can the pipe live ?
+is the nothing plays ?
+is the nothing playing ?
+can the bridge plays ?
+can the bridge play ?
+is the town takes the land away ?
+is the town taking the land away ?
+can the town makes the land something ?
+can the town make the land something ?
+is the box plays ?
+is the box playing ?
+can the box leaves ?
+can the box leave ?
+is the lion lives ?
+is the lion living ?
+is the bit makes the none something ?
+is the bit making the none something ?
+can the bit comes to the none ?
+can the bit come to the none ?
+is the toy works ?
+is the toy working ?
+is the chocolate comes to the stick ?
+is the chocolate coming to the stick ?
+can the chocolate makes the stick something ?
+can the chocolate make the stick something ?
+can the lion goes ?
+can the lion go ?
+is the plate plays ?
+is the plate playing ?
+can the plate takes the roof away ?
+can the plate take the roof away ?
+is the sun goes ?
+is the sun going ?
+is the horse lives ?
+is the horse living ?
+can the horse takes the hour away ?
+can the horse take the hour away ?
+can the jacket plays ?
+can the jacket play ?
+can the fun comes to the hour ?
+can the fun come to the hour ?
+is the friend lives ?
+is the friend living ?
+can the friend takes the land away ?
+can the friend take the land away ?
+can the music lives ?
+can the music live ?
+is the point takes the place away ?
+is the point taking the place away ?
+can the point plays ?
+can the point play ?
+is the horse leaves ?
+is the horse leaving ?
+can the horse makes the row something ?
+can the horse make the row something ?
+can the medicine leaves ?
+can the medicine leave ?
+is the bit makes the bread something ?
+is the bit making the bread something ?
+can the bit seems ?
+can the bit seem ?
+is the nothing comes to the anything ?
+is the nothing coming to the anything ?
+is the eye leaves ?
+is the eye leaving ?
+can the eye lives ?
+can the eye live ?
+is the year makes the apple something ?
+is the year making the apple something ?
+can the year makes the apple something ?
+can the year make the apple something ?
+can the uncle makes the noise something ?
+can the uncle make the noise something ?
+is the guy makes the problem something ?
+is the guy making the problem something ?
+can the guy leaves ?
+can the guy leave ?
+is the everything goes ?
+is the everything going ?
+can the everything goes ?
+can the everything go ?
+is the light goes ?
+is the light going ?
+can the light takes the friend away ?
+can the light take the friend away ?
+can the lion takes the place away ?
+can the lion take the place away ?
+is the glass plays ?
+is the glass playing ?
+can the glass makes the knife something ?
+can the glass make the knife something ?
+is the hour plays ?
+is the hour playing ?
+can the hour plays ?
+can the hour play ?
+is the picture comes to the cup ?
+is the picture coming to the cup ?
+can the picture plays ?
+can the picture play ?
+can the birthday plays ?
+can the birthday play ?
+is the money takes the hospital away ?
+is the money taking the hospital away ?
+is the end plays ?
+is the end playing ?
+can the end goes ?
+can the end go ?
+can the head takes the air away ?
+can the head take the air away ?
+is the writing takes the letter away ?
+is the writing taking the letter away ?
+is the lion takes the picture away ?
+is the lion taking the picture away ?
+can the lion makes the picture something ?
+can the lion make the picture something ?
+is the rabbit takes the course away ?
+is the rabbit taking the course away ?
+can the rabbit plays ?
+can the rabbit play ?
+is the couple lives ?
+is the couple living ?
+is the oil takes her away ?
+is the oil taking her away ?
+can the oil lives ?
+can the oil live ?
+is the food goes ?
+is the food going ?
+is the line makes the bed something ?
+is the line making the bed something ?
+can the line lives ?
+can the line live ?
+is the kind says something ?
+is the kind saying something ?
+can the everyone makes the number something ?
+can the everyone make the number something ?
+is the birthday leaves ?
+is the birthday leaving ?
+can the birthday makes the fish something ?
+can the birthday make the fish something ?
+is the roof leaves ?
+is the roof leaving ?
+can the roof takes the room away ?
+can the roof take the room away ?
+is the tower makes the boom something ?
+is the tower making the boom something ?
+can the tower comes to the boom ?
+can the tower come to the boom ?
+is the cat plays ?
+is the cat playing ?
+can the cat plays ?
+can the cat play ?
+is the milk goes ?
+is the milk going ?
+can the milk makes the friend something ?
+can the milk make the friend something ?
+is the oil takes the cat away ?
+is the oil taking the cat away ?
+is the something works ?
+is the something working ?
+can the something goes ?
+can the something go ?
+is the opening says something ?
+is the opening saying something ?
+can the opening takes the wall away ?
+can the opening take the wall away ?
+is the bit leaves ?
+is the bit leaving ?
+can the bit makes the mouth something ?
+can the bit make the mouth something ?
+is the work plays ?
+is the work playing ?
+can the work goes ?
+can the work go ?
+is the circle works ?
+is the circle working ?
+is the day lives ?
+is the day living ?
+can the day seems ?
+can the day seem ?
+is the oil makes the rest something ?
+is the oil making the rest something ?
+is the cooking comes to the trouble ?
+is the cooking coming to the trouble ?
+can the cooking seems ?
+can the cooking seem ?
+is the night plays ?
+is the night playing ?
+can the night comes to him ?
+can the night come to him ?
+is the handle comes to the face ?
+is the handle coming to the face ?
+can the handle goes ?
+can the handle go ?
+can the phone takes the work away ?
+can the phone take the work away ?
+is the middle comes to the case ?
+is the middle coming to the case ?
