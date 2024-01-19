@@ -118,5 +118,5 @@ if __name__ == "__main__":
 
     print(f"n_total_saved_paradigms={len(paradigm_sentences)}")
     for (phenomenon, paradigm), sentences in paradigm_sentences.items():
-        if len(sentences) < 4000:
+        if len(sentences) < configs.Data.num_pairs_per_paradigm * 2:
             print(f"{phenomenon} {paradigm}: {len(sentences)}")
